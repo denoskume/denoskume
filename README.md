@@ -1,6 +1,6 @@
 # Denos Kume
 
-**Final-year MSc Student in Data Science, Signal & Image Processing at Centrale Nantes**
+**Final-year MSc Student in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/english-version)**
 
 Machine Learning • Computer Vision • Signal Processing • Image Processing
 
@@ -8,7 +8,7 @@ I am preparing for a **6-month final-year internship starting January 2027**, wi
 
 ## About Me
 
-- Final-year MSc student in **Data Science, Signal and Image Processing** at **Centrale Nantes**
+- Final-year MSc student in **Data Science, Signal and Image Processing** at **[Centrale Nantes](https://www.ec-nantes.fr/english-version)**
 - Background in **Computer Science & Electronics**
 - Interested in applied ML systems, visual intelligence, image analysis and signal-based data problems
 - Currently strengthening my software and ML engineering foundations through a structured mastery programme
@@ -59,11 +59,11 @@ Academic research project on the **ESC-50 environmental sound dataset** using a 
 
 ## Education
 
-### Centrale Nantes
+### [Centrale Nantes](https://www.ec-nantes.fr/english-version)
 **MSc — Data Science, Signal and Image Processing**  
 2025–2027
 
-### Kristu Jayanti College
+### [Kristu Jayanti College](https://www.kristujayanti.edu.in/)
 **Bachelor's — Computer Science & Electronics**  
 2021–2025
 
