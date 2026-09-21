@@ -1,83 +1,137 @@
 # Denos Kume
 
-**Final-year MSc Student in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/english-version)**  
-Machine Learning • Computer Vision • Signal Processing • Image Processing
+**Final-year MSc Student — Data Science, Signal & Image Processing @ Centrale Nantes**  
+Applied Machine Learning • Computer Vision • Image Processing • Deep Learning
 
-> Seeking a **6-month final-year internship starting January 2027** in France, with a focus on applied Machine Learning, Computer Vision, Image Processing and Signal Processing.
+I build reproducible ML and Computer Vision systems with an emphasis on **real pipelines, evaluation, engineering quality, and practical deployment**.
+
+> Seeking a **6-month final-year internship starting January 2027** in France in Machine Learning, Computer Vision, Image Processing, or Applied AI.
 
 ---
 
-## Professional Profile
+## Selected Engineering Work
 
-I am completing an MSc in **Data Science, Signal and Image Processing** at [Centrale Nantes](https://www.ec-nantes.fr/english-version), with a background in **Computer Science & Electronics**. My current focus is building strong engineering foundations for applied ML and vision systems, with particular interest in industrial problems, reproducible workflows and deployable solutions.
+### [MonStage](https://github.com/denoskume/monstage)
 
-| Area | Focus |
-| --- | --- |
-| **Machine Learning** | Classical ML, evaluation, feature engineering, model selection |
-| **Computer Vision** | Image classification, detection, segmentation, visual inspection |
-| **Image Processing** | Filtering, morphology, transforms, feature extraction |
-| **Signal Processing** | Filtering, FFT/STFT, spectral analysis, anomaly detection |
-| **Data & Time Series** | Data analysis, SQL, multivariate time series, sensor data |
-| **ML Engineering** | APIs, testing, Docker, CI/CD, reproducible pipelines |
+A responsive **internship intelligence platform** for discovering, filtering, prioritizing, and tracking opportunities across France.
+
+**Architecture:** React + TypeScript + Vite → Google Identity → Cloudflare Worker → Google Apps Script → private Google Sheet
+
+**Engineering highlights**
+- Google Sign-In with server-side authorization
+- Responsive job-board UX for desktop and mobile
+- Search, filters, ranking, shortlist, and application pipeline
+- Cloudflare Worker authentication gateway
+- GitHub Actions deployment
+- E2E coverage across desktop, mobile, and 360 px viewport
+- Secret-gated backend and production bundle checks
+
+---
+
+### [Master SIP — Centrale Nantes](https://github.com/denoskume/Master_SIP_EC-Nantes)
+
+Academic engineering repository covering Computer Vision, Image Processing, Deep Learning, and multimodal ML experiments.
+
+#### Computer Vision
+
+- **[Camera Calibration](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works/Computer_Vision/Camera_Calibration)** — Zhang planar calibration, normalized DLT, SVD, intrinsic matrix estimation, camera pose recovery, and reprojection-error analysis.
+- **[Feature Detection & Object Tracking](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works/Computer_Vision/Feature_Detection)** — ORB descriptors, Hamming matching, RANSAC homography estimation, perspective transformation, and tracking-quality analysis.
+- **[Deep Learning](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works/Computer_Vision/Deep_Learning)** — PyTorch MLPs for MNIST classification with BatchNorm, Adam, confidence analysis, precision, recall, and architecture comparison.
+
+#### Image Processing
+
+- Spatial-domain filtering and convolution
+- Frequency-domain filtering and Fourier analysis
+- Image transformations
+- Segmentation workflows and morphology
+
+#### Multimodal ML
+
+**[Prompt Engineering for Unsupervised Audio Classification Using CLAP](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification)**
+
+Zero-shot ESC-50 classification using LAION-CLAP and ten prompt strategies.
+
+- Best prompt: `an audio recording of {}`
+- **91.15% Top-1 accuracy**
+- **97.45% Top-3**
+- **99.00% Top-5**
+- +8.10 percentage points over the class-only prompt
+- Class-wise analysis, Top-k evaluation, and AudioSet metadata comparison
+
+---
+
+## Current R&D
+
+### VisionPlus3D — Private project, in development
+
+End-to-end Computer Vision and 3D perception system for construction-site monitoring.
+
+Current direction:
+
+```text
+site imagery
+    ↓
+data ingestion & quality checks
+    ↓
+open-vocabulary detection
+    ↓
+structured predictions + annotated outputs
+    ↓
+evaluation / benchmark
+    ↓
+segmentation + 3D scene processing
+    ↓
+automated reporting
+```
+
+The repository remains private while the system is being rebuilt to professional engineering standards.
+
+---
 
 ## Technical Stack
 
-| Category | Technologies |
+| Area | Technologies |
 | --- | --- |
-| **Programming** | `Python` `SQL` |
-| **Data** | `NumPy` `pandas` `scikit-learn` |
-| **Deep Learning** | `PyTorch` |
-| **Vision & Imaging** | `OpenCV` |
-| **Engineering** | `Git` `GitHub` `Linux` `Bash` `FastAPI` `Docker` |
-| **Quality & Delivery** | `pytest` `GitHub Actions` `CI/CD` |
+| **Programming** | Python, TypeScript |
+| **Machine Learning** | PyTorch, scikit-learn, LAION-CLAP |
+| **Computer Vision** | OpenCV, ORB, RANSAC, homography, camera calibration |
+| **Image Processing** | NumPy, spatial/frequency filtering, morphology, segmentation |
+| **Data** | pandas, NumPy |
+| **Frontend** | React, Vite |
+| **Backend / Edge** | Cloudflare Workers, Google Apps Script |
+| **Engineering** | Git, GitHub, pytest, GitHub Actions, E2E testing |
 
-> The stack above reflects the technologies I am actively consolidating through hands-on practice and project work.
+---
 
-## Featured Work
+## Engineering Principles
 
-### [JobDrive](https://github.com/denoskume/jobdrive)
+I focus on projects that are:
 
-Automated internship discovery and tracking platform for M2 opportunities in France across Data Science, Machine Learning, Computer Vision, Signal Processing and Image Processing.
+- **reproducible** — explicit environments, dependencies, and deterministic workflows;
+- **evaluated** — metrics, error analysis, and limitations are part of the implementation;
+- **modular** — reusable project code is separated from experiments;
+- **tested** — automated checks protect behavior and deployment;
+- **explainable** — technical choices, assumptions, and failure cases are documented.
 
-**Highlights**
-- Automated opportunity discovery and qualification
-- Strategic company coverage tracking
-- Application-oriented dashboard and prioritization logic
-- Free infrastructure and GitHub-based deployment workflow
-
-**Live:** [denoskume.github.io/jobdrive](https://denoskume.github.io/jobdrive/)
-
-<details>
-<summary><strong>Prompt Engineering for Zero-Shot Audio Classification Using CLAP</strong></summary>
-
-Academic research project on the **ESC-50 environmental sound dataset** using a pretrained Contrastive Language–Audio model.
-
-- Evaluated multiple prompt-engineering strategies for zero-shot audio classification
-- Best prompt: **91.15% Top-1 accuracy**
-- **97.45% Top-3** and **99.00% Top-5** accuracy
-- Analysed class-level performance, prompt sensitivity and ensemble behaviour
-
-</details>
+---
 
 ## Education
 
 | Institution | Programme | Period |
 | --- | --- | --- |
-| [**Centrale Nantes**](https://www.ec-nantes.fr/english-version) | MSc — Data Science, Signal and Image Processing | 2025–2027 |
-| [**Kristu Jayanti College**](https://www.kristujayanti.edu.in/) | Bachelor's — Computer Science & Electronics | 2021–2025 |
+| [**Centrale Nantes**](https://www.ec-nantes.fr/english-version) | MSc — Data Science, Signal & Image Processing | 2025–2027 |
+| **Kristu Jayanti College** | Bachelor's — Computer Science & Electronics | 2021–2025 |
 
-## Current Development Path
-
-`Python` → `Data` → `Machine Learning` → `PyTorch` → `Image Processing` → `Computer Vision` → `Signal Processing` → `Software Engineering` → `ML Systems`
-
-I am deliberately building depth before expanding the portfolio, with the goal of being able to **design, implement, test, debug and explain** complete technical solutions.
+---
 
 ## Internship Target
 
 **Availability:** January 2027  
 **Duration:** 6 months  
 **Location:** France  
-**Target roles:** ML Engineering • Computer Vision • Image Processing • Signal Processing • Applied Data Science
+**Target roles:** Machine Learning Engineer • Computer Vision Engineer • Image Processing Engineer • Applied AI Engineer
+
+---
 
 ## Contact
 
