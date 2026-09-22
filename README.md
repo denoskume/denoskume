@@ -125,10 +125,12 @@ I focus on projects that are:
 
 ## Selected Credentials & Awards
 
-- **Data Scientist — Simplilearn Masters Program (2025)** — completed the program and industry projects with distinction.
-- **Google Advanced Data Analytics Professional Certificate (2024)** — Python, statistics, regression, machine learning, and advanced analytics capstone.
-- **3rd Place — Fire Fighting Robot using Arduino, GALAXIA Science Exhibition (2022)**.
-- **Data Analyst Intern — Unified Mentor (Sep–Dec 2024)** — three-month internship credential.
+- **[Data Scientist — Simplilearn Masters Program (2025)](https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Data_Scientist_Simplilearn_2025.pdf)** — completed the program and industry projects with distinction. [Official verification](https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15fe2)
+- **[Google Advanced Data Analytics Professional Certificate (2024)](https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf)** — Python, statistics, regression, machine learning, and advanced analytics capstone. [Official verification](https://coursera.org/verify/professional-cert/5ZOKXCS6B7RR)
+- **[3rd Place — Fire Fighting Robot using Arduino, GALAXIA Science Exhibition (2022)](https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg)**.
+- **[Data Analyst Intern — Unified Mentor (Sep–Dec 2024)](https://github.com/denoskume/certifications-and-awards/blob/main/experience/Unified_Mentor_Data_Analyst_Internship_2024.pdf)** — three-month internship credential.
+
+[View selected credential evidence →](https://github.com/denoskume/certifications-and-awards)
 
 ---
 
