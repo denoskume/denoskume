@@ -21,6 +21,8 @@ A responsive **internship intelligence platform** for discovering, filtering, pr
 
 <p align="center"><em>Authenticated Jobs view — ranked internship discovery, search and multi-criteria filtering. The live workspace is intentionally access-restricted.</em></p>
 
+<p align="center"><a href="https://denoskume.github.io/monstage/"><strong>Open MonStage</strong></a> · <em>restricted access</em></p>
+
 **Architecture:** React + TypeScript + Vite → Google Identity → Cloudflare Worker → Google Apps Script → private Google Sheet
 
 **Engineering highlights**
