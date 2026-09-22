@@ -16,7 +16,7 @@ I build reproducible ML and Computer Vision systems with an emphasis on **real p
 A responsive **internship intelligence platform** for discovering, filtering, prioritizing, and tracking opportunities across France.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/denoskume/monstage/main/docs/assets/monstage-jobs-preview.png" alt="MonStage Jobs dashboard" width="900">
+  <img src="https://raw.githubusercontent.com/denoskume/monstage/main/docs/assets/monstage_preview_sanitized.png" alt="MonStage Jobs dashboard" width="900">
 </p>
 
 <p align="center"><em>Authenticated Jobs view — ranked internship discovery, search and multi-criteria filtering. The live workspace is intentionally access-restricted.</em></p>
