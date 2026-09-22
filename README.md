@@ -115,6 +115,15 @@ I focus on projects that are:
 
 ---
 
+## Selected Credentials & Awards
+
+- **Data Scientist — Simplilearn Masters Program (2025)** — completed the program and industry projects with distinction.
+- **Google Advanced Data Analytics Professional Certificate (2024)** — Python, statistics, regression, machine learning, and advanced analytics capstone.
+- **3rd Place — Fire Fighting Robot using Arduino, GALAXIA Science Exhibition (2022)**.
+- **Data Analyst Intern — Unified Mentor (Sep–Dec 2024)** — three-month internship credential.
+
+---
+
 ## Education
 
 | Institution | Programme | Period |
