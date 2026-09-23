@@ -1,13 +1,11 @@
 # Denos Kume
 
 **M2 MSc — Data Science, Signal & Image Processing @ Centrale Nantes**  
-**Applied Machine Learning & Computer Vision**
+**Career direction: Applied Machine Learning & Computer Vision**
 
-Final-year MSc student focused on **Applied Machine Learning and Computer Vision**, building reproducible systems from data preparation and experimentation to evaluation and validation.
+Final-year MSc student in **Data Science, Signal & Image Processing**, with hands-on work spanning data analysis, machine learning, signal and image processing, and computer vision. I build reproducible technical workflows from data preparation and experimentation to evaluation and validation.
 
-> **Available for a 6-month internship in France from February 2027**  
-> **Primary target:** Applied ML • Computer Vision  
-> Also open to: Data Science • Image Processing • Applied AI • Data Analyst
+> **Available for a 6-month internship in France from February 2027**
 
 ---
 
