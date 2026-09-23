@@ -1,98 +1,44 @@
 # Denos Kume
 
-**Final-year MSc Student — Data Science, Signal & Image Processing @ Centrale Nantes**  
-Applied Machine Learning • Computer Vision • Image Processing • Deep Learning
+**M2 MSc Student — Data Science, Signal & Image Processing @ Centrale Nantes**  
+Applied Machine Learning • Computer Vision • Image Processing • Data Science
 
-I build reproducible ML and Computer Vision systems with an emphasis on **real pipelines, evaluation, engineering quality, and practical deployment**.
+I develop reproducible ML and Computer Vision solutions with a focus on **implementation, evaluation, and engineering quality**.
 
-> Seeking a **6-month final-year internship starting January 2027** in France in Machine Learning, Computer Vision, Image Processing, or Applied AI.
-
----
-
-## Selected Engineering Work
-
-### [MonStage](https://github.com/denoskume/monstage)
-
-A responsive **internship intelligence platform** for discovering, filtering, prioritizing, and tracking opportunities across France.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/denoskume/monstage/main/docs/assets/monstage_preview_sanitized.png" alt="MonStage Jobs dashboard" width="900">
-</p>
-
-<p align="center"><em>Authenticated Jobs view — ranked internship discovery, search and multi-criteria filtering. The live workspace is intentionally access-restricted.</em></p>
-
-<p align="center"><a href="https://denoskume.github.io/monstage/"><strong>Open MonStage</strong></a> · <em>restricted access</em></p>
-
-**Architecture:** React + TypeScript + Vite → Google Identity → Cloudflare Worker → Google Apps Script → private Google Sheet
-
-**Engineering highlights**
-- Google Sign-In with server-side authorization
-- Responsive job-board UX for desktop and mobile
-- Search, filters, ranking, shortlist, and application pipeline
-- Cloudflare Worker authentication gateway
-- GitHub Actions deployment
-- E2E coverage across desktop, mobile, and 360 px viewport
-- Secret-gated backend and production bundle checks
+> **Seeking a 6-month final-year internship in France starting January 2027**  
+> Target roles: Machine Learning • Computer Vision • Image Processing • Applied AI
 
 ---
 
-### [Master SIP — Centrale Nantes](https://github.com/denoskume/Master_SIP_EC-Nantes)
+## Experience
 
-Academic engineering repository covering Computer Vision, Image Processing, Deep Learning, and multimodal ML experiments.
+### AI Evaluation — DataAnnotation
+**Feb 2026 – Jun 2026**
+- Evaluated AI-generated responses for quality, correctness, reasoning, and instruction following.
+- Worked across structured evaluation tasks involving text and multimodal content.
 
-#### Computer Vision
-
-- **[Camera Calibration](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works/Computer_Vision/Camera_Calibration)** — Zhang planar calibration, normalized DLT, SVD, intrinsic matrix estimation, camera pose recovery, and reprojection-error analysis.
-- **[Feature Detection & Object Tracking](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works/Computer_Vision/Feature_Detection)** — ORB descriptors, Hamming matching, RANSAC homography estimation, perspective transformation, and tracking-quality analysis.
-- **[Deep Learning](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works/Computer_Vision/Deep_Learning)** — PyTorch MLPs for MNIST classification with BatchNorm, Adam, confidence analysis, precision, recall, and architecture comparison.
-
-#### Image Processing
-
-- Spatial-domain filtering and convolution
-- Frequency-domain filtering and Fourier analysis
-- Image transformations
-- Segmentation workflows and morphology
-
-#### Multimodal ML
-
-**[Prompt Engineering for Unsupervised Audio Classification Using CLAP](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification)**
-
-Zero-shot ESC-50 classification using LAION-CLAP and ten prompt strategies.
-
-- Best prompt: `an audio recording of {}`
-- **91.15% Top-1 accuracy**
-- **97.45% Top-3**
-- **99.00% Top-5**
-- +8.10 percentage points over the class-only prompt
-- Class-wise analysis, Top-k evaluation, and AudioSet metadata comparison
+### Data Analyst Intern — Unified Mentor
+**Sep 2024 – Dec 2024**
+- Completed a three-month data-analysis internship focused on practical analytical workflows.
+- [Credential](https://github.com/denoskume/certifications-and-awards/blob/main/experience/Unified_Mentor_Data_Analyst_Internship_2024.pdf)
 
 ---
 
-## Current R&D
+## Selected Work
 
-### VisionPlus3D — Private project, in development
+| Project | Focus | Evidence |
+| --- | --- | --- |
+| **[Background Subtraction](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction)** | Neurointerventional image processing: background subtraction, spatial/spectral filtering, morphology, segmentation, sequence validation | Code, notebooks, figures, metrics |
+| **[Master SIP — Centrale Nantes](https://github.com/denoskume/Master_SIP_EC-Nantes)** | Camera calibration, feature detection, deep learning, image processing | Reproducible academic implementations |
+| **[MonStage](https://github.com/denoskume/monstage)** | Responsive internship intelligence and application-tracking platform | React, TypeScript, authentication, deployment |
+| **[CLAP Audio Classification](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification)** | Zero-shot ESC-50 classification with LAION-CLAP and prompt engineering | **91.15% Top-1**, 99.00% Top-5 |
 
-End-to-end Computer Vision and 3D perception system for construction-site monitoring.
+### Core Computer Vision & Image Processing Work
 
-Current direction:
-
-```text
-site imagery
-    ↓
-data ingestion & quality checks
-    ↓
-open-vocabulary detection
-    ↓
-structured predictions + annotated outputs
-    ↓
-evaluation / benchmark
-    ↓
-segmentation + 3D scene processing
-    ↓
-automated reporting
-```
-
-The repository remains private while the system is being rebuilt to professional engineering standards.
+- **[Camera Calibration](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works/Computer_Vision/Camera_Calibration)** — normalized DLT, Zhang calibration, intrinsic/extrinsic estimation, reprojection error.
+- **[Feature Detection & Tracking](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works/Computer_Vision/Feature_Detection)** — ORB, Hamming matching, RANSAC, homography, tracking analysis.
+- **[Deep Learning](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works/Computer_Vision/Deep_Learning)** — PyTorch MLPs, training, evaluation, confidence and architecture comparison.
+- **[Image Processing](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works/Image_Processing)** — spatial/frequency filtering, transformations, segmentation, morphology, quantitative validation.
 
 ---
 
@@ -101,36 +47,12 @@ The repository remains private while the system is being rebuilt to professional
 | Area | Technologies |
 | --- | --- |
 | **Programming** | Python, TypeScript |
-| **Machine Learning** | PyTorch, scikit-learn, LAION-CLAP |
+| **ML / Deep Learning** | PyTorch, scikit-learn, LAION-CLAP |
 | **Computer Vision** | OpenCV, ORB, RANSAC, homography, camera calibration |
-| **Image Processing** | NumPy, spatial/frequency filtering, morphology, segmentation |
-| **Data** | pandas, NumPy |
-| **Frontend** | React, Vite |
-| **Backend / Edge** | Cloudflare Workers, Google Apps Script |
-| **Engineering** | Git, GitHub, pytest, GitHub Actions, E2E testing |
-
----
-
-## Engineering Principles
-
-I focus on projects that are:
-
-- **reproducible** — explicit environments, dependencies, and deterministic workflows;
-- **evaluated** — metrics, error analysis, and limitations are part of the implementation;
-- **modular** — reusable project code is separated from experiments;
-- **tested** — automated checks protect behavior and deployment;
-- **explainable** — technical choices, assumptions, and failure cases are documented.
-
----
-
-## Selected Credentials & Awards
-
-- **[Data Scientist — Simplilearn Masters Program (2025)](https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Data_Scientist_Simplilearn_2025.pdf)** — completed the program and industry projects with distinction. [Official verification](https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15fe2)
-- **[Google Advanced Data Analytics Professional Certificate (2024)](https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf)** — Python, statistics, regression, machine learning, and advanced analytics capstone. [Official verification](https://coursera.org/verify/professional-cert/5ZOKXCS6B7RR)
-- **[3rd Place — Fire Fighting Robot using Arduino, GALAXIA Science Exhibition (2022)](https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg)**.
-- **[Data Analyst Intern — Unified Mentor (Sep–Dec 2024)](https://github.com/denoskume/certifications-and-awards/blob/main/experience/Unified_Mentor_Data_Analyst_Internship_2024.pdf)** — three-month internship credential.
-
-[View selected credential evidence →](https://github.com/denoskume/certifications-and-awards)
+| **Image Processing** | NumPy, SciPy, spatial/frequency filtering, morphology, segmentation |
+| **Data** | pandas, NumPy, Matplotlib |
+| **Engineering** | Git, GitHub, Jupyter, VS Code, WSL Ubuntu, GitHub Actions |
+| **Web** | React, Vite, Cloudflare Workers, Google Apps Script |
 
 ---
 
@@ -138,17 +60,25 @@ I focus on projects that are:
 
 | Institution | Programme | Period |
 | --- | --- | --- |
-| [**Centrale Nantes**](https://www.ec-nantes.fr/english-version) | MSc — Data Science, Signal & Image Processing | 2025–2027 |
-| **Kristu Jayanti College** | Bachelor's — Computer Science & Electronics | 2021–2025 |
+| **[Centrale Nantes](https://www.ec-nantes.fr/english-version)** | MSc — Data Science, Signal & Image Processing | 2025–2027 |
+| **Kristu Jayanti College** | BSc — Computer Science & Electronics | 2021–2025 |
 
 ---
 
-## Internship Target
+## Selected Credentials
 
-**Availability:** January 2027  
+- **[Google Advanced Data Analytics Professional Certificate](https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf)** — Google / Coursera, 2024.
+- **[3rd Place — Fire Fighting Robot using Arduino](https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg)** — GALAXIA Science Exhibition, 2022.
+- [Credential archive](https://github.com/denoskume/certifications-and-awards)
+
+---
+
+## Availability
+
+**Start:** January 2027  
 **Duration:** 6 months  
 **Location:** France  
-**Target roles:** Machine Learning Engineer • Computer Vision Engineer • Image Processing Engineer • Applied AI Engineer
+**Interests:** Applied ML • Computer Vision • Image Processing • Deep Learning • Data Science
 
 ---
 
