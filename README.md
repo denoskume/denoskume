@@ -3,55 +3,48 @@
 **M2 MSc — Data Science, Signal & Image Processing @ Centrale Nantes**  
 **Python • Data Analysis • Machine Learning • Computer Vision • Image Processing**
 
-I work on data-driven and vision problems from **raw data to evaluation**, with a strong focus on reproducibility, quantitative validation, and clear engineering workflows.
+Final-year MSc student building practical data and vision systems with a focus on **analysis, implementation, evaluation, and reproducibility**.
 
-> **Final-year internship — January 2027 • 6 months • France**  
-> **Target roles:** Data Analyst • Data Scientist • Machine Learning • Computer Vision • Image Processing • Applied AI
-
----
-
-## Profile
-
-- MSc student in **Data Science, Signal & Image Processing** at Centrale Nantes.
-- Strong Python foundation developed through academic work, applied projects, and AI/data evaluation experience.
-- Comfortable with **data preparation, exploratory analysis, visualization, model evaluation, image processing, ML workflows, and technical reporting**.
-- Looking for a first long-term professional opportunity where I can contribute, learn quickly, and grow into a strong applied data/AI engineer.
+> **Available for a 6-month internship in France from January 2027**  
+> Data Analyst • Data Scientist • Machine Learning • Computer Vision • Image Processing • Applied AI
 
 ---
 
-## Experience
+## Professional Experience
 
-### AI Evaluation — DataAnnotation
+### RWS — AI Evaluation
+**2026**
+- Contributed to structured AI/data evaluation tasks under defined quality guidelines.
+- Reviewed outputs with emphasis on consistency, relevance, and accuracy.
+- Applied careful judgment and attention to detail across repeated evaluation workflows.
+
+### DataAnnotation — AI Evaluation
 **Feb 2026 – Jun 2026**
+- Evaluated AI-generated responses for correctness, reasoning quality, relevance, and instruction following.
+- Worked across structured evaluation tasks involving text, files, images, and multi-step reasoning.
+- Documented issues with clear, evidence-based feedback.
+- Strengthened quality-control, analytical judgment, and consistency in high-volume evaluation work.
 
-- Evaluated AI-generated responses for **correctness, reasoning quality, instruction following, and relevance**.
-- Reviewed structured tasks involving text, files, images, and multi-step reasoning.
-- Applied consistent evaluation criteria and documented issues with clear, evidence-based feedback.
-- Developed strong attention to detail, analytical judgment, and quality-control habits.
-
-### Data Analyst Intern — Unified Mentor
+### Unified Mentor — Data Analyst Intern
 **Sep 2024 – Dec 2024**
-
-- Worked on practical data-analysis tasks using Python-based analytical workflows.
-- Cleaned, explored, and interpreted structured datasets to extract useful insights.
-- Produced visual summaries and communicated findings in a clear, decision-oriented format.
-- Strengthened practical skills in data preparation, exploratory analysis, and reporting.
+- Cleaned, explored, and interpreted structured datasets using Python-based workflows.
+- Performed exploratory analysis and produced visual summaries of key patterns.
+- Translated analytical results into concise, decision-oriented findings.
+- Strengthened practical skills in data preparation, visualization, and reporting.
 
 [Internship credential →](https://github.com/denoskume/certifications-and-awards/blob/main/experience/Unified_Mentor_Data_Analyst_Internship_2024.pdf)
 
 ---
 
-## Selected Technical Work
+## Selected Technical Evidence
 
 ### [Background Subtraction — Neurointervention Guidance](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction)
 
-Medical image-processing workflow for detecting moving guidewires and microcatheters in fluoroscopic sequences.
+Medical image-processing pipeline for detecting guidewires and microcatheters in fluoroscopic sequences.
 
-**Implemented:**
-- static background subtraction;
-- histogram/intensity transformation;
-- Gaussian spatial filtering;
-- Fourier-domain high-pass filtering;
+**Key work**
+- static background subtraction and intensity normalization;
+- spatial and Fourier-domain filtering;
 - morphology and segmentation;
 - sequence-level validation with **SAD, MSE, PSNR, Dice, and IoU**;
 - CSV export, visual diagnostics, and final validation checks.
@@ -62,20 +55,21 @@ Medical image-processing workflow for detecting moving guidewires and microcathe
 
 ### [Master SIP — Centrale Nantes](https://github.com/denoskume/Master_SIP_EC-Nantes)
 
-Academic engineering repository covering Computer Vision, Image Processing, Deep Learning, and multimodal ML.
+Academic engineering work in Computer Vision, Image Processing, Deep Learning, and multimodal ML.
 
-| Area | Selected work |
+| Area | Evidence |
 | --- | --- |
-| **Computer Vision** | Camera calibration, normalized DLT, Zhang method, ORB, Hamming matching, RANSAC, homography |
-| **Image Processing** | Spatial/frequency filtering, transformations, morphology, segmentation |
+| **Camera Calibration** | normalized DLT, Zhang calibration, intrinsic/extrinsic estimation, reprojection error |
+| **Feature Detection & Tracking** | ORB, Hamming matching, RANSAC, homography |
 | **Deep Learning** | PyTorch MLPs, training, evaluation, confidence analysis |
-| **Evaluation** | Reproducible experiments, metrics, parameter studies, failure analysis |
+| **Image Processing** | spatial/frequency filtering, transformations, morphology, segmentation |
+| **Validation** | metrics, parameter studies, failure analysis, reproducible outputs |
 
 ---
 
-### [Prompt Engineering for Audio Classification with CLAP](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification)
+### [CLAP Zero-Shot Audio Classification](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification)
 
-Zero-shot classification on ESC-50 using LAION-CLAP.
+Prompt-engineering study on ESC-50 using LAION-CLAP.
 
 - **91.15% Top-1 accuracy**
 - **97.45% Top-3**
@@ -90,7 +84,7 @@ Zero-shot classification on ESC-50 using LAION-CLAP.
 
 Responsive internship intelligence and application-tracking platform.
 
-- search, ranking, filters, shortlist, and application tracking;
+- search, ranking, filtering, shortlist, and application tracking;
 - Google authentication and access control;
 - React/TypeScript frontend;
 - Cloudflare Worker + Google Apps Script backend;
@@ -100,17 +94,17 @@ Responsive internship intelligence and application-tracking platform.
 
 ---
 
-## Data & AI Skills
+## Technical Capability
 
 | Domain | Skills |
 | --- | --- |
 | **Programming** | Python, TypeScript |
-| **Data Analysis** | pandas, NumPy, data cleaning, EDA, visualization, descriptive statistics |
-| **Machine Learning** | scikit-learn, model evaluation, classification, metrics, validation |
+| **Data Analysis** | pandas, NumPy, data cleaning, EDA, descriptive statistics, visualization |
+| **Machine Learning** | scikit-learn, classification, model evaluation, validation |
 | **Deep Learning** | PyTorch, neural networks, training/evaluation workflows |
 | **Computer Vision** | OpenCV, ORB, RANSAC, homography, camera calibration |
-| **Image Processing** | spatial/frequency filtering, morphology, segmentation, FFT |
-| **Visualization** | Matplotlib, analytical plots, diagnostic figures |
+| **Image Processing** | spatial/frequency filtering, FFT, morphology, segmentation |
+| **Visualization** | Matplotlib, diagnostic plots, quantitative reporting |
 | **Engineering** | Git, GitHub, Jupyter, VS Code, WSL Ubuntu, GitHub Actions |
 | **Web / Tools** | React, Vite, Cloudflare Workers, Google Apps Script |
 
@@ -122,30 +116,31 @@ Responsive internship intelligence and application-tracking platform.
 **MSc — Data Science, Signal & Image Processing**  
 2025–2027
 
-Main areas: data science, signal processing, image processing, computer vision, machine learning, deep learning, optimization.
+Data science, signal processing, image processing, computer vision, machine learning, deep learning, and optimization.
 
 ### Kristu Jayanti College
 **BSc — Computer Science & Electronics**  
 2021–2025
 
-Foundation in programming, computer science, electronics, mathematics, and applied technical problem solving.
+Programming, computer science, electronics, mathematics, and applied technical problem solving.
 
 ---
 
-## Credentials & Recognition
+## Selected Credentials & Recognition
 
 - **[Google Advanced Data Analytics Professional Certificate](https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf)** — Google / Coursera, 2024
 - **[3rd Place — Fire Fighting Robot using Arduino](https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg)** — GALAXIA Science Exhibition, 2022
-- [View credential archive →](https://github.com/denoskume/certifications-and-awards)
+- [Credential archive →](https://github.com/denoskume/certifications-and-awards)
 
 ---
 
-## What I Am Looking For
+## Internship Target
 
-A **6-month final-year internship from January 2027 in France** where I can contribute to real data or AI problems and continue building strong engineering experience.
+**Start:** January 2027  
+**Duration:** 6 months  
+**Location:** France
 
-**Roles of interest:**  
-Data Analyst • Data Scientist • Machine Learning Engineer • Computer Vision Engineer • Image Processing Engineer • Applied AI Engineer
+**Roles:** Data Analyst • Data Scientist • Machine Learning Engineer • Computer Vision Engineer • Image Processing Engineer • Applied AI Engineer
 
 ---
 
