@@ -3,7 +3,7 @@
 **M2 MSc — Data Science, Signal & Image Processing @ Centrale Nantes**  
 **Career direction: Applied Machine Learning & Computer Vision**
 
-Final-year MSc student in **Data Science, Signal & Image Processing**, with hands-on work spanning data analysis, machine learning, signal and image processing, and computer vision. I build reproducible technical workflows from data preparation and experimentation to evaluation and validation.
+Final-year student with hands-on experience across data analysis, machine learning, signal and image processing, and computer vision. I focus on reproducible implementation, quantitative evaluation, and clear engineering workflows.
 
 > **Available for a 6-month internship in France from February 2027**
 
