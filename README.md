@@ -5,7 +5,7 @@
 
 Final-year MSc student focused on **Applied Machine Learning and Computer Vision**, building reproducible systems from data preparation and experimentation to evaluation and validation.
 
-> **Available for a 6-month internship in France from January 2027**  
+> **Available for a 6-month internship in France from February 2027**  
 > **Primary target:** Applied ML • Computer Vision  
 > Also open to: Data Science • Image Processing • Applied AI • Data Analyst
 
