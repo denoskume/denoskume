@@ -6,7 +6,7 @@ Applied Machine Learning • Computer Vision • Image Processing • Data Scien
 I develop reproducible ML and Computer Vision solutions with a focus on **implementation, evaluation, and engineering quality**.
 
 > **Seeking a 6-month final-year internship in France starting January 2027**  
-> Target roles: Machine Learning • Computer Vision • Image Processing • Applied AI
+> Target roles: Machine Learning • Computer Vision • Image Processing • Data Science • Data Analyst • Applied AI
 
 ---
 
@@ -78,7 +78,7 @@ I develop reproducible ML and Computer Vision solutions with a focus on **implem
 **Start:** January 2027  
 **Duration:** 6 months  
 **Location:** France  
-**Interests:** Applied ML • Computer Vision • Image Processing • Deep Learning • Data Science
+**Interests:** Applied ML • Computer Vision • Image Processing • Deep Learning • Data Science • Data Analytics
 
 ---
 
