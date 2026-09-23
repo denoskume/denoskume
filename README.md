@@ -135,14 +135,12 @@ Programming, computer science, electronics, mathematics, and applied technical p
 
 ---
 
-## Internship Target
+## Internship
 
-**Start:** January 2027  
+**Availability:** February 2027  
 **Duration:** 6 months  
-**Location:** France
-
-**Primary roles:** Applied Machine Learning Engineer • Computer Vision Engineer  
-**Also relevant:** Data Scientist • Image Processing Engineer • Applied AI Engineer • Data Analyst
+**Location:** France  
+**Focus:** Applied Machine Learning & Computer Vision
 
 ---
 
