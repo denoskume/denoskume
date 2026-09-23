@@ -10,8 +10,8 @@ Final-year student with solid foundations built through academic work, projects,
 
 ## Professional Experience
 
-### RWS — AI Evaluation
-**2026**
+### RWS — AI Evaluation • Remote
+**August 2026 – Present**
 - Contributed to structured AI/data evaluation tasks under defined quality guidelines.
 - Reviewed outputs with emphasis on consistency, relevance, and accuracy.
 - Applied careful judgment and attention to detail across repeated evaluation workflows.
