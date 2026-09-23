@@ -10,11 +10,11 @@ Final-year student with solid foundations built through academic work, projects,
 
 ## Professional Experience
 
-### RWS — AI Evaluation • Remote
-**August 2026 – Present**
-- Contributed to structured AI/data evaluation tasks under defined quality guidelines.
-- Reviewed outputs with emphasis on consistency, relevance, and accuracy.
-- Applied careful judgment and attention to detail across repeated evaluation workflows.
+### RWS — Speech AI Evaluation Specialist • Freelance • Remote
+**August 2026 – Present · France**
+- Evaluated French speech-to-speech AI interactions for accuracy, naturalness, usefulness, conversational quality, and audio quality.
+- Compared AI model responses using structured evaluation criteria and evidence-based assessments.
+- Identified linguistic, conversational, and speech-related issues to support quality evaluation of voice-based AI systems.
 
 ### DataAnnotation — AI Evaluation
 **Feb 2026 – Jun 2026**
