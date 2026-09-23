@@ -16,12 +16,11 @@ Final-year student with solid foundations built through academic work, projects,
 - Compared AI model responses using structured evaluation criteria and evidence-based assessments.
 - Identified linguistic, conversational, and speech-related issues to support quality evaluation of voice-based AI systems.
 
-### DataAnnotation — AI Evaluation
-**Feb 2026 – Jun 2026**
+### DataAnnotation — AI Response Evaluator • Remote
+**February 2026 – June 2026**
 - Evaluated AI-generated responses for correctness, reasoning quality, relevance, and instruction following.
-- Worked across structured evaluation tasks involving text, files, images, and multi-step reasoning.
-- Documented issues with clear, evidence-based feedback.
-- Strengthened quality-control, analytical judgment, and consistency in high-volume evaluation work.
+- Reviewed multimodal tasks involving text, files, images, and multi-step interactions.
+- Provided clear, evidence-based feedback to identify errors, inconsistencies, and quality issues.
 
 ### Unified Mentor — Data Analyst Intern
 **Sep 2024 – Dec 2024**
