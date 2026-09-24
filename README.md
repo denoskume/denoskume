@@ -17,7 +17,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="36" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:denoskume77@gmail.com"><img src="assets/gmail-circle.svg" width="36" alt="Email" /></a>
+  <a href="mailto:denoskume77@gmail.com"><img src="assets/gmail-current.svg?v=1" width="36" alt="Email" /></a>
   &nbsp;
   <a href="https://wa.me/33662919468"><img src="assets/whatsapp-circle.svg" width="36" alt="WhatsApp" /></a>
 </div>
