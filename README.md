@@ -48,29 +48,12 @@ I am seeking a <strong>6-month final-year internship starting February 2027</str
 
 ## Education
 
-### Master of Science — Data Science, Signal & Image Processing
-**[Centrale Nantes](https://www.ec-nantes.fr/)** · Nantes, France · `2025 → Present`
+**MSc Data Science, Signal & Image Processing**  
+[Centrale Nantes](https://www.ec-nantes.fr/) · Nantes, France · `2025 → 2027 (expected)`  
+[Academic portfolio](https://github.com/denoskume/Master_SIP_EC-Nantes)
 
-**Relevant coursework**
-- Machine Learning
-- Computer Vision
-- Image Processing
-- Signal Processing
-- Spectral & Time-Frequency Analysis
-- Optimization Techniques
-
-[View MSc academic portfolio →](https://github.com/denoskume/Master_SIP_EC-Nantes)
-
-### Bachelor of Science — Computer Science & Electronics
-**[Kristu Jayanti University](https://www.kristujayanti.edu.in/)** · Bangalore, India · `2021 → 2025`
-
-**Relevant coursework**
-- Python Programming
-- Data Structures & Algorithms
-- Database Management Systems
-- Digital Signal Processing
-- Communication Systems
-- Computer Networks
+**BSc Computer Science & Electronics**  
+[Kristu Jayanti University](https://www.kristujayanti.edu.in/) · Bangalore, India · `2021 → 2025`
 
 ---
 
