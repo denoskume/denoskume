@@ -36,12 +36,12 @@ Alongside my studies, I have gained hands-on experience in **AI evaluation and d
 
 ## Education
 
-### Centrale Nantes
+### [Centrale Nantes](https://www.ec-nantes.fr/)
 **MSc — Data Science, Signal & Image Processing** · `2025 → 2027`
 
 Advanced coursework and applied work across data science, signal processing, image processing, machine learning, deep learning, computer vision, and optimization.
 
-### Kristu Jayanti University — Bangalore
+### [Kristu Jayanti University — Bangalore](https://www.kristujayanti.edu.in/)
 **BSc — Computer Science & Electronics** · `2021 → 2025`
 
 Built core foundations in programming, computer science, electronics, mathematics, and applied technical problem solving.
