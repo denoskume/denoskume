@@ -1,0 +1,9 @@
+<svg width="560" height="240" viewBox="0 0 560 240" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="560" y2="240"><stop stop-color="#071B18"/><stop offset="1" stop-color="#065F46"/></linearGradient></defs>
+<rect width="560" height="240" rx="24" fill="url(#g)"/><circle cx="480" cy="58" r="72" fill="#34D399" opacity=".14"/>
+<text x="34" y="58" fill="#6EE7B7" font-family="Segoe UI,Arial" font-size="16" font-weight="700">MULTIMODAL ML · ZERO-SHOT AUDIO</text>
+<text x="34" y="98" fill="white" font-family="Segoe UI,Arial" font-size="29" font-weight="800">CLAP Audio Classification</text>
+<text x="34" y="132" fill="#D1FAE5" font-family="Segoe UI,Arial" font-size="15">ESC-50 · LAION-CLAP · prompt engineering</text>
+<text x="34" y="174" fill="#ECFDF5" font-family="Segoe UI,Arial" font-size="15">Top-1 91.15% · Top-3 97.45% · Top-5 99.00%</text>
+<text x="34" y="202" fill="#6EE7B7" font-family="Segoe UI,Arial" font-size="14" font-weight="700">+8.10 percentage points vs class-only prompt</text>
+</svg>
