@@ -1,11 +1,8 @@
 <svg width="560" height="220" viewBox="0 0 560 220" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="g" x1="0" y1="0" x2="560" y2="220"><stop stop-color="#020204"/><stop offset="1" stop-color="#082449"/></linearGradient></defs>
-<rect width="560" height="220" rx="24" fill="url(#g)"/>
-<rect x="0" y="0" width="7" height="220" rx="3" fill="#0066FF"/>
-<circle cx="480" cy="52" r="68" fill="#0066FF" opacity=".12"/>
-<text x="34" y="50" fill="#48B8FF" font-family="Segoe UI,Arial" font-size="15" font-weight="700">RECOGNITION · ISDC LEARNING</text>
-<text x="34" y="91" fill="white" font-family="Segoe UI,Arial" font-size="29" font-weight="800">Star of the Month</text>
-<text x="34" y="125" fill="#D7EAFF" font-family="Segoe UI,Arial" font-size="15">Campus Ambassador Programme</text>
-<text x="34" y="165" fill="#F0F8FF" font-family="Segoe UI,Arial" font-size="14">Contribution · persistence · dedication</text>
-<text x="34" y="194" fill="#6EC8FF" font-family="Segoe UI,Arial" font-size="14" font-weight="700">Public recognition on LinkedIn</text>
+<rect x="1" y="1" width="558" height="218" rx="18" fill="#FFFFFF" stroke="#D0D5DD" stroke-width="2"/>
+<text x="30" y="47" fill="#667085" font-family="Segoe UI,Arial" font-size="14" font-weight="700">RECOGNITION · ISDC LEARNING</text>
+<text x="30" y="88" fill="#101828" font-family="Segoe UI,Arial" font-size="29" font-weight="700">Star of the Month</text>
+<text x="30" y="122" fill="#344054" font-family="Segoe UI,Arial" font-size="15">Campus Ambassador Programme</text>
+<text x="30" y="162" fill="#475467" font-family="Segoe UI,Arial" font-size="14">Contribution · persistence · dedication</text>
+<text x="30" y="191" fill="#667085" font-family="Segoe UI,Arial" font-size="14" font-weight="600">Public recognition on LinkedIn</text>
 </svg>
