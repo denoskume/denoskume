@@ -61,23 +61,23 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 ### Speech AI Evaluation Specialist
 **RWS Moravia** · Freelance · Remote · Aug 2026 - Present
 
-- Evaluate French speech-to-speech AI interactions for accuracy, naturalness, and conversational quality.
-- Compare model responses using structured criteria and evidence-based assessments.
-- Flag linguistic, conversational, and speech-related quality issues in voice-based AI systems.
+- Evaluate French speech-to-speech interactions across **5 quality dimensions**: accuracy, naturalness, usefulness, conversational quality, and audio quality.
+- Compare model outputs using structured criteria to support consistent, evidence-based quality decisions.
+- Identify linguistic, conversational, and speech-related failure patterns that can reduce response quality in voice AI systems.
 
 ### AI Response Evaluator
 **DataAnnotation** · Freelance · Remote · Feb 2026 - Jun 2026
 
-- Evaluated AI-generated responses for correctness, reasoning quality, and instruction following.
-- Reviewed multimodal tasks involving text, files, images, and multi-step interactions.
-- Provided evidence-based feedback on errors, inconsistencies, and quality issues.
+- Evaluated AI-generated responses across **4 core criteria**: correctness, reasoning quality, relevance, and instruction following.
+- Reviewed multimodal tasks spanning **text, files, images, and multi-step interactions**.
+- Produced evidence-based feedback that isolated errors, inconsistencies, and response-quality issues for model evaluation.
 
 ### Data Analyst Intern
 **Unified Mentor** · Internship · Bangalore, India · Sep 2024 - Dec 2024
 
-- Cleaned, explored, and interpreted structured datasets using Python workflows.
-- Performed exploratory analysis and produced visual summaries of key patterns.
-- Communicated findings through concise analytical reporting.
+- Used Python to clean, explore, and interpret structured datasets during a **3-month data analytics internship**.
+- Converted exploratory analysis into visual summaries that made key patterns easier to identify and communicate.
+- Turned analytical findings into concise reports designed to support clear, data-backed interpretation.
 
 ---
 
