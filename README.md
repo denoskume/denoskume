@@ -30,7 +30,7 @@
 
 I hold a **BSc in Computer Science & Electronics from [Kristu Jayanti University, Bangalore](https://www.kristujayanti.edu.in/)** and I am currently completing an **MSc in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**.
 
-I’m comfortable using **[Python](https://github.com/denoskume/Master_SIP_EC-Nantes)** and libraries such as **NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV, and Matplotlib** for data analysis, machine learning, computer vision, image processing, and quantitative experimentation. I also use **[TypeScript](https://github.com/denoskume/monstage)** with **React and Vite** to develop MonStage.
+I’m comfortable using **[Python](https://github.com/denoskume/Master_SIP_EC-Nantes)** and libraries such as **NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV, and Matplotlib** for data analysis, machine learning, computer vision, image processing, model evaluation, and numerical analysis. I also use **[TypeScript](https://github.com/denoskume/monstage)** with **React and Vite** to develop MonStage.
 
 Alongside my studies, I have worked in **AI evaluation and data analysis**, where accuracy, evidence-based judgement, and clear reasoning are central. I am looking to bring this technical foundation, analytical rigor, and strong learning mindset into an engineering team working on real applied problems.
 
