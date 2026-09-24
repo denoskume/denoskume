@@ -28,13 +28,13 @@
 
 ## About me
 
-I am a final-year **MSc student in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**, after completing a **BSc in Computer Science & Electronics from [Kristu Jayanti University](https://www.kristujayanti.edu.in/), Bangalore**. My focus has shifted from broad computing and electronics toward **applied machine learning, computer vision, and image processing**.
+I am a final-year **MSc student in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**, after completing a **BSc in Computer Science & Electronics from [Kristu Jayanti University](https://www.kristujayanti.edu.in/), Bangalore**. I moved from broad computing and electronics toward **applied machine learning, computer vision, and image processing**, where I learn best by **implementing, testing, and comparing results**.
 
-I learn best by **implementing, testing, and comparing results**. My current work spans classical image processing — including camera calibration, feature detection, filtering, and segmentation — as well as deep learning and multimodal classification. Most of this work is built with **Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy** and is documented in my **[MSc portfolio](https://github.com/denoskume/Master_SIP_EC-Nantes)**.
+My current work spans **classical image processing and computer vision** — including calibration, filtering, segmentation, and feature-based methods — as well as **deep learning and multimodal classification**. I mainly use **Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy**. Recent work is documented in my **[MSc portfolio](https://github.com/denoskume/Master_SIP_EC-Nantes)**, including **[Background Subtraction](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction)**.
 
-I also ship side projects end-to-end. **[MonStage](https://github.com/denoskume/monstage)** is a TypeScript/React application I built and deployed.
+I also ship side projects end-to-end. **[MonStage](https://github.com/denoskume/monstage)** is a React/TypeScript application I built and deployed.
 
-My experience in **AI evaluation and data analysis** has trained me to question outputs, check evidence, and explain why a result is reliable — or not. I am seeking a **6-month final-year internship starting February 2027** in **applied machine learning, computer vision, or image processing**.
+My experience in **AI evaluation and data analysis** trained me to question outputs, check evidence, and explain why a result is reliable — or not. I am seeking a **6-month final-year internship starting February 2027** in **applied machine learning, computer vision, or image processing**.
 
 ---
 
