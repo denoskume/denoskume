@@ -8,15 +8,13 @@
 
 <img src="assets/readme-internship-card.svg?v=2" width="100%" alt="Seeking a 6-month end-of-studies internship from February 2027 — Applied Machine Learning, Computer Vision and Image Processing" />
 
-<p align="center">
+<div align="center">
   <a href="#about-me"><img src="assets/nav-about.svg" height="38" alt="About me" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works"><img src="assets/nav-lab.svg" height="38" alt="Lab work" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
-</p>
-
-<div align="right">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="36" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:denoskume77@gmail.com"><img src="assets/gmail-circle.svg" width="36" alt="Email" /></a>
