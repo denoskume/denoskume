@@ -1,0 +1,8 @@
+<svg width="560" height="240" viewBox="0 0 560 240" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="558" height="238" rx="18" fill="#FFFFFF" stroke="#D0D5DD" stroke-width="2"/>
+<text x="30" y="54" fill="#667085" font-family="Segoe UI,Arial" font-size="15" font-weight="700">MULTIMODAL ML · ZERO-SHOT AUDIO</text>
+<text x="30" y="94" fill="#101828" font-family="Segoe UI,Arial" font-size="29" font-weight="700">CLAP Audio Classification</text>
+<text x="30" y="130" fill="#344054" font-family="Segoe UI,Arial" font-size="15">ESC-50 · LAION-CLAP · prompt engineering</text>
+<text x="30" y="172" fill="#475467" font-family="Segoe UI,Arial" font-size="15">Top-1 91.15% · Top-3 97.45% · Top-5 99.00%</text>
+<text x="30" y="202" fill="#667085" font-family="Segoe UI,Arial" font-size="14" font-weight="600">+8.10 percentage points vs class-only prompt</text>
+</svg>
