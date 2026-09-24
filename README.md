@@ -28,13 +28,11 @@
 
 ## About me
 
-I am a final-year **MSc student in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**, building on a **BSc in Computer Science & Electronics from [Kristu Jayanti University](https://www.kristujayanti.edu.in/), Bangalore**.
+I am a final-year **MSc student in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**, after a **BSc in Computer Science & Electronics from [Kristu Jayanti University](https://www.kristujayanti.edu.in/), Bangalore**. My path has gradually moved from general computing and electronics toward **applied machine learning, computer vision, and image processing**.
 
-My current work is centered on **applied machine learning, computer vision, and image processing**. In my [MSc portfolio](https://github.com/denoskume/Master_SIP_EC-Nantes), I work on problems such as camera calibration, feature detection, filtering, segmentation, deep learning, and multimodal classification. I mainly use **Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy**.
+I learn best by **implementing, testing, and comparing results**. My current work includes camera calibration, feature detection and tracking, filtering, segmentation, deep learning, and multimodal classification. I mainly use **Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy**. Outside coursework, I built **[MonStage](https://github.com/denoskume/monstage)** with TypeScript, React, and Vite.
 
-I also build software beyond coursework. [MonStage](https://github.com/denoskume/monstage) is a responsive internship intelligence platform developed with **TypeScript, React, and Vite**.
-
-My experience in **AI evaluation and data analysis** has reinforced a practical habit: examine evidence carefully, understand why a result is correct or wrong, and communicate conclusions clearly. I now want to apply that mindset to real engineering problems and deepen my skills through hands-on work.
+My experience in **AI evaluation and data analysis** has trained me to question outputs, check evidence, and explain why a result is reliable or not. I am now looking for a **6-month end-of-studies internship from February 2027** where I can apply this mindset to real **machine learning, computer vision, or image-processing problems**.
 
 ---
 
