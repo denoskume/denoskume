@@ -49,11 +49,11 @@ I am seeking a <strong>6-month final-year internship starting February 2027</str
 ## Education
 
 **MSc Data Science, Signal & Image Processing**  
-[Centrale Nantes](https://www.ec-nantes.fr/) · Nantes, France · `2025 - 2027 (expected)`  
+Centrale Nantes · Nantes, France · `2025 - 2027 (expected)`  
 [Academic portfolio](https://github.com/denoskume/Master_SIP_EC-Nantes)
 
 **BSc Computer Science & Electronics**  
-[Kristu Jayanti University](https://www.kristujayanti.edu.in/) · Bangalore, India · `2021 - 2025`
+Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 
 ---
 
