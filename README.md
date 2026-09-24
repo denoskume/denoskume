@@ -28,7 +28,7 @@
 
 ## About me
 
-My academic path started with a **BSc in Computer Science & Electronics at [Kristu Jayanti University, Bangalore](https://www.kristujayanti.edu.in/)**, where I built foundations in programming, computing, mathematics, and electronics. I am now completing an **MSc in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**, extending that background into machine learning, computer vision, image processing, signal processing, and quantitative experimentation.
+My higher-education background combines a **BSc in Computer Science & Electronics from [Kristu Jayanti University, Bangalore](https://www.kristujayanti.edu.in/)** with an ongoing **MSc in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**. This progression has given me a broad technical foundation spanning programming, mathematics, electronics, data analysis, machine learning, computer vision, image processing, signal processing, and quantitative experimentation.
 
 Alongside my studies, I have gained hands-on experience in **AI evaluation and data analysis**, which strengthened my attention to correctness, evidence, and clear technical judgement. I am still early in my professional journey, and I am looking for an engineering environment where I can contribute seriously, learn from experienced teams, and turn strong foundations into reliable applied skills.
 
