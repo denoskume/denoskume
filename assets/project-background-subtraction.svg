@@ -1,9 +1,1 @@
-<svg width="560" height="240" viewBox="0 0 560 240" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="g" x1="0" y1="0" x2="560" y2="240"><stop stop-color="#071827"/><stop offset="1" stop-color="#0F4C81"/></linearGradient></defs>
-<rect width="560" height="240" rx="24" fill="url(#g)"/><circle cx="470" cy="54" r="70" fill="#22D3EE" opacity=".12"/>
-<text x="34" y="58" fill="#67E8F9" font-family="Segoe UI,Arial" font-size="16" font-weight="700">COMPUTER VISION · MEDICAL IMAGING</text>
-<text x="34" y="98" fill="white" font-family="Segoe UI,Arial" font-size="29" font-weight="800">Background Subtraction</text>
-<text x="34" y="132" fill="#C7D2FE" font-family="Segoe UI,Arial" font-size="15">Fluoroscopic guidewire &amp; microcatheter enhancement</text>
-<text x="34" y="174" fill="#E0F2FE" font-family="Segoe UI,Arial" font-size="14">Spatial + spectral filtering · morphology · segmentation</text>
-<text x="34" y="202" fill="#A5F3FC" font-family="Segoe UI,Arial" font-size="14" font-weight="700">SAD · MSE · PSNR · Dice · IoU</text>
-</svg>
+<svg width="560" height="240" viewBox="0 0 560 240" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g" x1="0" y1="0" x2="560" y2="240"><stop stop-color="#020204"/><stop offset="1" stop-color="#082449"/></linearGradient></defs><rect width="560" height="240" rx="24" fill="url(#g)"/><rect x="0" y="0" width="7" height="240" rx="3" fill="#0066FF"/><circle cx="478" cy="55" r="72" fill="#0066FF" opacity=".12"/><text x="34" y="58" fill="#48B8FF" font-family="Segoe UI,Arial" font-size="16" font-weight="700">COMPUTER VISION · MEDICAL IMAGING</text><text x="34" y="98" fill="white" font-family="Segoe UI,Arial" font-size="29" font-weight="800">Background Subtraction</text><text x="34" y="132" fill="#D7EAFF" font-family="Segoe UI,Arial" font-size="15">Fluoroscopic guidewire &amp; microcatheter enhancement</text><text x="34" y="174" fill="#F0F8FF" font-family="Segoe UI,Arial" font-size="14">Spatial + spectral filtering · morphology · segmentation</text><text x="34" y="202" fill="#6EC8FF" font-family="Segoe UI,Arial" font-size="14" font-weight="700">SAD · MSE · PSNR · Dice · IoU</text></svg>
