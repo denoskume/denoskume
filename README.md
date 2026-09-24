@@ -32,7 +32,7 @@ Final-year **MSc student in Data Science, Signal & Image Processing at [Centrale
 
 My current work spans **image processing and computer vision** — filtering, segmentation, camera calibration, and feature-based tracking — as well as **deep learning and multimodal machine learning**. Main tools: **Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy**. Recent work includes **[Background Subtraction](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction)** and **[CLAP zero-shot audio classification](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification)**, with the broader work documented in my **[MSc portfolio](https://github.com/denoskume/Master_SIP_EC-Nantes)**.
 
-I also ship side projects end-to-end, such as **[MonStage](https://github.com/denoskume/monstage)**, a React/TypeScript application.
+I also build software beyond coursework. **[MonStage](https://github.com/denoskume/monstage)** is a React/TypeScript internship platform that I built and deployed.
 
 My experience in **AI evaluation and data analysis** trained me to question outputs, check evidence, and explain why a result is reliable — or not.
 
