@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Denos Kume — M2 MSc Data Science, Signal and Image Processing — Applied ML and Computer Vision" />
+<img src="assets/profile-banner.svg" width="100%" alt="MSc Data Science, Signal and Image Processing at Centrale Nantes — seeking a 6-month end-of-studies internship from February 2027 in Applied Machine Learning, Computer Vision and Image Processing" />
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=820&height=72&lines=Applied+Machine+Learning+and+Computer+Vision;From+data+to+validated+models+and+visual+systems;Learning+deeply+%E2%80%A2+Building+carefully+%E2%80%A2+Evaluating+honestly;Seeking+a+6-month+final-year+internship+%E2%80%A2+February+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=820&height=72&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Evaluating+%E2%80%A2+Improving;From+data+to+validated+models+and+visual+systems)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=denoskume&label=PROFILE+VIEWS&color=22D3EE&style=flat-square&label_color=0d1117)](https://github.com/denoskume)
 
