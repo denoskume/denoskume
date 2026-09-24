@@ -1,0 +1,295 @@
+:root {
+  --ink: #101828;
+  --muted: #667085;
+  --line: #d0d5dd;
+  --line-strong: #344054;
+  --blue: #0b66ff;
+  --blue-soft: #eaf2ff;
+  --surface: #ffffff;
+  --page: #f6f7f9;
+  --shadow: 0 18px 45px rgba(16, 24, 40, 0.08);
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--ink);
+  background: var(--page);
+}
+
+a { color: inherit; }
+
+.page-shell {
+  width: min(1180px, calc(100% - 32px));
+  margin: 32px auto;
+  background: var(--surface);
+  border: 1px solid #e4e7ec;
+  border-radius: 24px;
+  padding: 34px 42px 40px;
+  box-shadow: var(--shadow);
+}
+
+.topbar {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 28px;
+}
+
+.school-brand {
+  justify-self: start;
+  display: inline-flex;
+  align-items: center;
+}
+
+.school-brand img {
+  display: block;
+  height: 70px;
+  width: auto;
+}
+
+.programme-link {
+  justify-self: center;
+  text-decoration: none;
+  font-size: clamp(1rem, 1.7vw, 1.25rem);
+  font-weight: 750;
+  letter-spacing: 0.01em;
+  padding: 10px 16px;
+  border-radius: 12px;
+  transition: color .18s ease, background .18s ease, transform .18s ease;
+}
+
+.programme-link:hover,
+.programme-link:focus-visible {
+  color: var(--blue);
+  background: var(--blue-soft);
+  transform: translateY(-1px);
+}
+
+.topbar-right {
+  justify-self: end;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.updated {
+  text-align: right;
+  line-height: 1.2;
+}
+
+.updated span {
+  display: block;
+  color: var(--muted);
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+}
+
+.updated strong {
+  display: block;
+  margin-top: 5px;
+  font-size: .9rem;
+}
+
+.socials {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.socials a {
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  transition: transform .18s ease, box-shadow .18s ease;
+}
+
+.socials a:hover,
+.socials a:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(16, 24, 40, .15);
+}
+
+.socials img {
+  width: 36px;
+  height: 36px;
+  display: block;
+}
+
+.internship-card {
+  width: min(920px, 92%);
+  margin: 54px auto 36px;
+  padding: 30px 34px 32px;
+  text-align: center;
+  border: 2px solid var(--line-strong);
+  border-radius: 2px;
+  background: #fff;
+}
+
+.eyebrow {
+  margin: 0 0 10px;
+  color: var(--blue);
+  font-size: .76rem;
+  font-weight: 800;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+}
+
+.internship-card h1 {
+  max-width: 790px;
+  margin: 0 auto;
+  font-size: clamp(1.35rem, 3vw, 2rem);
+  line-height: 1.2;
+  letter-spacing: -0.03em;
+}
+
+.focus {
+  margin: 14px 0 0;
+  color: #344054;
+  font-size: clamp(.95rem, 2vw, 1.1rem);
+  font-weight: 700;
+}
+
+.focus span {
+  color: var(--blue);
+  padding: 0 .35rem;
+}
+
+.primary-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(28px, 7vw, 84px);
+  padding: 24px 0;
+  border-top: 1px solid #eaecf0;
+  border-bottom: 1px solid #eaecf0;
+}
+
+.primary-nav a {
+  position: relative;
+  text-decoration: none;
+  font-weight: 700;
+  color: #475467;
+  padding: 6px 0;
+}
+
+.primary-nav a::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  bottom: -8px;
+  height: 2px;
+  background: var(--blue);
+  transition: left .18s ease, right .18s ease;
+}
+
+.primary-nav a:hover,
+.primary-nav a:focus-visible,
+.primary-nav a.active {
+  color: var(--ink);
+}
+
+.primary-nav a:hover::after,
+.primary-nav a:focus-visible::after,
+.primary-nav a.active::after {
+  left: 0;
+  right: 0;
+}
+
+.about-panel {
+  display: grid;
+  grid-template-columns: .8fr 1.2fr;
+  gap: 54px;
+  padding: 42px 8px 6px;
+  align-items: start;
+}
+
+.section-kicker {
+  margin: 0 0 8px;
+  color: var(--blue);
+  font-size: .75rem;
+  font-weight: 800;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.about-panel h2 {
+  margin: 0;
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  line-height: 1.08;
+  letter-spacing: -0.035em;
+}
+
+.about-panel > p {
+  margin: 2px 0 0;
+  color: #475467;
+  line-height: 1.75;
+  font-size: 1rem;
+}
+
+@media (max-width: 820px) {
+  .page-shell {
+    width: min(100% - 18px, 1180px);
+    margin: 10px auto;
+    padding: 24px 20px 30px;
+    border-radius: 18px;
+  }
+
+  .topbar {
+    grid-template-columns: 1fr auto;
+    gap: 18px;
+  }
+
+  .school-brand img { height: 56px; }
+
+  .programme-link {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    justify-self: center;
+  }
+
+  .topbar-right {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  .updated { display: none; }
+
+  .internship-card {
+    width: 100%;
+    margin-top: 36px;
+    padding: 26px 18px;
+  }
+
+  .primary-nav {
+    gap: 22px;
+    flex-wrap: wrap;
+  }
+
+  .about-panel {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding-top: 34px;
+  }
+}
+
+@media (max-width: 520px) {
+  .topbar-right { gap: 10px; }
+  .socials a,
+  .socials img { width: 32px; height: 32px; }
+
+  .primary-nav {
+    justify-content: space-between;
+    gap: 12px;
+    font-size: .92rem;
+  }
+}
