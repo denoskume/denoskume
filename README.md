@@ -1,11 +1,3 @@
-<div align="right">
-  <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="38" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:denoskume77@gmail.com"><img src="assets/gmail-circle.svg" width="38" alt="Email" /></a>
-  &nbsp;
-  <a href="https://wa.me/33662919468"><img src="assets/whatsapp-circle.svg" width="38" alt="WhatsApp" /></a>
-</div>
-
 <a href="https://www.ec-nantes.fr/">
   <img src="https://www.ec-nantes.fr/medias/photo/logocn-rvb_1648479844750-png?ID_FICHE=1013500&amp;INLINE=FALSE" alt="Centrale Nantes" height="72" align="left" />
 </a>
@@ -23,6 +15,14 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
 </p>
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="36" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:denoskume77@gmail.com"><img src="assets/gmail-circle.svg" width="36" alt="Email" /></a>
+  &nbsp;
+  <a href="https://wa.me/33662919468"><img src="assets/whatsapp-circle.svg" width="36" alt="WhatsApp" /></a>
+</div>
 
 ---
 
