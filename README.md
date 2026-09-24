@@ -87,19 +87,19 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 
 <p align="center">
   <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction">
-    <img src="assets/project-background-subtraction.svg" width="49%" alt="Background Subtraction" />
+    <img src="assets/project-background-subtraction-light.svg" width="49%" alt="Background Subtraction" />
   </a>
   <a href="https://github.com/denoskume/Master_SIP_EC-Nantes">
-    <img src="assets/project-master-sip.svg" width="49%" alt="Master SIP Centrale Nantes" />
+    <img src="assets/project-master-sip-light.svg" width="49%" alt="Master SIP Centrale Nantes" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification">
-    <img src="assets/project-clap.svg" width="49%" alt="CLAP Audio Classification" />
+    <img src="assets/project-clap-light.svg" width="49%" alt="CLAP Audio Classification" />
   </a>
   <a href="https://github.com/denoskume/monstage">
-    <img src="assets/project-monstage.svg" width="49%" alt="MonStage" />
+    <img src="assets/project-monstage-light.svg" width="49%" alt="MonStage" />
   </a>
 </p>
 
