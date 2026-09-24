@@ -1,7 +1,7 @@
 <div align="right">
   <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="40" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1"><img src="assets/gmail-circle.svg" width="40" alt="Gmail" /></a>
+  <a href="mailto:denoskume77@gmail.com"><img src="assets/gmail-circle.svg" width="40" alt="Gmail" /></a>
 </div>
 
 <div align="center">
