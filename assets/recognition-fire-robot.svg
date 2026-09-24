@@ -1,0 +1,11 @@
+<svg width="560" height="220" viewBox="0 0 560 220" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="560" y2="220"><stop stop-color="#020204"/><stop offset="1" stop-color="#082449"/></linearGradient></defs>
+<rect width="560" height="220" rx="24" fill="url(#g)"/>
+<rect x="0" y="0" width="7" height="220" rx="3" fill="#0066FF"/>
+<circle cx="480" cy="52" r="68" fill="#0066FF" opacity=".12"/>
+<text x="34" y="50" fill="#48B8FF" font-family="Segoe UI,Arial" font-size="15" font-weight="700">AWARD · GALAXIA 2022</text>
+<text x="34" y="91" fill="white" font-family="Segoe UI,Arial" font-size="29" font-weight="800">3rd Place</text>
+<text x="34" y="125" fill="#D7EAFF" font-family="Segoe UI,Arial" font-size="15">Fire Fighting Robot using Arduino</text>
+<text x="34" y="165" fill="#F0F8FF" font-family="Segoe UI,Arial" font-size="14">Kristu Jayanti College · Science Exhibition</text>
+<text x="34" y="194" fill="#6EC8FF" font-family="Segoe UI,Arial" font-size="14" font-weight="700">September 2022</text>
+</svg>
