@@ -58,28 +58,37 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 
 ## Professional Experience
 
-### RWS — Speech AI Evaluation Specialist
-**Freelance · Remote · France** · `Aug 2026 → Present`
+<table width="100%">
+<tr>
+<td>
 
-- Evaluate French speech-to-speech AI interactions for **accuracy, naturalness, usefulness, conversational quality, and audio quality**.
-- Compare model responses using structured evaluation criteria and evidence-based assessments.
-- Identify linguistic, conversational, and speech-related quality issues in voice-based AI systems.
+<h3>Speech AI Evaluation Specialist</h3>
+<p><strong>RWS Moravia</strong> · Freelance · Remote · Aug 2026 - Present</p>
+<ul>
+<li>Evaluate French speech-to-speech AI interactions for accuracy, naturalness, and conversational quality.</li>
+<li>Compare model responses using structured criteria and evidence-based assessments.</li>
+<li>Flag linguistic, conversational, and speech-related quality issues in voice-based AI systems.</li>
+</ul>
 
-### DataAnnotation — AI Response Evaluator
-**Remote** · `Feb 2026 → Jun 2026`
+<h3>AI Response Evaluator</h3>
+<p><strong>DataAnnotation</strong> · Freelance · Remote · Feb 2026 - Jun 2026</p>
+<ul>
+<li>Evaluated AI-generated responses for correctness, reasoning quality, and instruction following.</li>
+<li>Reviewed multimodal tasks involving text, files, images, and multi-step interactions.</li>
+<li>Provided evidence-based feedback on errors, inconsistencies, and quality issues.</li>
+</ul>
 
-- Evaluated AI-generated responses for **correctness, reasoning quality, relevance, and instruction following**.
-- Reviewed multimodal tasks involving text, files, images, and multi-step interactions.
-- Provided evidence-based feedback on errors, inconsistencies, and quality issues.
+<h3>Data Analyst Intern</h3>
+<p><strong>Unified Mentor</strong> · Internship · Bangalore, India · Sep 2024 - Dec 2024</p>
+<ul>
+<li>Cleaned, explored, and interpreted structured datasets using Python workflows.</li>
+<li>Performed exploratory analysis and produced visual summaries of key patterns.</li>
+<li>Communicated findings through concise analytical reporting.</li>
+</ul>
 
-### Unified Mentor — Data Analyst Intern
-`Sep 2024 → Dec 2024`
-
-- Cleaned, explored, and interpreted structured datasets using Python workflows.
-- Performed exploratory analysis and produced visual summaries of key patterns.
-- Communicated findings through concise analytical reporting.
-
-[View internship credential →](https://github.com/denoskume/certifications-and-awards/blob/main/experience/Unified_Mentor_Data_Analyst_Internship_2024.pdf)
+</td>
+</tr>
+</table>
 
 ---
 
