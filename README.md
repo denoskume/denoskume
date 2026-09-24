@@ -6,10 +6,27 @@
   <a href="https://wa.me/33662919468"><img src="assets/whatsapp-circle.svg" width="40" alt="WhatsApp" /></a>
 </div>
 
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://www.ec-nantes.fr/medias/photo/logocn-rvb_1648479844750-png?ID_FICHE=178994&amp;INLINE=FALSE" alt="Centrale Nantes" height="68" />
+    </td>
+    <td align="right" width="50%">
+      <strong>MSc. CORO DASSIP</strong>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <strong>Seeking a 6-month end-of-studies internship from February 2027</strong><br/>
+      <strong>Applied Machine Learning • Computer Vision • Image Processing</strong>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-
-<img src="assets/profile-banner.svg?v=6" width="100%" alt="MSc Data Science, Signal and Image Processing at Centrale Nantes — seeking a 6-month end-of-studies internship from February 2027 in Applied Machine Learning, Computer Vision and Image Processing" />
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=820&height=72&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Evaluating+%E2%80%A2+Improving;From+data+to+validated+models+and+visual+systems)](https://git.io/typing-svg)
 
