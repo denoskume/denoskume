@@ -129,4 +129,5 @@ React · Vite · Git · GitHub · VS Code · WSL/Ubuntu · GitHub Actions
 
 - **[Google Advanced Data Analytics Professional Certificate](https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf)** — Google / Coursera
 - **[3rd Place — Fire Fighting Robot using Arduino](https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg)** — GALAXIA Science Exhibition
+- **[Star of the Month — Campus Ambassador Programme](https://www.linkedin.com/posts/kaur-pawandeep_congratulations-denos-share-7172899030623014912--dsG/)** — ISDC Learning
 - [Credential archive →](https://github.com/denoskume/certifications-and-awards)
