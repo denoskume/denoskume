@@ -38,15 +38,19 @@ Alongside my studies, I have worked in **AI evaluation and data analysis**, wher
 
 ## Education
 
-### [Centrale Nantes](https://www.ec-nantes.fr/)
-**MSc — Data Science, Signal & Image Processing** · `2025 → 2027`
+### MSc — Data Science, Signal & Image Processing
+**[Centrale Nantes](https://www.ec-nantes.fr/)** · Nantes, France · `2025 → 2027`
 
-Advanced coursework and applied work across data science, signal processing, image processing, machine learning, deep learning, computer vision, and optimization.
+Coursework and applied work across **machine learning, deep learning, computer vision, image processing, signal processing, data science, and optimization**.
 
-### [Kristu Jayanti University — Bangalore](https://www.kristujayanti.edu.in/)
-**BSc — Computer Science & Electronics** · `2021 → 2025`
+Selected academic work includes **camera calibration, feature detection and tracking, spatial and frequency-domain filtering, image segmentation, PyTorch classification, and multimodal machine learning**.
 
-Built core foundations in programming, computer science, electronics, mathematics, and applied technical problem solving.
+[View MSc academic portfolio →](https://github.com/denoskume/Master_SIP_EC-Nantes)
+
+### BSc — Computer Science & Electronics
+**[Kristu Jayanti University](https://www.kristujayanti.edu.in/)** · Bangalore, India · `2021 → 2025`
+
+Built foundations in **programming, computer science, electronics, mathematics, and applied technical problem solving**.
 
 ---
 
