@@ -35,17 +35,20 @@
 <path d="M245 160H955" stroke="url(#fade)" stroke-width="2"/>
 
 <text x="600" y="76" text-anchor="middle" fill="#D6E8FF"
-      font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="600">
+      font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600"
+      textLength="920" lengthAdjust="spacingAndGlyphs">
   MSc in Data Science, Signal &amp; Image Processing | Centrale Nantes
 </text>
 
 <text x="600" y="128" text-anchor="middle" fill="#FFFFFF"
-      font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="650">
+      font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650"
+      textLength="880" lengthAdjust="spacingAndGlyphs">
   Seeking a 6-month end-of-studies internship from February 2027
 </text>
 
 <text x="600" y="205" text-anchor="middle" fill="#FFFFFF"
-      font-family="Inter,Segoe UI,Arial,sans-serif" font-size="39" font-weight="800" letter-spacing=".5">
+      font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="750"
+      textLength="940" lengthAdjust="spacingAndGlyphs">
   <tspan fill="#FFFFFF">Applied Machine Learning</tspan>
   <tspan fill="#0F66FF">  •  </tspan>
   <tspan fill="#FFFFFF">Computer Vision</tspan>
