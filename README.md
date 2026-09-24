@@ -28,11 +28,13 @@
 
 ## About me
 
-I hold a **BSc in Computer Science & Electronics from [Kristu Jayanti University](https://www.kristujayanti.edu.in/), Bangalore** and I am currently completing an **MSc in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**.
+I hold a **BSc in Computer Science & Electronics from [Kristu Jayanti University](https://www.kristujayanti.edu.in/), Bangalore**. I am currently completing an **MSc in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**.
 
-My academic and project work is primarily based on **[Python](https://github.com/denoskume/Master_SIP_EC-Nantes)**, using **NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV, and Matplotlib** across data analysis, machine learning, computer vision, image processing, model evaluation, and numerical analysis. I also developed **[MonStage](https://github.com/denoskume/monstage)** with **TypeScript, React, and Vite**, including authentication, ranking and filtering, responsive interfaces, testing, and deployment.
+My academic and project work is primarily based on **[Python](https://github.com/denoskume/Master_SIP_EC-Nantes)**. I use **NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV, and Matplotlib** for data analysis, machine learning, computer vision, image processing, model evaluation, and numerical analysis.
 
-Alongside my studies, I have worked in **AI evaluation and data analysis**, with a focus on accuracy, evidence-based assessment, and clear technical reasoning. I am currently seeking an engineering internship where I can apply these foundations to real problems while continuing to develop my practical skills.
+I also developed **[MonStage](https://github.com/denoskume/monstage)** with **TypeScript, React, and Vite**. It includes authentication, ranking and filtering, responsive interfaces, testing, and deployment.
+
+Alongside my studies, I have worked in **AI evaluation and data analysis**. My focus is accuracy, evidence-based assessment, and clear technical reasoning. I am currently seeking an engineering internship where I can apply these foundations to real problems and continue developing my practical skills.
 
 ---
 
