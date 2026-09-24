@@ -29,11 +29,11 @@
 ## About me
 
 <p align="justify">
-Final-year <strong>MSc student in Data Science, Signal &amp; Image Processing at <a href="https://www.ec-nantes.fr/"><img src="assets/centrale-nantes-inline.svg" alt="Centrale Nantes" height="18" /></a></strong>, after completing a <strong>BSc in Computer Science &amp; Electronics from <a href="https://www.kristujayanti.edu.in/"><img src="assets/kristu-jayanti-inline.svg" alt="Kristu Jayanti University" height="18" /></a>, Bangalore</strong>. I moved from general computing and electronics toward <strong>applied machine learning, computer vision, and image processing</strong>, because I learn best by <strong>implementing, testing, and comparing results</strong>.
+Final-year MSc student in Data Science, Signal &amp; Image Processing at <a href="https://www.ec-nantes.fr/"><img src="assets/centrale-nantes-inline.svg" alt="Centrale Nantes" height="18" /></a>, after completing a BSc in Computer Science &amp; Electronics from <a href="https://www.kristujayanti.edu.in/"><img src="assets/kristu-jayanti-inline.svg" alt="Kristu Jayanti University" height="18" /></a>, Bangalore. I moved from general computing and electronics toward <strong>applied machine learning, computer vision, and image processing</strong>, because I learn best by implementing, testing, and comparing results.
 </p>
 
 <p align="justify">
-My current work spans <strong>image processing and computer vision</strong>: filtering, segmentation, camera calibration, and feature-based tracking, as well as <strong>deep learning and multimodal machine learning</strong>. I mainly use <strong>Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy</strong>. Recent projects include a <strong><a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction">background subtraction pipeline</a></strong> and <strong><a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification">CLAP-based zero-shot audio classification</a></strong>; broader work is documented in my <strong><a href="https://github.com/denoskume/Master_SIP_EC-Nantes">MSc portfolio</a></strong>. I also built <strong><a href="https://github.com/denoskume/monstage">MonStage</a></strong>, a React/TypeScript internship platform.
+My current work spans <strong>image processing and computer vision</strong>: filtering, segmentation, camera calibration, and feature-based tracking, as well as deep learning and multimodal machine learning. I mainly use Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy. Recent projects include a <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction">background subtraction pipeline</a> and <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification">CLAP-based zero-shot audio classification</a>; broader work is documented in my <a href="https://github.com/denoskume/Master_SIP_EC-Nantes">MSc portfolio</a>. I also built <a href="https://github.com/denoskume/monstage">MonStage</a>, a React/TypeScript internship platform.
 </p>
 
 <p align="justify">
@@ -41,7 +41,7 @@ My experience in <strong>AI evaluation and data analysis</strong> trained me to 
 </p>
 
 <p align="justify">
-I am seeking a <strong>6-month final-year internship starting February 2027</strong> in <strong>applied machine learning, computer vision, or image processing</strong>.
+I am seeking a <strong>6-month final-year internship starting February 2027</strong> in applied machine learning, computer vision, or image processing.
 </p>
 
 ---
