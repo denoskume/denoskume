@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:7B2FFF&height=220&section=header&text=Denos%20Kume&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M2%20MSc%20%7C%20Data%20Science%2C%20Signal%20%26%20Image%20Processing%20%7C%20Centrale%20Nantes&descSize=15&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:7B2FFF&height=220&section=header&text=Denos%20Kume&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M2%20MSc%20%7C%20Data%20Science%2C%20Signal%20and%20Image%20Processing%20%7C%20Centrale%20Nantes&descSize=15&descAlignY=55&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=760&height=70&lines=Applied+Machine+Learning+%26+Computer+Vision;Data+%E2%80%A2+Signals+%E2%80%A2+Images+%E2%80%A2+Models;Learning+%E2%80%A2+Building+%E2%80%A2+Evaluating+%E2%80%A2+Improving;Seeking+a+6-month+final-year+internship+%E2%80%A2+February+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=760&height=70&lines=Applied+Machine+Learning+and+Computer+Vision;Data+%E2%80%A2+Signals+%E2%80%A2+Images+%E2%80%A2+Models;Learning+%E2%80%A2+Building+%E2%80%A2+Evaluating+%E2%80%A2+Improving;Seeking+a+6-month+final-year+internship+%E2%80%A2+February+2027)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=denoskume&label=PROFILE+VIEWS&color=00D4FF&style=flat-square&label_color=0d1117)](https://github.com/denoskume)
 
