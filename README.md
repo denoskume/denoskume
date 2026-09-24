@@ -30,11 +30,11 @@
 
 I hold a **BSc in Computer Science & Electronics from [Kristu Jayanti University](https://www.kristujayanti.edu.in/), Bangalore**. I am currently completing an **MSc in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**.
 
-My academic and project work is primarily based on **[Python](https://github.com/denoskume/Master_SIP_EC-Nantes)**. I use **NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV, and Matplotlib** for data analysis, machine learning, computer vision, image processing, model evaluation, and numerical analysis.
+Most of my academic and project work is built with **[Python](https://github.com/denoskume/Master_SIP_EC-Nantes)**. I use **NumPy, pandas, SciPy, and Matplotlib** for data analysis and numerical work. For machine learning and computer vision, I work with **scikit-learn, PyTorch, and OpenCV**.
 
-I also developed **[MonStage](https://github.com/denoskume/monstage)** with **TypeScript, React, and Vite**. It includes authentication, ranking and filtering, responsive interfaces, testing, and deployment.
+I also developed **[MonStage](https://github.com/denoskume/monstage)** with **TypeScript, React, and Vite**. The project includes authentication, ranking, filtering, responsive design, testing, and deployment.
 
-Alongside my studies, I have worked in **AI evaluation and data analysis**. My focus is accuracy, evidence-based assessment, and clear technical reasoning. I am currently seeking an engineering internship where I can apply these foundations to real problems and continue developing my practical skills.
+Alongside my studies, I have worked in **AI evaluation and data analysis**. This work requires accuracy, evidence-based judgement, and clear technical reasoning. I am currently seeking an engineering internship where I can apply these skills to real problems and keep growing through practical work.
 
 ---
 
