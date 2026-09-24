@@ -1,0 +1,19 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="40" y1="20" x2="1160" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.48" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="220" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.50"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#g)"/>
+  <path d="M0 220C180 245 345 250 520 238C730 224 850 196 1020 204C1090 207 1150 214 1200 222V300H0V220Z" fill="url(#wave)"/>
+  <path d="M0 240C220 255 410 254 600 240C820 224 1010 220 1200 238V300H0V240Z" fill="#FFFFFF" fill-opacity="0.16"/>
+  <text x="600" y="112" text-anchor="middle" fill="white" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800">Denos Kume</text>
+  <text x="600" y="160" text-anchor="middle" fill="white" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">M2 MSc · Data Science, Signal &amp; Image Processing</text>
+  <text x="600" y="198" text-anchor="middle" fill="#E0F2FE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="500">Centrale Nantes · Applied Machine Learning &amp; Computer Vision</text>
+</svg>
