@@ -1,10 +1,15 @@
-# Denos Kume
+<h1 align="center">Denos Kume</h1>
 
-**M2 MSc — Data Science, Signal & Image Processing @ Centrale Nantes**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&center=true&vCenter=true&width=900&lines=M2+MSc+%E2%80%94+Data+Science%2C+Signal+%26+Image+Processing;Applied+Machine+Learning+%26+Computer+Vision;Learning+%E2%80%A2+Building+%E2%80%A2+Evaluating+%E2%80%A2+Improving;Seeking+a+6-month+final-year+internship+%E2%80%94+February+2027"
+    alt="Denos Kume — MSc Data Science, Signal & Image Processing; Applied Machine Learning & Computer Vision"
+  />
+</p>
 
-Final-year student with solid foundations built through academic work, projects, and AI/data evaluation experience. I am still developing my expertise and I am motivated to learn quickly, contribute to real-world problems, and grow within an engineering team.
-
-> **Seeking a 6-month final-year internship in Applied Machine Learning & Computer Vision, starting February 2027.**
+<p align="center">
+Final-year student at Centrale Nantes with solid foundations built through academic work, technical projects, and AI/data evaluation experience. I am continuing to develop my expertise and looking for opportunities to learn, contribute, and grow within an engineering team.
+</p>
 
 ---
 
