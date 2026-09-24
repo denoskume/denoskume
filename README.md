@@ -28,9 +28,23 @@
 
 ## About me
 
-Final-year MSc student at **Centrale Nantes**, combining academic training with hands-on experience in AI evaluation, data analysis, and technical projects. My work has given me solid foundations in Python, experimentation, machine learning workflows, computer vision, and quantitative evaluation.
+My academic path started with a **BSc in Computer Science & Electronics**, where I built foundations in programming, computing, mathematics, and electronics. I am now completing an **MSc in Data Science, Signal & Image Processing at Centrale Nantes**, extending that background into machine learning, computer vision, image processing, signal processing, and quantitative experimentation.
 
-I am still early in my professional journey and focused on turning those foundations into stronger engineering skills through real-world work. I value **clear reasoning, reproducible methods, careful evaluation, and continuous improvement**, and I am looking to contribute seriously while learning from experienced engineers.
+Alongside my studies, I have gained hands-on experience in **AI evaluation and data analysis**, which strengthened my attention to correctness, evidence, and clear technical judgement. I am still early in my professional journey, and I am looking for an engineering environment where I can contribute seriously, learn from experienced teams, and turn strong foundations into reliable applied skills.
+
+---
+
+## Education
+
+### Centrale Nantes
+**MSc — Data Science, Signal & Image Processing** · `2025 → 2027`
+
+Advanced coursework and applied work across data science, signal processing, image processing, machine learning, deep learning, computer vision, and optimization.
+
+### Kristu Jayanti College
+**BSc — Computer Science & Electronics** · `2021 → 2025`
+
+Built core foundations in programming, computer science, electronics, mathematics, and applied technical problem solving.
 
 ---
 
@@ -103,31 +117,8 @@ Git · GitHub · VS Code · WSL/Ubuntu · GitHub Actions
 
 ---
 
-## Education
-
-### Centrale Nantes
-**MSc — Data Science, Signal & Image Processing** · `2025 → 2027`
-
-Data science · signal processing · image processing · machine learning · deep learning · computer vision · optimization
-
-### Kristu Jayanti College
-**BSc — Computer Science & Electronics** · `2021 → 2025`
-
-Programming · computer science · electronics · mathematics · applied technical problem solving
-
----
-
 ## Credentials & Recognition
 
 - **[Google Advanced Data Analytics Professional Certificate](https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf)** — Google / Coursera
 - **[3rd Place — Fire Fighting Robot using Arduino](https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg)** — GALAXIA Science Exhibition
 - [Credential archive →](https://github.com/denoskume/certifications-and-awards)
-
----
-
-<div align="center">
-
-**February 2027 · 6 months · France**  
-**Applied Machine Learning • Computer Vision • Image Processing**
-
-</div>
