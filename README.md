@@ -28,11 +28,13 @@
 
 ## About me
 
-Final-year **MSc student in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**, after completing a **BSc in Computer Science & Electronics from [Kristu Jayanti University](https://www.kristujayanti.edu.in/), Bangalore**. I moved from general computing and electronics toward **applied machine learning, computer vision, and image processing** because I learn best by **implementing, testing, and comparing results**.
+Final-year **MSc student in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**, after completing a **BSc in Computer Science & Electronics from [Kristu Jayanti University](https://www.kristujayanti.edu.in/), Bangalore**. I moved from general computing and electronics toward **applied machine learning, computer vision, and image processing**, because I learn best by **implementing, testing, and comparing results**.
 
-My current work spans **image processing and computer vision** — filtering, segmentation, camera calibration, and feature-based tracking — as well as **deep learning and multimodal machine learning**. I mainly use **Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy**. Recent work includes **[Background Subtraction](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction)** and **[CLAP zero-shot audio classification](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification)**, with broader work documented in my **[MSc portfolio](https://github.com/denoskume/Master_SIP_EC-Nantes)**. I also built and deployed **[MonStage](https://github.com/denoskume/monstage)**, a React/TypeScript internship platform.
+My current work spans **image processing and computer vision**: filtering, segmentation, camera calibration, and feature-based tracking, as well as **deep learning and multimodal machine learning**. I mainly use **Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy**. Recent projects include a **[background subtraction pipeline](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction)** and **[CLAP-based zero-shot audio classification](https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification)**; broader work is documented in my **[MSc portfolio](https://github.com/denoskume/Master_SIP_EC-Nantes)**. I also built **[MonStage](https://github.com/denoskume/monstage)**, a React/TypeScript internship platform.
 
-My experience in **AI evaluation and data analysis** trained me to question outputs, check evidence, and explain why a result is reliable — or not. I am seeking a **6-month final-year internship starting February 2027** in **applied machine learning, computer vision, or image processing**.
+My experience in **AI evaluation and data analysis** trained me to question outputs, check evidence, and explain why a result is reliable, or not.
+
+I am seeking a **6-month final-year internship starting February 2027** in **applied machine learning, computer vision, or image processing**.
 
 ---
 
