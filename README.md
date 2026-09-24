@@ -2,14 +2,6 @@
 
 <img src="assets/profile-banner.svg" width="100%" alt="Denos Kume — M2 MSc Data Science, Signal and Image Processing — Applied ML and Computer Vision" />
 
-<br/>
-
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQE530iwhyU1Eg/profile-displayphoto-scale_400_400/B4EaAsBtZeHYAg-/0/1787445043026?e=1792022400&v=beta&t=E9PADqJ209zSqIgrd_emkIejT7sqnf8s8Z-AhMTTw6M" width="145" alt="Denos Kume" />
-
-<h2>Denos KUME</h2>
-
-**MSc Data Science, Signal & Image Processing @ Centrale Nantes**  
-**Applied ML & Computer Vision · Final-Year Internship — February 2027**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=820&height=72&lines=Applied+Machine+Learning+and+Computer+Vision;From+data+to+validated+models+and+visual+systems;Learning+deeply+%E2%80%A2+Building+carefully+%E2%80%A2+Evaluating+honestly;Seeking+a+6-month+final-year+internship+%E2%80%A2+February+2027)](https://git.io/typing-svg)
 
