@@ -12,7 +12,7 @@
       <img src="https://www.ec-nantes.fr/medias/photo/logocn-rvb_1648479844750-png?ID_FICHE=178994&amp;INLINE=FALSE" alt="Centrale Nantes" height="68" />
     </td>
     <td align="right" width="50%">
-      <strong>MSc. CORO DASSIP</strong>
+      <a href="https://www.ec-nantes.fr/study/masters/data-science-signal-and-image-processing"><strong>MSc. CORO DASSIP</strong></a>
     </td>
   </tr>
 </table>
