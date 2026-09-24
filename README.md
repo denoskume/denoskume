@@ -28,9 +28,9 @@
 
 ## About me
 
-Final-year MSc student at **Centrale Nantes** with solid foundations developed through academic work, technical projects, and AI/data evaluation experience. I am still developing my expertise and looking for an engineering environment where I can **learn quickly, contribute to real problems, and grow**.
+Final-year MSc student at **Centrale Nantes**, combining academic training with hands-on experience in AI evaluation, data analysis, and technical projects. My work has given me solid foundations in Python, experimentation, machine learning workflows, computer vision, and quantitative evaluation.
 
-My current professional direction is **Applied Machine Learning, Computer Vision, and Image Processing**, supported by broader training in **Data Science, Signal Processing, Deep Learning, and numerical methods**.
+I am still early in my professional journey and focused on turning those foundations into stronger engineering skills through real-world work. I value **clear reasoning, reproducible methods, careful evaluation, and continuous improvement**, and I am looking to contribute seriously while learning from experienced engineers.
 
 ---
 
