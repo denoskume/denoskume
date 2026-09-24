@@ -28,7 +28,7 @@
 
 ## About me
 
-I hold a **BSc in Computer Science & Electronics from [Kristu Jayanti University, Bangalore](https://www.kristujayanti.edu.in/)** and I am currently completing an **MSc in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**.
+I hold a **BSc in Computer Science & Electronics from [Kristu Jayanti University](https://www.kristujayanti.edu.in/), Bangalore** and I am currently completing an **MSc in Data Science, Signal & Image Processing at [Centrale Nantes](https://www.ec-nantes.fr/)**.
 
 I’m comfortable using **[Python](https://github.com/denoskume/Master_SIP_EC-Nantes)** and libraries such as **NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV, and Matplotlib** for data analysis, machine learning, computer vision, image processing, model evaluation, and numerical analysis. Beyond Python, I built **[MonStage](https://github.com/denoskume/monstage)**, a responsive internship intelligence platform using **TypeScript, React, and Vite**, with authentication, ranking and filtering, responsive UI design, testing, and deployment.
 
