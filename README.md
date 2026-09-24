@@ -29,7 +29,7 @@
 ## About me
 
 <p align="justify">
-Final-year <strong>MSc student in Data Science, Signal &amp; Image Processing at <a href="https://www.ec-nantes.fr/">Centrale Nantes</a></strong>, after completing a <strong>BSc in Computer Science &amp; Electronics from <a href="https://www.kristujayanti.edu.in/">Kristu Jayanti University</a>, Bangalore</strong>. I moved from general computing and electronics toward <strong>applied machine learning, computer vision, and image processing</strong>, because I learn best by <strong>implementing, testing, and comparing results</strong>.
+Final-year <strong>MSc student in Data Science, Signal &amp; Image Processing at <a href="https://www.ec-nantes.fr/"><img src="assets/centrale-nantes-inline.svg" alt="Centrale Nantes" height="18" /></a></strong>, after completing a <strong>BSc in Computer Science &amp; Electronics from <a href="https://www.kristujayanti.edu.in/"><img src="assets/kristu-jayanti-inline.svg" alt="Kristu Jayanti University" height="18" /></a>, Bangalore</strong>. I moved from general computing and electronics toward <strong>applied machine learning, computer vision, and image processing</strong>, because I learn best by <strong>implementing, testing, and comparing results</strong>.
 </p>
 
 <p align="justify">
