@@ -1,17 +1,35 @@
-<h1 align="center">Denos Kume</h1>
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Denos Kume — MSc Data Science, Signal & Image Processing — Applied Machine Learning & Computer Vision" />
+</p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&center=true&vCenter=true&width=900&lines=M2+MSc+%E2%80%94+Data+Science%2C+Signal+%26+Image+Processing;Applied+Machine+Learning+%26+Computer+Vision;Learning+%E2%80%A2+Building+%E2%80%A2+Evaluating+%E2%80%A2+Improving;Seeking+a+6-month+final-year+internship+%E2%80%94+February+2027"
-    alt="Denos Kume — MSc Data Science, Signal & Image Processing; Applied Machine Learning & Computer Vision"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&center=true&vCenter=true&width=950&lines=Applied+Machine+Learning+%26+Computer+Vision;Data+%E2%80%A2+Signals+%E2%80%A2+Images+%E2%80%A2+Models;Learning+%E2%80%A2+Building+%E2%80%A2+Evaluating+%E2%80%A2+Improving;Seeking+a+6-month+final-year+internship+%E2%80%A2+February+2027"
+    alt="Typing animation for Denos Kume's profile"
   />
 </p>
 
 <p align="center">
-Final-year student at Centrale Nantes with solid foundations built through academic work, technical projects, and AI/data evaluation experience. I am continuing to develop my expertise and looking for opportunities to learn, contribute, and grow within an engineering team.
+  <img src="https://komarev.com/ghpvc/?username=denoskume&label=PROFILE+VIEWS&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/denoskume"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/denoskume"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/denoskume/Master_SIP_EC-Nantes"><img src="https://img.shields.io/badge/MASTER%20SIP-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Master SIP" /></a>
+  <a href="https://github.com/denoskume/monstage"><img src="https://img.shields.io/badge/MONSTAGE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="MonStage" /></a>
 </p>
 
 ---
+
+## About Me
+
+Final-year student at **Centrale Nantes** with solid foundations built through academic work, technical projects, and AI/data evaluation experience. I am continuing to develop my expertise and looking for opportunities to **learn, contribute, and grow** within an engineering team.
+
+**Seeking a 6-month final-year internship in Applied Machine Learning & Computer Vision, starting February 2027.**
+
+---
+
 
 ## Professional Experience
 
