@@ -6,9 +6,28 @@
   <a href="https://wa.me/33662919468"><img src="assets/whatsapp-circle.svg" width="38" alt="WhatsApp" /></a>
 </div>
 
-<a href="https://www.ec-nantes.fr/study/masters/data-science-signal-and-image-processing">
-  <img src="assets/readme-topbar.svg" width="100%" alt="Centrale Nantes — MSc CORO DASSIP — Last updated 24 Sept 2026" />
-</a>
+<table width="100%">
+  <tr>
+    <td width="33%" align="left" valign="middle">
+      <a href="https://www.ec-nantes.fr/" title="Centrale Nantes">
+        <img
+          src="https://www.ec-nantes.fr/medias/photo/logocn-rvb_1648479844750-png?ID_FICHE=178994&amp;INLINE=FALSE"
+          alt="Centrale Nantes"
+          height="68"
+        />
+      </a>
+    </td>
+    <td width="34%" align="center" valign="middle">
+      <a href="https://www.ec-nantes.fr/study/masters/data-science-signal-and-image-processing">
+        <strong>MSc. CORO DASSIP</strong>
+      </a>
+    </td>
+    <td width="33%" align="right" valign="middle">
+      <sub>LAST UPDATED</sub><br/>
+      <strong>24 Sept 2026</strong>
+    </td>
+  </tr>
+</table>
 
 <img src="assets/readme-internship-card.svg" width="100%" alt="Seeking a 6-month end-of-studies internship from February 2027 — Applied Machine Learning, Computer Vision and Image Processing" />
 
