@@ -12,22 +12,16 @@
 
 <img src="assets/readme-last-updated.svg" alt="Last updated 24 Sept 2026" height="62" align="right" />
 
-<p align="center">
-  <a href="https://www.ec-nantes.fr/study/masters/data-science-signal-and-image-processing">
-    <strong>MSc. CORO DASSIP</strong>
-  </a>
-</p>
-
 <br clear="both" />
 
-<img src="assets/readme-internship-card.svg" width="100%" alt="Seeking a 6-month end-of-studies internship from February 2027 — Applied Machine Learning, Computer Vision and Image Processing" />
+<img src="assets/readme-internship-card.svg?v=2" width="100%" alt="Seeking a 6-month end-of-studies internship from February 2027 — Applied Machine Learning, Computer Vision and Image Processing" />
 
 <p align="center">
-  <a href="#about-me"><strong>About me</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works"><strong>Lab work</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects"><strong>Projects</strong></a>
+  <a href="#about-me"><img src="assets/nav-about.svg" height="38" alt="About me" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works"><img src="assets/nav-lab.svg" height="38" alt="Lab work" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
 </p>
 
 ---
