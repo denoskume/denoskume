@@ -1,0 +1,9 @@
+<svg width="560" height="240" viewBox="0 0 560 240" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="560" y2="240"><stop stop-color="#18102B"/><stop offset="1" stop-color="#6D28D9"/></linearGradient></defs>
+<rect width="560" height="240" rx="24" fill="url(#g)"/><circle cx="478" cy="58" r="72" fill="#C084FC" opacity=".16"/>
+<text x="34" y="58" fill="#D8B4FE" font-family="Segoe UI,Arial" font-size="16" font-weight="700">FULL-STACK PRODUCT · AUTOMATION</text>
+<text x="34" y="98" fill="white" font-family="Segoe UI,Arial" font-size="29" font-weight="800">MonStage</text>
+<text x="34" y="132" fill="#F3E8FF" font-family="Segoe UI,Arial" font-size="15">Internship discovery, prioritization &amp; application tracking</text>
+<text x="34" y="174" fill="#FAF5FF" font-family="Segoe UI,Arial" font-size="14">React · TypeScript · auth · Cloudflare Worker · Apps Script</text>
+<text x="34" y="202" fill="#D8B4FE" font-family="Segoe UI,Arial" font-size="14" font-weight="700">Responsive UI · deployment · end-to-end workflow</text>
+</svg>
