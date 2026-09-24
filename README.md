@@ -10,11 +10,13 @@
 
 <div align="center">
   <a href="#about-me"><img src="assets/nav-about.svg" height="38" alt="About me" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Lab_Works"><img src="assets/nav-lab.svg" height="38" alt="Lab work" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <a href="#education"><img src="assets/nav-education.svg" height="38" alt="Education" /></a>
+  &nbsp;&nbsp;
+  <a href="#professional-experience"><img src="assets/nav-experience.svg" height="38" alt="Experience" /></a>
+  &nbsp;&nbsp;
+  <a href="#selected-projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="36" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:denoskume77@gmail.com"><img src="assets/gmail-current.svg?v=1" width="36" alt="Email" /></a>
