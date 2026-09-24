@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="40" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1"><img src="assets/gmail-circle.svg" width="40" alt="Gmail" /></a>
+</div>
+
 <div align="center">
 
 <img src="assets/profile-banner.svg" width="100%" alt="Denos Kume — M2 MSc Data Science, Signal and Image Processing — Applied ML and Computer Vision" />
@@ -7,7 +13,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=denoskume&label=PROFILE+VIEWS&color=22D3EE&style=flat-square&label_color=0d1117)](https://github.com/denoskume)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denoskume)
 [![Master SIP](https://img.shields.io/badge/Master_SIP-0284C7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/denoskume/Master_SIP_EC-Nantes)
 [![MonStage](https://img.shields.io/badge/MonStage-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/denoskume/monstage)
 [![Credentials](https://img.shields.io/badge/Credentials-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/denoskume/certifications-and-awards)
