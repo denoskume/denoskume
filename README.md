@@ -127,7 +127,21 @@ React · Vite · Git · GitHub · VS Code · WSL/Ubuntu · GitHub Actions
 
 ## Credentials & Recognition
 
-- **[Google Advanced Data Analytics Professional Certificate](https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf)** — Google / Coursera
-- **[3rd Place — Fire Fighting Robot using Arduino](https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg)** — GALAXIA Science Exhibition
-- **[Star of the Month — Campus Ambassador Programme](https://www.linkedin.com/posts/kaur-pawandeep_congratulations-denos-share-7172899030623014912--dsG/)** — ISDC Learning
-- [Credential archive →](https://github.com/denoskume/certifications-and-awards)
+<p align="center">
+  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf">
+    <img src="assets/credential-google-analytics.svg" width="49%" alt="Google Advanced Data Analytics Professional Certificate" />
+  </a>
+  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg">
+    <img src="assets/recognition-fire-robot.svg" width="49%" alt="3rd Place Fire Fighting Robot using Arduino" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/kaur-pawandeep_congratulations-denos-share-7172899030623014912--dsG/">
+    <img src="assets/recognition-star-month.svg" width="49%" alt="Star of the Month — ISDC Learning" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/denoskume/certifications-and-awards">View credential archive →</a>
+</p>
