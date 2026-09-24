@@ -1,37 +1,31 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#020204"/>
-    <stop offset="0.56" stop-color="#05070B"/>
-    <stop offset="1" stop-color="#07152D"/>
-  </linearGradient>
-  <linearGradient id="blue" x1="250" y1="0" x2="1060" y2="0">
+  <linearGradient id="blue" x1="250" y1="0" x2="950" y2="0" gradientUnits="userSpaceOnUse">
     <stop stop-color="#0066FF"/>
-    <stop offset=".55" stop-color="#00A3FF"/>
-    <stop offset="1" stop-color="#54C8FF"/>
+    <stop offset=".52" stop-color="#1DA1FF"/>
+    <stop offset="1" stop-color="#7DD3FF"/>
   </linearGradient>
-  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 225) rotate(180) scale(340 170)">
-    <stop stop-color="#0066FF" stop-opacity=".28"/>
-    <stop offset="1" stop-color="#0066FF" stop-opacity="0"/>
-  </radialGradient>
 </defs>
-<rect width="1200" height="320" rx="28" fill="url(#bg)"/>
-<rect width="1200" height="320" rx="28" fill="url(#glow)"/>
-<g opacity=".15" stroke="#128CFF">
-  <path d="M720 0V320"/><path d="M790 0V320"/><path d="M860 0V320"/><path d="M930 0V320"/><path d="M1000 0V320"/><path d="M1070 0V320"/><path d="M1140 0V320"/>
-  <path d="M680 72H1200"/><path d="M680 142H1200"/><path d="M680 212H1200"/><path d="M680 282H1200"/>
+<rect width="1200" height="300" rx="28" fill="#03060D"/>
+<g opacity=".11" stroke="#1B4D8A">
+  <path d="M0 75H1200"/><path d="M0 150H1200"/><path d="M0 225H1200"/>
+  <path d="M300 0V300"/><path d="M450 0V300"/><path d="M600 0V300"/><path d="M750 0V300"/><path d="M900 0V300"/><path d="M1050 0V300"/>
 </g>
-<g opacity=".8">
-  <rect x="1038" y="172" width="18" height="18" fill="#E8F6FF"/><rect x="1062" y="172" width="18" height="18" fill="#85D8FF"/><rect x="1086" y="172" width="18" height="18" fill="#128CFF"/>
-  <rect x="1014" y="196" width="18" height="18" fill="#85D8FF"/><rect x="1038" y="196" width="18" height="18" fill="#128CFF"/><rect x="1062" y="196" width="18" height="18" fill="#0066FF"/>
-  <rect x="990" y="220" width="18" height="18" fill="#128CFF"/><rect x="1014" y="220" width="18" height="18" fill="#0066FF"/>
+<g opacity=".95">
+  <rect x="1010" y="170" width="18" height="18" fill="#2AA4FF"/>
+  <rect x="1034" y="170" width="18" height="18" fill="#87D7FF"/>
+  <rect x="1058" y="170" width="18" height="18" fill="#1B7DFF"/>
+  <rect x="986" y="194" width="18" height="18" fill="#58C2FF"/>
+  <rect x="1010" y="194" width="18" height="18" fill="#0F66FF"/>
+  <rect x="1034" y="194" width="18" height="18" fill="#2AA4FF"/>
+  <rect x="962" y="218" width="18" height="18" fill="#0F66FF"/>
+  <rect x="986" y="218" width="18" height="18" fill="#58C2FF"/>
 </g>
-<path d="M405 241C455 175 500 178 537 240C566 287 592 168 622 240C650 305 674 118 706 239C730 328 758 191 786 241" stroke="url(#blue)" stroke-width="2.2" opacity=".9"/>
-<path d="M330 250C386 242 417 208 459 250" stroke="#0066FF" stroke-width="2" opacity=".7"/>
-<text x="600" y="92" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="4">DENOS KUME</text>
-<text x="600" y="154" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800" letter-spacing=".5">MACHINE LEARNING</text>
-<rect x="595" y="116" width="4" height="49" fill="#0066FF"/>
-<text x="820" y="154" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800" letter-spacing=".5">COMPUTER VISION</text>
-<text x="600" y="202" text-anchor="middle" fill="#D6E9FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500" letter-spacing="5">SIGNAL &amp; IMAGE PROCESSING  |  APPLIED AI</text>
-<text x="600" y="286" text-anchor="middle" fill="#83CFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2">M2 MSc · Centrale Nantes</text>
+<path d="M315 235C355 235 370 205 400 205C430 205 440 255 470 255C500 255 515 190 545 190C575 190 585 245 615 245C645 245 655 170 685 170C715 170 730 240 760 240C790 240 805 200 835 200C865 200 875 220 905 220" stroke="url(#blue)" stroke-width="2.4" stroke-linecap="round"/>
+<text x="600" y="70" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">DENOS KUME</text>
+<text x="600" y="137" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="43" font-weight="800">
+  <tspan>MACHINE LEARNING</tspan><tspan fill="#0F66FF">  |  </tspan><tspan>COMPUTER VISION</tspan>
+</text>
+<text x="600" y="185" text-anchor="middle" fill="#D6E8FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" letter-spacing="3">SIGNAL &amp; IMAGE PROCESSING  |  APPLIED AI</text>
+<text x="600" y="270" text-anchor="middle" fill="#7FC8FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2">M2 MSc · Centrale Nantes</text>
 </svg>
