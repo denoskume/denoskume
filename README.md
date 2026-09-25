@@ -33,7 +33,7 @@ Final-year MSc student in Data Science, Signal &amp; Image Processing at <a href
 </p>
 
 <p align="justify">
-My current work spans <strong>image processing and computer vision</strong>: filtering, segmentation, camera calibration, and feature-based tracking, as well as deep learning and multimodal machine learning. I mainly use Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy. Recent projects include a <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction">background subtraction pipeline</a> and <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification">CLAP-based zero-shot audio classification</a>; broader work is documented in my <a href="https://github.com/denoskume/Master_SIP_EC-Nantes">MSc portfolio</a>. I also built <a href="https://github.com/denoskume/monstage">MonStage</a>, a React/TypeScript internship platform.
+My current work spans <strong>image processing and computer vision</strong>: filtering, segmentation, camera calibration, and feature-based tracking, as well as deep learning and multimodal machine learning. I mainly use Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy. Recent projects include a <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy">background subtraction pipeline</a> and <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification">CLAP-based zero-shot audio classification</a>; broader work is documented in my <a href="https://github.com/denoskume/Master_SIP_EC-Nantes">MSc portfolio</a>. I also built <a href="https://github.com/denoskume/monstage">MonStage</a>, a React/TypeScript internship platform.
 </p>
 
 <p align="justify">
@@ -84,17 +84,17 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 ## Selected Projects
 
 <p align="center">
-  <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Background_Subtraction">
+  <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy">
     <img src="assets/project-background-subtraction-light.svg" width="49%" alt="Background Subtraction" />
   </a>
-  <a href="https://github.com/denoskume/Master_SIP_EC-Nantes">
-    <img src="assets/project-master-sip-light.svg" width="49%" alt="Master SIP Centrale Nantes" />
+  <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification">
+    <img src="assets/project-clap-light.svg" width="49%" alt="CLAP Audio Classification" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/denoskume/Master_SIP_EC-Nantes/tree/main/Projects/Prompt_Engineering_Audio_Classification">
-    <img src="assets/project-clap-light.svg" width="49%" alt="CLAP Audio Classification" />
+  <a href="https://github.com/denoskume/Python-CardGame">
+    <img src="assets/project-cardgame-light.svg" width="49%" alt="Python CardGame" />
   </a>
   <a href="https://github.com/denoskume/monstage">
     <img src="assets/project-monstage-light.svg" width="49%" alt="MonStage" />
@@ -104,8 +104,8 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 | Project | Evidence |
 | --- | --- |
 | **Background Subtraction** | Spatial/spectral filtering, morphology, segmentation, **SAD · MSE · PSNR · Dice · IoU** |
-| **Master SIP** | Camera calibration, ORB, RANSAC, homography, FFT, segmentation, PyTorch evaluation |
 | **CLAP Audio Classification** | **91.15% Top-1 · 97.45% Top-3 · 99.00% Top-5 · +8.10 pp** |
+| **Python CardGame** | Python modules, Pygame, finite-state machine, event-driven logic, JSON persistence |
 | **MonStage** | Responsive UI, authentication, ranking/filtering, Cloudflare Worker, Apps Script, GitHub Actions |
 
 ---
