@@ -33,7 +33,7 @@ Final-year MSc student in Data Science, Signal &amp; Image Processing at <a href
 </p>
 
 <p align="justify">
-My current work spans <strong>image processing and computer vision</strong>: filtering, segmentation, camera calibration, and feature-based tracking, as well as deep learning and multimodal machine learning. I mainly use Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy. Recent projects include a <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy">background subtraction pipeline</a> and <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification">CLAP-based zero-shot audio classification</a>; broader work is documented in my <a href="https://github.com/denoskume/Master_SIP_EC-Nantes">MSc portfolio</a>. I also built <a href="https://github.com/denoskume/monstage">MonStage</a>, a React/TypeScript internship platform.
+My current work spans <strong>image processing and computer vision</strong>: filtering, segmentation, camera calibration, and feature-based tracking, as well as deep learning and multimodal machine learning. I mainly use Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy. Recent projects include a <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy">background subtraction pipeline</a> and <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification">CLAP-based zero-shot audio classification</a>; broader work is documented in my <a href="https://github.com/denoskume/msc-coro-dassip-portfolio">MSc portfolio</a>. I also built <a href="https://github.com/denoskume/monstage">MonStage</a>, a React/TypeScript internship platform.
 </p>
 
 <p align="justify">
