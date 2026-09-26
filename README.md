@@ -112,14 +112,52 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 
 ## Technical Stack
 
-**Programming & Data**  
-Python · TypeScript · NumPy · pandas · SciPy · scikit-learn · Matplotlib · Jupyter
-
-**Machine Learning & Vision**  
-PyTorch · OpenCV · model evaluation · classification · camera calibration · ORB · RANSAC · homography · segmentation · morphology · FFT
-
-**Engineering**  
-React · Vite · Git · GitHub · VS Code · WSL/Ubuntu · GitHub Actions
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="assets/tools/python.svg" height="44" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="assets/tools/numpy.svg" height="44" alt="NumPy" /><br>
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="assets/tools/scipy.svg" height="44" alt="SciPy" /><br>
+      <sub><b>SciPy</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="assets/tools/matplotlib.svg" height="44" alt="Matplotlib" /><br>
+      <sub><b>Matplotlib</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="assets/tools/opencv.svg" height="44" alt="OpenCV" /><br>
+      <sub><b>OpenCV</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="assets/tools/pytorch.svg" height="44" alt="PyTorch" /><br>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="assets/tools/jupyter.svg" height="44" alt="Jupyter" /><br>
+      <sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="assets/tools/vscode.svg" height="44" alt="VS Code" /><br>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="assets/tools/linux.svg" height="44" alt="Linux" /><br>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="assets/tools/git.svg" height="44" alt="Git" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
