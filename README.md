@@ -168,6 +168,8 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/kaur-pawandeep_congratulations-denos-share-7172899030623014912--dsG/"><img src="assets/recognition-star-month-square.svg?v=2" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/experience/Unified_Mentor_Data_Analyst_Internship_2024.pdf"><img src="assets/recognition-data-analyst-internship-square.svg?v=1" width="340" height="340" alt="Data Analyst Internship — Unified Mentor" /></a>
 </p>
 
 <p align="center">
