@@ -101,13 +101,6 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
   </a>
 </p>
 
-| Project | Evidence |
-| --- | --- |
-| **Background Subtraction** | Spatial/spectral filtering, morphology, segmentation, **SAD · MSE · PSNR · Dice · IoU** |
-| **CLAP Audio Classification** | **91.15% Top-1 · 97.45% Top-3 · 99.00% Top-5 · +8.10 pp** |
-| **Python CardGame** | Python modules, Pygame, finite-state machine, event-driven logic, JSON persistence |
-| **MonStage** | Responsive UI, authentication, ranking/filtering, Cloudflare Worker, Apps Script, GitHub Actions |
-
 ---
 
 ## Technical Stack
