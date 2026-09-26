@@ -182,5 +182,7 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 </p>
 
 <p align="center">
-  <a href="https://github.com/denoskume/certifications-and-awards">View credential archive →</a>
+  <a href="https://github.com/denoskume/certifications-and-awards">
+    <img src="assets/nav-credentials.svg" height="44" alt="Credential Archive" />
+  </a>
 </p>
