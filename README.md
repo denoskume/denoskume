@@ -126,29 +126,47 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
     <td align="center" width="100"><img src="assets/tools/matplotlib.svg" height="44" alt="Matplotlib" /><br><sub><b>Matplotlib</b></sub></td>
     <td align="center" width="100"><img src="assets/tools/jupyter.svg" height="44" alt="Jupyter" /><br><sub><b>Jupyter</b></sub></td>
   </tr>
+
   <tr>
-    <th colspan="8">Engineering</th>
+    <th colspan="8">Engineering &amp; Applications</th>
   </tr>
   <tr>
     <td align="center"><img src="assets/tools/react.svg" height="44" alt="React" /><br><sub><b>React</b></sub></td>
     <td align="center"><img src="assets/tools/vite.svg" height="44" alt="Vite" /><br><sub><b>Vite</b></sub></td>
+    <td align="center"><img src="assets/tools/pygame.svg" height="44" alt="Pygame" /><br><sub><b>Pygame</b></sub></td>
     <td align="center"><img src="assets/tools/git.svg" height="44" alt="Git" /><br><sub><b>Git</b></sub></td>
     <td align="center"><img src="assets/tools/github.svg" height="44" alt="GitHub" /><br><sub><b>GitHub</b></sub></td>
     <td align="center"><img src="assets/tools/vscode.svg" height="44" alt="VS Code" /><br><sub><b>VS Code</b></sub></td>
     <td align="center"><img src="assets/tools/linux.svg" height="44" alt="Linux" /><br><sub><b>Linux</b></sub></td>
     <td align="center"><img src="assets/tools/github-actions.svg" height="44" alt="GitHub Actions" /><br><sub><b>GitHub Actions</b></sub></td>
-    <td></td>
   </tr>
+
   <tr>
-    <th colspan="8">Machine Learning &amp; Vision</th>
+    <th colspan="8">Machine Learning, Vision &amp; Audio</th>
   </tr>
   <tr>
     <td align="center"><img src="assets/tools/pytorch.svg" height="44" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
     <td align="center"><img src="assets/tools/opencv.svg" height="44" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
-    <td></td><td></td><td></td><td></td><td></td><td></td>
+    <td align="center"><img src="assets/tools/torchaudio.svg" height="44" alt="torchaudio" /><br><sub><b>torchaudio</b></sub></td>
+    <td align="center"><img src="assets/tools/librosa.svg" height="44" alt="librosa" /><br><sub><b>librosa</b></sub></td>
+    <td align="center"><img src="assets/tools/laion-clap.svg" height="44" alt="LAION-CLAP" /><br><sub><b>LAION-CLAP</b></sub></td>
+    <td align="center"><img src="assets/tools/pillow.svg" height="44" alt="Pillow" /><br><sub><b>Pillow</b></sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <th colspan="8">Web &amp; Cloud</th>
   </tr>
   <tr>
-    <td colspan="8"></td>
+    <td align="center"><img src="assets/tools/nodejs.svg" height="44" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
+    <td align="center"><img src="assets/tools/npm.svg" height="44" alt="npm" /><br><sub><b>npm</b></sub></td>
+    <td align="center"><img src="assets/tools/cloudflare.svg" height="44" alt="Cloudflare" /><br><sub><b>Cloudflare</b></sub></td>
+    <td align="center"><img src="assets/tools/google-apps-script.svg" height="44" alt="Google Apps Script" /><br><sub><b>Apps Script</b></sub></td>
+    <td align="center"><img src="assets/tools/google-sheets.svg" height="44" alt="Google Sheets" /><br><sub><b>Google Sheets</b></sub></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 ---
