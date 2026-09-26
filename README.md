@@ -173,10 +173,6 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 </p>
 
 <p align="center">
-  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/experience/Unified_Mentor_Data_Analyst_Internship_2024.pdf"><img src="assets/recognition-data-analyst-internship-square.svg?v=1" width="340" height="340" alt="Data Analyst Internship — Unified Mentor" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/denoskume/certifications-and-awards">
     <img src="assets/nav-credentials.svg" height="44" alt="Credential Archive" />
   </a>
