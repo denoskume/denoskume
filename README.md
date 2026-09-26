@@ -161,18 +161,13 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 ## Credentials & Recognition
 
 <p align="center">
-  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf">
-    <img src="assets/credential-google-analytics.svg" width="49%" alt="Google Advanced Data Analytics Professional Certificate" />
-  </a>
-  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg">
-    <img src="assets/recognition-fire-robot.svg" width="49%" alt="3rd Place Fire Fighting Robot using Arduino" />
-  </a>
+  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf"><img src="assets/credential-google-analytics-square.svg?v=2" width="340" height="340" alt="Google Advanced Data Analytics Professional Certificate" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg"><img src="assets/recognition-fire-robot-square.svg?v=2" width="340" height="340" alt="3rd Place Fire Fighting Robot using Arduino" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/posts/kaur-pawandeep_congratulations-denos-share-7172899030623014912--dsG/">
-    <img src="assets/recognition-star-month.svg" width="49%" alt="Star of the Month — ISDC Learning" />
-  </a>
+  <a href="https://www.linkedin.com/posts/kaur-pawandeep_congratulations-denos-share-7172899030623014912--dsG/"><img src="assets/recognition-star-month-square.svg?v=2" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
 </p>
 
 <p align="center">
