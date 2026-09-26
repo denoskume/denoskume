@@ -161,7 +161,7 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 ## Credentials & Recognition
 
 <p align="center">
-  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/certifications/Google_Advanced_Data_Analytics_2024.pdf"><img src="assets/credential-google-analytics-square.svg?v=2" width="340" height="340" alt="Google Advanced Data Analytics Professional Certificate" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/5ZOKXCS6B7RR"><img src="assets/credential-google-analytics-square.svg?v=2" width="340" height="340" alt="Google Advanced Data Analytics Professional Certificate" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg"><img src="assets/recognition-fire-robot-square.svg?v=2" width="340" height="340" alt="3rd Place Fire Fighting Robot using Arduino" /></a>
 </p>
