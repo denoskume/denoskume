@@ -112,45 +112,44 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 
 ## Technical Stack
 
-### Programming & Data
-
 <table align="center">
   <tr>
-    <td align="center" width="100"><img src="assets/tools/python.svg" height="44" alt="Python" /><br><sub><b>Python</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/typescript.svg" height="44" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/numpy.svg" height="44" alt="NumPy" /><br><sub><b>NumPy</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/pandas.svg" height="44" alt="pandas" /><br><sub><b>pandas</b></sub></td>
+    <th colspan="4">Programming &amp; Data</th>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="assets/tools/scipy.svg" height="44" alt="SciPy" /><br><sub><b>SciPy</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/scikitlearn.svg" height="44" alt="scikit-learn" /><br><sub><b>scikit-learn</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/matplotlib.svg" height="44" alt="Matplotlib" /><br><sub><b>Matplotlib</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/jupyter.svg" height="44" alt="Jupyter" /><br><sub><b>Jupyter</b></sub></td>
-  </tr>
-</table>
-
-### Machine Learning & Vision
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="assets/tools/pytorch.svg" height="44" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
-    <td align="center" width="120"><img src="assets/tools/opencv.svg" height="44" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
-  </tr>
-</table>
-
-### Engineering
-
-<table align="center">
-  <tr>
-    <td align="center" width="100"><img src="assets/tools/react.svg" height="44" alt="React" /><br><sub><b>React</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/vite.svg" height="44" alt="Vite" /><br><sub><b>Vite</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/git.svg" height="44" alt="Git" /><br><sub><b>Git</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/github.svg" height="44" alt="GitHub" /><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="120"><img src="assets/tools/python.svg" height="44" alt="Python" /><br><sub><b>Python</b></sub></td>
+    <td align="center" width="120"><img src="assets/tools/typescript.svg" height="44" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="120"><img src="assets/tools/numpy.svg" height="44" alt="NumPy" /><br><sub><b>NumPy</b></sub></td>
+    <td align="center" width="120"><img src="assets/tools/pandas.svg" height="44" alt="pandas" /><br><sub><b>pandas</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="assets/tools/vscode.svg" height="44" alt="VS Code" /><br><sub><b>VS Code</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/linux.svg" height="44" alt="Linux" /><br><sub><b>Linux</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/github-actions.svg" height="44" alt="GitHub Actions" /><br><sub><b>GitHub Actions</b></sub></td>
+    <td align="center"><img src="assets/tools/scipy.svg" height="44" alt="SciPy" /><br><sub><b>SciPy</b></sub></td>
+    <td align="center"><img src="assets/tools/scikitlearn.svg" height="44" alt="scikit-learn" /><br><sub><b>scikit-learn</b></sub></td>
+    <td align="center"><img src="assets/tools/matplotlib.svg" height="44" alt="Matplotlib" /><br><sub><b>Matplotlib</b></sub></td>
+    <td align="center"><img src="assets/tools/jupyter.svg" height="44" alt="Jupyter" /><br><sub><b>Jupyter</b></sub></td>
+  </tr>
+  <tr>
+    <th colspan="4">Machine Learning &amp; Vision</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/tools/pytorch.svg" height="44" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
+    <td align="center"><img src="assets/tools/opencv.svg" height="44" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="4">Engineering</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/tools/react.svg" height="44" alt="React" /><br><sub><b>React</b></sub></td>
+    <td align="center"><img src="assets/tools/vite.svg" height="44" alt="Vite" /><br><sub><b>Vite</b></sub></td>
+    <td align="center"><img src="assets/tools/git.svg" height="44" alt="Git" /><br><sub><b>Git</b></sub></td>
+    <td align="center"><img src="assets/tools/github.svg" height="44" alt="GitHub" /><br><sub><b>GitHub</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/tools/vscode.svg" height="44" alt="VS Code" /><br><sub><b>VS Code</b></sub></td>
+    <td align="center"><img src="assets/tools/linux.svg" height="44" alt="Linux" /><br><sub><b>Linux</b></sub></td>
+    <td align="center"><img src="assets/tools/github-actions.svg" height="44" alt="GitHub Actions" /><br><sub><b>GitHub Actions</b></sub></td>
     <td></td>
   </tr>
 </table>
