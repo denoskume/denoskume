@@ -114,7 +114,7 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 
 <table align="center">
   <tr>
-    <th colspan="9">Programming &amp; Data</th>
+    <th colspan="8">Programming &amp; Data</th>
   </tr>
   <tr>
     <td align="center" width="100"><img src="assets/tools/python.svg" height="44" alt="Python" /><br><sub><b>Python</b></sub></td>
@@ -125,18 +125,9 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
     <td align="center" width="100"><img src="assets/tools/scikitlearn.svg" height="44" alt="scikit-learn" /><br><sub><b>scikit-learn</b></sub></td>
     <td align="center" width="100"><img src="assets/tools/matplotlib.svg" height="44" alt="Matplotlib" /><br><sub><b>Matplotlib</b></sub></td>
     <td align="center" width="100"><img src="assets/tools/jupyter.svg" height="44" alt="Jupyter" /><br><sub><b>Jupyter</b></sub></td>
-    <td></td>
   </tr>
   <tr>
-    <th colspan="9">Machine Learning &amp; Vision</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/tools/pytorch.svg" height="44" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
-    <td align="center"><img src="assets/tools/opencv.svg" height="44" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
-    <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <th colspan="9">Engineering</th>
+    <th colspan="8">Engineering</th>
   </tr>
   <tr>
     <td align="center"><img src="assets/tools/react.svg" height="44" alt="React" /><br><sub><b>React</b></sub></td>
@@ -146,10 +137,18 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
     <td align="center"><img src="assets/tools/vscode.svg" height="44" alt="VS Code" /><br><sub><b>VS Code</b></sub></td>
     <td align="center"><img src="assets/tools/linux.svg" height="44" alt="Linux" /><br><sub><b>Linux</b></sub></td>
     <td align="center"><img src="assets/tools/github-actions.svg" height="44" alt="GitHub Actions" /><br><sub><b>GitHub Actions</b></sub></td>
-    <td></td><td></td>
+    <td></td>
   </tr>
   <tr>
-    <td colspan="9"></td>
+    <th colspan="8">Machine Learning &amp; Vision</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/tools/pytorch.svg" height="44" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
+    <td align="center"><img src="assets/tools/opencv.svg" height="44" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td colspan="8"></td>
   </tr>
 </table>
 ---
