@@ -84,21 +84,15 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 ## Selected Projects
 
 <p align="center">
-  <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy">
-    <img src="assets/project-background-subtraction-light.svg" width="49%" alt="Background Subtraction" />
-  </a>
-  <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification">
-    <img src="assets/project-clap-light.svg" width="49%" alt="CLAP Audio Classification" />
-  </a>
+  <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/project-background-subtraction-square.svg?v=2" width="340" height="340" alt="Background Subtraction" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification"><img src="assets/project-clap-square.svg?v=2" width="340" height="340" alt="CLAP Audio Classification" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/denoskume/Python-CardGame">
-    <img src="assets/project-cardgame-light.svg" width="49%" alt="Python CardGame" />
-  </a>
-  <a href="https://github.com/denoskume/monstage">
-    <img src="assets/project-monstage-light.svg" width="49%" alt="MonStage" />
-  </a>
+  <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-square.svg?v=2" width="340" height="340" alt="Python CardGame" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/denoskume/monstage"><img src="assets/project-monstage-square.svg?v=2" width="340" height="340" alt="MonStage" /></a>
 </p>
 
 ---
