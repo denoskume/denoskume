@@ -13,6 +13,8 @@
   &nbsp;&nbsp;
   <a href="#education"><img src="assets/nav-education.svg" height="38" alt="Education" /></a>
   &nbsp;&nbsp;
+  <a href="#experience"><img src="assets/nav-experience.svg" height="38" alt="Experience" /></a>
+  &nbsp;&nbsp;
   <a href="#selected-projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="36" alt="LinkedIn" /></a>
@@ -51,6 +53,31 @@ Centrale Nantes · Nantes, France · `2025 - 2027 (expected)`
 
 **BSc Computer Science & Electronics**  
 Kristu Jayanti University · Bangalore, India · `2021 - 2025`
+
+---
+
+## Experience
+
+### Speech AI Evaluation Specialist
+**RWS Moravia** · Freelance · Remote · Aug 2026 - Present
+
+- Evaluate French speech-to-speech interactions across **5 quality dimensions**: accuracy, naturalness, usefulness, conversational quality, and audio quality.
+- Compare model outputs using structured criteria to support consistent, evidence-based quality decisions.
+- Identify linguistic, conversational, and speech-related failure patterns that can reduce response quality in voice AI systems.
+
+### AI Response Evaluator
+**DataAnnotation** · Freelance · Remote · Feb 2026 - Jun 2026
+
+- Evaluated AI-generated responses across **4 core criteria**: correctness, reasoning quality, relevance, and instruction following.
+- Reviewed multimodal tasks spanning **text, files, images, and multi-step interactions**.
+- Produced evidence-based feedback that isolated errors, inconsistencies, and response-quality issues for model evaluation.
+
+### Data Analyst Intern
+**Unified Mentor** · Internship · Bangalore, India · Sep 2024 - Dec 2024
+
+- Used Python to clean, explore, and interpret structured datasets during a **3-month data analytics internship**.
+- Converted exploratory analysis into visual summaries that made key patterns easier to identify and communicate.
+- Turned analytical findings into concise reports designed to support clear, data-backed interpretation.
 
 ---
 
