@@ -61,9 +61,9 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 ### Speech AI Evaluation Specialist
 **RWS Moravia** · Freelance · Remote · Aug 2026
 
-- Evaluate French speech-to-speech interactions across **5 quality dimensions**: accuracy, naturalness, usefulness, conversational quality, and audio quality.
-- Compare model outputs using structured criteria to support consistent, evidence-based quality decisions.
-- Identify linguistic, conversational, and speech-related failure patterns that can reduce response quality in voice AI systems.
+- Evaluated French speech-to-speech interactions across **5 quality dimensions**: accuracy, naturalness, usefulness, conversational quality, and audio quality.
+- Compared model outputs using structured criteria to support consistent, evidence-based quality decisions.
+- Identified linguistic, conversational, and speech-related failure patterns that can reduce response quality in voice AI systems.
 
 ### AI Response Evaluator
 **DataAnnotation** · Freelance · Remote · Feb 2026 - Jun 2026
