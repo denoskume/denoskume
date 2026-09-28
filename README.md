@@ -2,7 +2,7 @@
   <img src="https://www.ec-nantes.fr/medias/photo/logocn-rvb_1648479844750-png?ID_FICHE=1013500&amp;INLINE=FALSE" alt="Centrale Nantes" height="72" align="left" />
 </a>
 
-<img src="assets/readme-last-updated.svg" alt="Last updated 24 Sept 2026" height="62" align="right" />
+<img src="assets/readme-last-updated.svg" alt="Last updated 28 Sept 2026" height="62" align="right" />
 
 <br clear="both" />
 
@@ -59,7 +59,7 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 ## Experience
 
 ### Speech AI Evaluation Specialist
-**RWS Moravia** · Freelance · Remote · Aug 2026 - Present
+**RWS Moravia** · Freelance · Remote · Aug 2026
 
 - Evaluate French speech-to-speech interactions across **5 quality dimensions**: accuracy, naturalness, usefulness, conversational quality, and audio quality.
 - Compare model outputs using structured criteria to support consistent, evidence-based quality decisions.
