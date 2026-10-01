@@ -1,0 +1,95 @@
+name: Build ISDC recognition card
+
+on:
+  push:
+    paths:
+      - '.github/workflows/build-isdc-card.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Install Pillow
+        run: python -m pip install --quiet pillow
+
+      - name: Fetch original ISDC image
+        run: curl -L --fail --retry 3 'https://raw.githubusercontent.com/denoskume/certifications-and-awards/main/awards/ISDC.jpg' -o /tmp/ISDC.jpg
+
+      - name: Build recognition card
+        run: |
+          python - <<'PY'
+          from PIL import Image, ImageDraw, ImageFont
+          from pathlib import Path
+
+          W = H = 680
+          border = '#C7D0DB'
+          small = '#64748B'
+          text = '#0F172A'
+          sub = '#334155'
+          regular = '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
+          bold = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
+
+          card = Image.new('RGB', (W, H), 'white')
+          draw = ImageDraw.Draw(card)
+          draw.rounded_rectangle((2, 2, W-3, H-3), radius=36, fill='white', outline=border, width=4)
+
+          label_font = ImageFont.truetype(bold, 26)
+          title_font = ImageFont.truetype(bold, 42)
+          caption_font = ImageFont.truetype(regular, 28)
+          caption2_font = ImageFont.truetype(regular, 24)
+
+          draw.text((44, 44), 'RECOGNITION · ISDC LEARNING', fill=small, font=label_font)
+          draw.text((44, 120), 'Star of the Month', fill=text, font=title_font)
+
+          box = (44, 212, W-44, 492)
+          draw.rounded_rectangle(box, radius=24, fill='#F8FAFC', outline='#E2E8F0', width=2)
+
+          source = Image.open('/tmp/ISDC.jpg').convert('RGB')
+          inner_w, inner_h = box[2]-box[0]-8, box[3]-box[1]-8
+          source.thumbnail((inner_w, inner_h), Image.Resampling.LANCZOS)
+          x = box[0] + 4 + (inner_w-source.width)//2
+          y = box[1] + 4 + (inner_h-source.height)//2
+          card.paste(source, (x, y))
+
+          line1 = 'Campus Ambassador Programme'
+          line2 = 'Public recognition on LinkedIn'
+          b1 = draw.textbbox((0,0), line1, font=caption_font)
+          b2 = draw.textbbox((0,0), line2, font=caption2_font)
+          draw.text(((W-(b1[2]-b1[0]))//2, 570), line1, fill=sub, font=caption_font)
+          draw.text(((W-(b2[2]-b2[0]))//2, 622), line2, fill=small, font=caption2_font)
+
+          out = Path('assets/recognition-star-month-card-final.png')
+          out.parent.mkdir(parents=True, exist_ok=True)
+          card.save(out, format='PNG', optimize=True)
+          print(f'Generated {out} ({out.stat().st_size} bytes)')
+          PY
+
+      - name: Point README to final card
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('README.md')
+          s = p.read_text()
+          s = re.sub(r'assets/recognition-star-month-card[^" ]*', 'assets/recognition-star-month-card-final.png?v=7', s)
+          p.write_text(s)
+          PY
+
+      - name: Commit generated card
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md assets/recognition-star-month-card-final.png
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+          else
+            git commit -m 'Generate final ISDC recognition card'
+            git push
+          fi
