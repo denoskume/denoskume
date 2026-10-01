@@ -169,7 +169,7 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 <p align="center">
   <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png"><img src="assets/recognition-fire-robot-card.jpg?v=1" width="340" height="340" alt="3rd Place — GALAXIA 2022" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/posts/isdc-learning_starofthemonth-isdclearning-appreciation-activity-7172875899204300801-g55R"><img src="assets/recognition-star-month-card-v5.jpg?v=5" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
+  <a href="https://www.linkedin.com/posts/isdc-learning_starofthemonth-isdclearning-appreciation-activity-7172875899204300801-g55R"><img src="assets/recognition-star-month-card-final.png?v=7" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
 </p>
 
 <p align="center">
