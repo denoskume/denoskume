@@ -166,26 +166,11 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
   <a href="https://www.coursera.org/account/accomplishments/specialization/5ZOKXCS6B7RR"><img src="assets/credential-google-analytics-square.svg?v=2" width="340" height="340" alt="Google Advanced Data Analytics Professional Certificate" /></a>
 </p>
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <sub><b>AWARD · GALAXIA 2022</b></sub><br><br>
-      <strong>3rd Place</strong><br><br>
-      <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png">
-        <img src="https://raw.githubusercontent.com/denoskume/certifications-and-awards/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png" width="300" alt="3rd Place Fire Fighting Robot using Arduino" />
-      </a><br>
-      <sub>Kristu Jayanti College · Science Exhibition<br>September 2022</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <sub><b>RECOGNITION · ISDC LEARNING</b></sub><br><br>
-      <strong>Star of the Month</strong><br><br>
-      <a href="https://www.linkedin.com/posts/isdc-learning_starofthemonth-isdclearning-appreciation-activity-7172875899204300801-g55R">
-        <img src="assets/recognition-star-month.jpg?v=1" width="300" alt="Star of the Month — ISDC Learning" />
-      </a><br>
-      <sub>Campus Ambassador Programme<br>Public recognition on LinkedIn</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png"><img src="assets/recognition-fire-robot-card.jpg?v=1" width="340" height="340" alt="3rd Place — GALAXIA 2022" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/posts/isdc-learning_starofthemonth-isdclearning-appreciation-activity-7172875899204300801-g55R"><img src="assets/recognition-star-month-card.jpg?v=1" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/denoskume/certifications-and-awards">
