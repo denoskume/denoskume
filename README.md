@@ -169,7 +169,7 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 <p align="center">
   <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png"><img src="assets/recognition-fire-robot-square.svg?v=2" width="340" height="340" alt="3rd Place Fire Fighting Robot using Arduino" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/posts/kaur-pawandeep_congratulations-denos-share-7172899030623014912--dsG/"><img src="assets/recognition-star-month-square.svg?v=2" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
+  <a href="https://www.linkedin.com/posts/kaur-pawandeep_congratulations-denos-share-7172899030623014912--dsG/"><img src="assets/recognition-star-month-square.svg?v=3" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
 </p>
 
 <p align="center">
