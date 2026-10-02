@@ -28,13 +28,13 @@
 
 ## About me
 
-Final-year MSc student in Data Science, Signal & Image Processing at Centrale Nantes, after completing a BSc in Computer Science & Electronics at Kristu Jayanti University, Bengaluru. My academic work focuses on implementing, testing, comparing, and evaluating methods in data science, machine learning, computer vision, and image processing.
+I am currently finishing an MSc in Data Science, Signal & Image Processing at Centrale Nantes. Before that, I completed a BSc in Computer Science & Electronics at Kristu Jayanti University in Bengaluru.
 
-My current projects include image filtering, segmentation, camera calibration, feature tracking, deep learning, and multimodal machine learning. I mainly work with Python, NumPy, pandas, SciPy, scikit-learn, Matplotlib, Jupyter, PyTorch, OpenCV, Git, and Linux.
+Most of my work is hands-on. I like building a method, testing it, comparing the results, and understanding where it works well or falls short. My recent projects cover image filtering, segmentation, camera calibration, feature tracking, deep learning, and multimodal machine learning.
 
-My experience in AI evaluation and data analysis has strengthened the way I compare outputs, identify limitations, and communicate results with evidence. I am looking to apply these foundations to real industrial problems while continuing to develop my skills within an experienced team.
+I mainly use Python, NumPy, pandas, SciPy, scikit-learn, Matplotlib, Jupyter, PyTorch, OpenCV, Git, and Linux. My experience in AI evaluation and data analysis has also taught me to look closely at outputs, spot limitations, and explain results clearly.
 
-I am seeking a **6-month final-year internship starting February 2027** in Data Science, Applied Machine Learning, Computer Vision, Deep Learning, or Image Processing.
+I am looking for a **6-month final-year internship starting February 2027** where I can contribute with these foundations, keep learning, and work on real problems in Data Science, Applied Machine Learning, Computer Vision, Deep Learning, or Image Processing.
 
 ---
 
