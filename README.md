@@ -55,13 +55,6 @@ Multidisciplinary training in software development, digital systems, and embedde
 - Identified linguistic, conversational, and audio-related issues.
 - Wrote evidence-based rationales to compare AI responses.
 
-### AI Response Evaluator
-**DataAnnotation** · Freelance · Remote · Feb 2026 - Jun 2026
-
-- Evaluated AI-generated responses across correctness, reasoning quality, relevance, and instruction following.
-- Reviewed multimodal tasks spanning text, files, images, and multi-step interactions.
-- Produced evidence-based feedback to identify errors, inconsistencies, and response-quality issues.
-
 ### Data Analyst Intern
 **Unified Mentor Pvt. Ltd.** · Internship · Bengaluru, India · Sep 2024 - Dec 2024
 
