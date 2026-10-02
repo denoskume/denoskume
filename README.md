@@ -18,6 +18,10 @@
   <a href="#selected-projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="36" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:denoskume@yahoo.com"><img src="assets/email-circle.svg" width="36" alt="Email" /></a>
+  &nbsp;
+  <a href="https://wa.me/33662919468"><img src="assets/whatsapp-circle.svg" width="36" alt="WhatsApp" /></a>
 </div>
 
 ---
