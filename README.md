@@ -32,7 +32,7 @@ Final-year MSc student in Data Science, Signal & Image Processing at Centrale Na
 
 My current projects include image filtering, segmentation, camera calibration, feature tracking, deep learning, and multimodal machine learning. I mainly work with Python, NumPy, pandas, SciPy, scikit-learn, Matplotlib, Jupyter, PyTorch, OpenCV, Git, and Linux.
 
-My experience in AI evaluation and data analysis has strengthened the way I compare outputs, identify limitations, and communicate results with evidence. I am looking to build on these foundations through a first substantial industrial experience.
+My experience in AI evaluation and data analysis has strengthened the way I compare outputs, identify limitations, and communicate results with evidence. I am looking to apply these foundations to real industrial problems while continuing to develop my skills within an experienced team.
 
 I am seeking a **6-month final-year internship starting February 2027** in Data Science, Applied Machine Learning, Computer Vision, Deep Learning, or Image Processing.
 
