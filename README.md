@@ -32,7 +32,7 @@ I am currently finishing an MSc in Data Science, Signal & Image Processing at Ce
 
 Most of my work is hands-on. I like building a method, testing it, comparing the results, and understanding where it works well or falls short. My recent projects cover image filtering, segmentation, camera calibration, feature tracking, deep learning, and multimodal machine learning.
 
-I mainly use Python, NumPy, pandas, SciPy, scikit-learn, Matplotlib, Jupyter, PyTorch, OpenCV, Git, and Linux. My experience in AI evaluation and data analysis has also taught me to look closely at outputs, spot limitations, and explain results clearly.
+I mainly work with Python and its data and machine learning ecosystem, including NumPy, pandas, SciPy, scikit-learn, Matplotlib, Jupyter, PyTorch, and OpenCV. These tools support the way I work: preparing data, testing methods, comparing results, and checking where a model or pipeline performs well or starts to fail. My experience in AI evaluation has reinforced that habit of looking closely at outputs and explaining results with evidence.
 
 I am looking for a **6-month final-year internship starting February 2027** where I can contribute with these foundations, keep learning, and work on real problems in Data Science, Applied Machine Learning, Computer Vision, Deep Learning, or Image Processing.
 
