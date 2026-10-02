@@ -16,14 +16,22 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Replace generated cards with real project visuals
-        shell: python
+        shell: bash
         run: |
+          python - <<'PY'
           from pathlib import Path
 
           path = Path('README.md')
           text = path.read_text()
 
           old = '''<p align="center">
+            <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-square.svg?v=2" width="340" height="340" alt="Python CardGame" /></a>
+            &nbsp;&nbsp;
+            <a href="https://github.com/denoskume/monstage"><img src="assets/project-monstage-square.svg?v=2" width="340" height="340" alt="MonStage" /></a>
+          </p>'''
+
+          if old not in text:
+              old = '''<p align="center">
   <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-square.svg?v=2" width="340" height="340" alt="Python CardGame" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/denoskume/monstage"><img src="assets/project-monstage-square.svg?v=2" width="340" height="340" alt="MonStage" /></a>
@@ -52,6 +60,7 @@ jobs:
               raise SystemExit('Expected project-card block not found')
 
           path.write_text(text.replace(old, new))
+          PY
 
       - name: Commit README update
         shell: bash
