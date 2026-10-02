@@ -149,9 +149,9 @@ Multidisciplinary training in software development, digital systems, and embedde
 ## Credentials & Recognition
 
 <p align="center">
-  <a href="https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15fe2"><img src="assets/credential-simplilearn-square.svg?v=4" width="340" height="340" alt="Data Scientist — Simplilearn Masters Program" /></a>
+  <a href="https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15fe2"><img src="assets/credential-simplilearn-square.svg?v=5" width="340" height="340" alt="Data Scientist — Simplilearn Masters Program" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.coursera.org/account/accomplishments/specialization/5ZOKXCS6B7RR"><img src="assets/credential-google-analytics-square.svg?v=4" width="340" height="340" alt="Google Advanced Data Analytics Professional Certificate" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/5ZOKXCS6B7RR"><img src="assets/credential-google-analytics-square.svg?v=5" width="340" height="340" alt="Google Advanced Data Analytics Professional Certificate" /></a>
 </p>
 
 <p align="center">
