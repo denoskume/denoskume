@@ -1,0 +1,63 @@
+name: Use real project previews
+
+on:
+  push:
+    paths:
+      - '.github/workflows/use-real-project-previews.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Replace generated cards with real project visuals
+        shell: python
+        run: |
+          from pathlib import Path
+
+          path = Path('README.md')
+          text = path.read_text()
+
+          old = '''<p align="center">
+  <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-square.svg?v=2" width="340" height="340" alt="Python CardGame" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/denoskume/monstage"><img src="assets/project-monstage-square.svg?v=2" width="340" height="340" alt="MonStage" /></a>
+</p>'''
+
+          new = '''<table align="center">
+  <tr>
+    <td align="center" width="350">
+      <a href="https://github.com/denoskume/Python-CardGame"><b>Python CardGame</b></a><br><br>
+      <a href="https://github.com/denoskume/Python-CardGame"><img src="https://raw.githubusercontent.com/denoskume/Python-CardGame/main/docs/cardgame_demo.gif" width="320" alt="Python CardGame real gameplay demo" /></a><br><br>
+      <sub>Event-driven three-card tracking game</sub><br>
+      <sub>Pygame · finite-state machine · modular architecture</sub><br>
+      <sub>JSON persistence · timed states</sub>
+    </td>
+    <td align="center" width="350">
+      <a href="https://github.com/denoskume/monstage"><b>MonStage</b></a><br><br>
+      <a href="https://github.com/denoskume/monstage"><img src="https://raw.githubusercontent.com/denoskume/monstage/main/docs/assets/monstage_preview_sanitized.png" width="320" alt="MonStage real application interface" /></a><br><br>
+      <sub>Internship discovery, prioritization &amp; application tracking</sub><br>
+      <sub>React · TypeScript · authentication</sub><br>
+      <sub>Cloudflare Worker · Apps Script · responsive UI</sub>
+    </td>
+  </tr>
+</table>'''
+
+          if old not in text:
+              raise SystemExit('Expected project-card block not found')
+
+          path.write_text(text.replace(old, new))
+
+      - name: Commit README update
+        shell: bash
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add README.md
+          git commit -m "Use real project visuals for CardGame and MonStage"
+          git push
