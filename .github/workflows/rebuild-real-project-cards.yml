@@ -26,6 +26,7 @@ jobs:
             https://raw.githubusercontent.com/denoskume/monstage/main/docs/assets/monstage_preview_sanitized.png \
             -o /tmp/monstage.png
 
+          python -m pip install --quiet pillow
           python - <<'PY'
           from PIL import Image
           img = Image.open('/tmp/cardgame.gif')
