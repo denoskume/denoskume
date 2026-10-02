@@ -76,16 +76,16 @@ Multidisciplinary training in software development, digital systems, and embedde
   <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification"><img src="assets/project-clap-square.svg?v=2" width="340" height="340" alt="CLAP Audio Classification" /></a>
 </p>
 
-<table align="center">
+<table align="center" border="1" cellspacing="0" cellpadding="14">
   <tr>
-    <td align="center" width="350">
+    <td align="center" valign="top" width="350">
       <a href="https://github.com/denoskume/Python-CardGame"><b>Python CardGame</b></a><br><br>
       <a href="https://github.com/denoskume/Python-CardGame"><img src="https://raw.githubusercontent.com/denoskume/Python-CardGame/main/docs/cardgame_demo.gif" width="320" alt="Python CardGame real gameplay demo" /></a><br><br>
       <sub>Event-driven three-card tracking game</sub><br>
       <sub>Pygame · finite-state machine · modular architecture</sub><br>
       <sub>JSON persistence · timed states</sub>
     </td>
-    <td align="center" width="350">
+    <td align="center" valign="top" width="350">
       <a href="https://github.com/denoskume/monstage"><b>MonStage</b></a><br><br>
       <a href="https://github.com/denoskume/monstage"><img src="https://raw.githubusercontent.com/denoskume/monstage/main/docs/assets/monstage_preview_sanitized.png" width="320" alt="MonStage real application interface" /></a><br><br>
       <sub>Internship discovery, prioritization &amp; application tracking</sub><br>
