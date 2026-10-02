@@ -2,7 +2,7 @@
   <img src="https://www.ec-nantes.fr/medias/photo/logocn-rvb_1648479844750-png?ID_FICHE=1013500&amp;INLINE=FALSE" alt="Centrale Nantes" height="72" align="left" />
 </a>
 
-<img src="assets/readme-last-updated.svg" alt="Last updated 28 Sept 2026" height="62" align="right" />
+<img src="assets/readme-last-updated.svg" alt="Last updated 2 Oct 2026" height="62" align="right" />
 
 <br clear="both" />
 
@@ -18,41 +18,31 @@
   <a href="#selected-projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="36" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:denoskume77@gmail.com"><img src="assets/gmail-current.svg?v=1" width="36" alt="Email" /></a>
-  &nbsp;
-  <a href="https://wa.me/33662919468"><img src="assets/whatsapp-circle.svg" width="36" alt="WhatsApp" /></a>
 </div>
 
 ---
 
 ## About me
 
-<p align="justify">
-Final-year MSc student in Data Science, Signal &amp; Image Processing at <a href="https://www.ec-nantes.fr/"><img src="assets/centrale-nantes-inline.svg" alt="Centrale Nantes" height="18" /></a>, after completing a BSc in Computer Science &amp; Electronics from <a href="https://www.kristujayanti.edu.in/"><img src="assets/kristu-jayanti-inline.svg" alt="Kristu Jayanti University" height="18" /></a>, Bangalore. I moved from general computing and electronics toward <strong>applied machine learning, computer vision, and image processing</strong>, because I learn best by implementing, testing, and comparing results.
-</p>
+Final-year MSc student in Data Science, Signal & Image Processing at Centrale Nantes, after completing a BSc in Computer Science & Electronics at Kristu Jayanti University, Bengaluru. My academic work focuses on implementing, testing, comparing, and evaluating methods in data science, machine learning, computer vision, and image processing.
 
-<p align="justify">
-My current work spans <strong>image processing and computer vision</strong>: filtering, segmentation, camera calibration, and feature-based tracking, as well as deep learning and multimodal machine learning. I mainly use Python, PyTorch, OpenCV, scikit-learn, NumPy, and SciPy. Recent projects include a <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy">background subtraction pipeline</a> and <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification">CLAP-based zero-shot audio classification</a>; broader work is documented in my <a href="https://github.com/denoskume/msc-coro-dassip-portfolio">MSc portfolio</a>. I also built <a href="https://github.com/denoskume/monstage">MonStage</a>, a React/TypeScript internship platform.
-</p>
+My current projects include image filtering, segmentation, camera calibration, feature tracking, deep learning, and multimodal machine learning. I mainly work with Python, NumPy, pandas, SciPy, scikit-learn, Matplotlib, Jupyter, PyTorch, OpenCV, Git, and Linux.
 
-<p align="justify">
-My experience in <strong>AI evaluation and data analysis</strong> trained me to question outputs, check evidence, and explain why a result is reliable, or not.
-</p>
+My experience in AI evaluation and data analysis has strengthened the way I compare outputs, identify limitations, and communicate results with evidence. I am looking to build on these foundations through a first substantial industrial experience.
 
-<p align="justify">
-I am seeking a <strong>6-month final-year internship starting February 2027</strong> in applied machine learning, computer vision, or image processing.
-</p>
+I am seeking a **6-month final-year internship starting February 2027** in Data Science, Applied Machine Learning, Computer Vision, Deep Learning, or Image Processing.
 
 ---
 
 ## Education
 
-**MSc Data Science, Signal & Image Processing**  
+**MSc Control and Robotics — Data Science, Signal & Image Processing**  
 Centrale Nantes · Nantes, France · `2025 - 2027 (expected)`  
+Focused on modelling, numerical experimentation, optimisation, and method evaluation.
 
 **BSc Computer Science & Electronics**  
-Kristu Jayanti University · Bangalore, India · `2021 - 2025`
+Kristu Jayanti University · Bengaluru, India · `2021 - 2024`  
+Multidisciplinary training in software development, digital systems, and embedded technologies.
 
 ---
 
@@ -61,119 +51,56 @@ Kristu Jayanti University · Bangalore, India · `2021 - 2025`
 ### Speech AI Evaluation Specialist
 **RWS Moravia** · Freelance · Remote · Aug 2026
 
-- Evaluated French speech-to-speech interactions across **5 quality dimensions**: accuracy, naturalness, usefulness, conversational quality, and audio quality.
-- Compared model outputs using structured criteria to support consistent, evidence-based quality decisions.
-- Identified linguistic, conversational, and speech-related failure patterns that can reduce response quality in voice AI systems.
+- Evaluated French speech-to-speech AI outputs using structured evaluation criteria.
+- Identified linguistic, conversational, and audio-related issues.
+- Wrote evidence-based rationales to compare AI responses.
 
 ### AI Response Evaluator
 **DataAnnotation** · Freelance · Remote · Feb 2026 - Jun 2026
 
-- Evaluated AI-generated responses across **4 core criteria**: correctness, reasoning quality, relevance, and instruction following.
-- Reviewed multimodal tasks spanning **text, files, images, and multi-step interactions**.
-- Produced evidence-based feedback that isolated errors, inconsistencies, and response-quality issues for model evaluation.
+- Evaluated AI-generated responses across correctness, reasoning quality, relevance, and instruction following.
+- Reviewed multimodal tasks spanning text, files, images, and multi-step interactions.
+- Produced evidence-based feedback to identify errors, inconsistencies, and response-quality issues.
 
 ### Data Analyst Intern
-**Unified Mentor** · Internship · Bangalore, India · Sep 2024 - Dec 2024
+**Unified Mentor Pvt. Ltd.** · Internship · Bengaluru, India · Sep 2024 - Dec 2024
 
-- Used Python to clean, explore, and interpret structured datasets during a **3-month data analytics internship**.
-- Converted exploratory analysis into visual summaries that made key patterns easier to identify and communicate.
-- Turned analytical findings into concise reports designed to support clear, data-backed interpretation.
+- Cleaned and analyzed structured datasets using Python, pandas, and NumPy.
+- Performed exploratory data analysis and created Power BI dashboards.
+- Summarized findings in concise data reports.
 
 ---
 
 ## Selected Projects
 
-<p align="center">
-  <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/project-background-subtraction-square.svg?v=2" width="340" height="340" alt="Background Subtraction" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification"><img src="assets/project-clap-square.svg?v=2" width="340" height="340" alt="CLAP Audio Classification" /></a>
-</p>
+### Background Subtraction — Fluoroscopic Image Processing
+- Built a background-subtraction pipeline with smoothing and frequency filtering.
+- Compared three segmentation methods on 9 images.
+- Best result: Dice 0.475 · IoU 0.332 · PSNR 18.34 dB.
 
-<p align="center">
-  <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-square.svg?v=2" width="340" height="340" alt="Python CardGame" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/denoskume/monstage"><img src="assets/project-monstage-square.svg?v=2" width="340" height="340" alt="MonStage" /></a>
-</p>
+### CLAP — Zero-Shot Audio Classification
+- Tested 10 prompt strategies on ESC-50: 2,000 samples and 50 classes.
+- Compared performance without fine-tuning.
+- Achieved 91.15% Top-1, +8.10 pp vs baseline, and 99.00% Top-5.
+
+### Flag Intelligence — Flag Recognition
+- Built a MobileNetV3-Small application covering 250 classes.
+- Implemented open-set decisions using confidence and Top-1 margin.
+- Evaluated Top-1/Top-5, macro F1, confusion matrix, and calibration.
 
 ---
 
 ## Technical Stack
 
-<table align="center">
-  <tr>
-    <th colspan="8">Programming &amp; Data</th>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="assets/tools/python.svg" height="44" alt="Python" /><br><sub><b>Python</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/typescript.svg" height="44" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/numpy.svg" height="44" alt="NumPy" /><br><sub><b>NumPy</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/pandas.svg" height="44" alt="pandas" /><br><sub><b>pandas</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/scipy.svg" height="44" alt="SciPy" /><br><sub><b>SciPy</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/scikitlearn.svg" height="44" alt="scikit-learn" /><br><sub><b>scikit-learn</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/matplotlib.svg" height="44" alt="Matplotlib" /><br><sub><b>Matplotlib</b></sub></td>
-    <td align="center" width="100"><img src="assets/tools/jupyter.svg" height="44" alt="Jupyter" /><br><sub><b>Jupyter</b></sub></td>
-  </tr>
+**Comfortable with:** Python, NumPy, pandas, SciPy, scikit-learn, Jupyter.  
+**Good practical knowledge of:** Matplotlib, Git, GitHub, Linux.  
+**Familiar with:** PyTorch, OpenCV, and machine-learning experimentation workflows.
 
-  <tr>
-    <th colspan="8">Engineering &amp; Applications</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/tools/react.svg" height="44" alt="React" /><br><sub><b>React</b></sub></td>
-    <td align="center"><img src="assets/tools/vite.svg" height="44" alt="Vite" /><br><sub><b>Vite</b></sub></td>
-    <td align="center"><img src="assets/tools/pygame.svg" height="44" alt="Pygame" /><br><sub><b>Pygame</b></sub></td>
-    <td align="center"><img src="assets/tools/git.svg" height="44" alt="Git" /><br><sub><b>Git</b></sub></td>
-    <td align="center"><img src="assets/tools/github.svg" height="44" alt="GitHub" /><br><sub><b>GitHub</b></sub></td>
-    <td align="center"><img src="assets/tools/vscode.svg" height="44" alt="VS Code" /><br><sub><b>VS Code</b></sub></td>
-    <td align="center"><img src="assets/tools/linux.svg" height="44" alt="Linux" /><br><sub><b>Linux</b></sub></td>
-    <td align="center"><img src="assets/tools/github-actions.svg" height="44" alt="GitHub Actions" /><br><sub><b>GitHub Actions</b></sub></td>
-  </tr>
-
-  <tr>
-    <th colspan="8">Machine Learning, Vision &amp; Audio</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/tools/pytorch.svg" height="44" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
-    <td align="center"><img src="assets/tools/opencv.svg" height="44" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
-    <td align="center"><img src="assets/tools/torchaudio.svg" height="44" alt="torchaudio" /><br><sub><b>torchaudio</b></sub></td>
-    <td align="center"><img src="assets/tools/librosa.svg" height="44" alt="librosa" /><br><sub><b>librosa</b></sub></td>
-    <td align="center"><img src="assets/tools/laion-clap.svg" height="44" alt="LAION-CLAP" /><br><sub><b>LAION-CLAP</b></sub></td>
-    <td align="center"><img src="assets/tools/pillow.svg" height="44" alt="Pillow" /><br><sub><b>Pillow</b></sub></td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <th colspan="8">Web &amp; Cloud</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/tools/nodejs.svg" height="44" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
-    <td align="center"><img src="assets/tools/npm.svg" height="44" alt="npm" /><br><sub><b>npm</b></sub></td>
-    <td align="center"><img src="assets/tools/cloudflare.svg" height="44" alt="Cloudflare" /><br><sub><b>Cloudflare</b></sub></td>
-    <td align="center"><img src="assets/tools/google-apps-script.svg" height="44" alt="Google Apps Script" /><br><sub><b>Apps Script</b></sub></td>
-    <td align="center"><img src="assets/tools/google-sheets.svg" height="44" alt="Google Sheets" /><br><sub><b>Google Sheets</b></sub></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
 ---
 
 ## Credentials & Recognition
 
-<p align="center">
-  <a href="https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15fe2"><img src="assets/credential-simplilearn-square.svg?v=1" width="340" height="340" alt="Data Scientist — Simplilearn Masters Program" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.coursera.org/account/accomplishments/specialization/5ZOKXCS6B7RR"><img src="assets/credential-google-analytics-square.svg?v=2" width="340" height="340" alt="Google Advanced Data Analytics Professional Certificate" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png"><img src="assets/recognition-fire-robot-card.jpg?v=1" width="340" height="340" alt="3rd Place — GALAXIA 2022" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/posts/isdc-learning_starofthemonth-isdclearning-appreciation-activity-7172875899204300801-g55R"><img src="assets/recognition-star-month-card-final.png?v=7" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/denoskume/certifications-and-awards">
-    <img src="assets/nav-credentials.svg" height="44" alt="Credential Archive" />
-  </a>
-</p>
+- Data Scientist — Simplilearn Masters Program
+- Google Advanced Data Analytics Professional Certificate
+- 3rd Place — GALAXIA 2022 Fire-Fighting Robot
+- Star of the Month — ISDC Learning
