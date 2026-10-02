@@ -1,97 +1,64 @@
-name: Build real project cards
+name: Finalize real project cards
 
 on:
   push:
     paths:
       - '.github/workflows/build-real-project-cards.yml'
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  finalize:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install Pillow
-        run: python -m pip install --quiet pillow
-
-      - name: Download real project visuals
-        run: |
-          curl -L --fail --silent --show-error https://raw.githubusercontent.com/denoskume/Python-CardGame/main/docs/cardgame_demo.gif -o /tmp/cardgame.gif
-          curl -L --fail --silent --show-error https://raw.githubusercontent.com/denoskume/monstage/main/docs/assets/monstage_preview_sanitized.png -o /tmp/monstage.png
-
-      - name: Build 360x360 cards
+      - name: Restore project-card layout
         shell: bash
         run: |
           python - <<'PY'
-          from PIL import Image, ImageDraw, ImageFont
           from pathlib import Path
 
-          W = H = 360
-          BORDER = '#D0D5DD'
-          DARK = '#101828'
-          MID = '#344054'
-          LIGHT = '#667085'
-          BG = '#FFFFFF'
+          p = Path('README.md')
+          text = p.read_text()
 
-          def font(size, bold=False):
-              p = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf' if bold else '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
-              return ImageFont.truetype(p, size)
+          old = '''<table align="center" border="1" cellspacing="0" cellpadding="14">
+  <tr>
+    <td align="center" valign="top" width="350">
+      <a href="https://github.com/denoskume/Python-CardGame"><b>Python CardGame</b></a><br><br>
+      <a href="https://github.com/denoskume/Python-CardGame"><img src="https://raw.githubusercontent.com/denoskume/Python-CardGame/main/docs/cardgame_demo.gif" width="320" alt="Python CardGame real gameplay demo" /></a><br><br>
+      <sub>Event-driven three-card tracking game</sub><br>
+      <sub>Pygame · finite-state machine · modular architecture</sub><br>
+      <sub>JSON persistence · timed states</sub>
+    </td>
+    <td align="center" valign="top" width="350">
+      <a href="https://github.com/denoskume/monstage"><b>MonStage</b></a><br><br>
+      <a href="https://github.com/denoskume/monstage"><img src="https://raw.githubusercontent.com/denoskume/monstage/main/docs/assets/monstage_preview_sanitized.png" width="320" alt="MonStage real application interface" /></a><br><br>
+      <sub>Internship discovery, prioritization &amp; application tracking</sub><br>
+      <sub>React · TypeScript · authentication</sub><br>
+      <sub>Cloudflare Worker · Apps Script · responsive UI</sub>
+    </td>
+  </tr>
+</table>'''
 
-          def fit(img, bw, bh):
-              r = min(bw / img.width, bh / img.height)
-              return img.resize((max(1, int(img.width*r)), max(1, int(img.height*r))), Image.Resampling.LANCZOS)
+          new = '''<p align="center">
+  <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-real-card.png?v=1" width="340" height="340" alt="Python CardGame" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/denoskume/monstage"><img src="assets/project-monstage-real-card.png?v=1" width="340" height="340" alt="MonStage" /></a>
+</p>'''
 
-          def rounded_mask(size, radius=10):
-              m = Image.new('L', size, 0)
-              ImageDraw.Draw(m).rounded_rectangle((0,0,size[0]-1,size[1]-1), radius=radius, fill=255)
-              return m
+          if old not in text:
+              raise SystemExit('Expected project table not found')
 
-          def build(preview, eyebrow, title, desc, tech1, tech2, out):
-              img = Image.new('RGB', (W,H), BG)
-              d = ImageDraw.Draw(img)
-              d.rounded_rectangle((1,1,358,358), radius=18, fill=BG, outline=BORDER, width=2)
-              d.text((24,28), eyebrow, fill=LIGHT, font=font(12, True))
-              d.text((24,68), title, fill=DARK, font=font(22, True))
-
-              x,y,w,h = 18,112,324,132
-              d.rounded_rectangle((x,y,x+w,y+h), radius=12, fill='#F8FAFC', outline='#E4E7EC', width=1)
-              p = fit(preview.convert('RGB'), w-8, h-8)
-              px = x + (w-p.width)//2
-              py = y + (h-p.height)//2
-              img.paste(p, (px,py), rounded_mask((p.width,p.height), 8))
-
-              d.text((24,264), desc, fill=MID, font=font(12))
-              d.text((24,306), tech1, fill=LIGHT, font=font(11))
-              d.text((24,326), tech2, fill=LIGHT, font=font(11))
-              img.save(out, 'PNG', optimize=True)
-
-          cg = Image.open('/tmp/cardgame.gif')
-          try:
-              cg.seek(min(8, getattr(cg, 'n_frames', 1)-1))
-          except Exception:
-              pass
-          ms = Image.open('/tmp/monstage.png')
-
-          build(cg, 'PYTHON SOFTWARE ENGINEERING', 'Python CardGame',
-                'Event-driven three-card tracking game',
-                'Pygame · finite-state machine', 'JSON persistence · timed states',
-                'assets/project-cardgame-real-card.png')
-
-          build(ms, 'FULL-STACK PRODUCT · AUTOMATION', 'MonStage',
-                'Internship discovery, prioritization & application tracking',
-                'React · TypeScript · authentication', 'Cloudflare Worker · Apps Script',
-                'assets/project-monstage-real-card.png')
+          p.write_text(text.replace(old, new))
           PY
 
-      - name: Commit cards
+      - name: Remove temporary workflow and commit
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add assets/project-cardgame-real-card.png assets/project-monstage-real-card.png
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m "Build real project cards with matched borders"
+          git rm .github/workflows/build-real-project-cards.yml
+          git add README.md
+          git commit -m "Match real project cards to profile style"
           git push
