@@ -53,7 +53,7 @@ Multidisciplinary training in software development, digital systems, and embedde
 ## Experience
 
 ### Speech AI Evaluation Specialist
-**RWS Moravia** · Freelance · Remote · Aug 2026
+**RWS Moravia** · Freelance · Remote · Aug 2026 - Present
 
 - Evaluated French speech-to-speech AI outputs using structured evaluation criteria.
 - Identified linguistic, conversational, and audio-related issues.
