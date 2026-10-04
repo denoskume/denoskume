@@ -11,10 +11,6 @@
 <div align="center">
   <a href="#about-me"><img src="assets/nav-about.svg" height="38" alt="About me" /></a>
   &nbsp;&nbsp;
-  <a href="#education"><img src="assets/nav-education.svg" height="38" alt="Education" /></a>
-  &nbsp;&nbsp;
-  <a href="#experience"><img src="assets/nav-experience.svg" height="38" alt="Experience" /></a>
-  &nbsp;&nbsp;
   <a href="#selected-projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="36" alt="LinkedIn" /></a>
@@ -28,43 +24,11 @@
 
 ## About me
 
-I am currently finishing an MSc in Data Science, Signal & Image Processing at Centrale Nantes. Before that, I completed a BSc in Computer Science & Electronics at Kristu Jayanti University in Bengaluru.
+I am a final-year MSc student in Data Science, Signal & Image Processing at Centrale Nantes, focused on applied machine learning, computer vision, deep learning, and image processing. I am looking for a **6-month final-year internship starting February 2027** where I can contribute to real technical problems while continuing to learn from an experienced team.
 
-Most of my work is hands-on. I like building a method, testing it, comparing the results, and understanding where it works well or falls short. My recent projects cover image filtering, segmentation, camera calibration, feature tracking, deep learning, and multimodal machine learning.
+My strongest work is project-based and experimental: I build a method, evaluate it with clear metrics, compare alternatives, and examine where the approach succeeds or fails. Recent work includes fraud detection with XGBoost and SHAP, zero-shot audio classification with CLAP, fluoroscopic image processing, segmentation, camera calibration, and feature tracking.
 
-I mainly work with Python and its data and machine learning ecosystem, including NumPy, pandas, SciPy, scikit-learn, Matplotlib, Jupyter, PyTorch, and OpenCV. These tools support the way I work: preparing data, testing methods, comparing results, and checking where a model or pipeline performs well or starts to fail. My experience in AI evaluation has reinforced that habit of looking closely at outputs and explaining results with evidence.
-
-I am looking for a **6-month final-year internship starting February 2027** where I can contribute with these foundations, keep learning, and work on real problems in Data Science, Applied Machine Learning, Computer Vision, Deep Learning, or Image Processing.
-
----
-
-## Education
-
-**MSc Control and Robotics — Data Science, Signal & Image Processing**  
-Centrale Nantes · Nantes, France · `2025 - 2027 (expected)`  
-Focused on modelling, numerical experimentation, optimisation, and method evaluation.
-
-**BSc Computer Science & Electronics**  
-Kristu Jayanti University · Bengaluru, India · `2021 - 2024`  
-Multidisciplinary training in software development, digital systems, and embedded technologies.
-
----
-
-## Experience
-
-### Speech AI Evaluation Specialist
-**RWS Moravia** · Freelance · Remote · Aug 2026 - Present
-
-- Evaluated French speech-to-speech AI outputs using structured evaluation criteria.
-- Identified linguistic, conversational, and audio-related issues.
-- Wrote evidence-based rationales to compare AI responses.
-
-### Data Analyst Intern
-**Unified Mentor Pvt. Ltd.** · Internship · Bengaluru, India · Sep 2024 - Dec 2024
-
-- Cleaned and analyzed structured datasets using Python, pandas, and NumPy.
-- Performed exploratory data analysis and created Power BI dashboards.
-- Summarized findings in concise data reports.
+I mainly work with **Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV, Jupyter, and Git**. What I bring is a solid academic foundation, a careful approach to model evaluation, and the habit of explaining results with evidence rather than treating model output as a black box.
 
 ---
 
