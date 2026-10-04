@@ -11,7 +11,7 @@
 <div align="center">
   <a href="#about-me"><img src="assets/nav-about.svg" height="38" alt="About me" /></a>
   &nbsp;&nbsp;
-  <a href="#selected-projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
+  <a href="#featured-projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="36" alt="LinkedIn" /></a>
   &nbsp;
@@ -32,12 +32,12 @@ I mainly work with **Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV
 
 ---
 
-## Selected Projects
+## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/project-background-subtraction-square.svg?v=2" width="340" height="340" alt="Background Subtraction" /></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification"><img src="assets/project-clap-square.svg?v=2" width="340" height="340" alt="CLAP Audio Classification" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/project-background-subtraction-square.svg?v=2" width="340" height="340" alt="Background Subtraction" /></a>
 </p>
 
 <p align="center">
