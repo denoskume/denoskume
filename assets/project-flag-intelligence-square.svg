@@ -1,0 +1,11 @@
+<svg width="360" height="360" viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="358" height="358" rx="18" fill="#FFFFFF" stroke="#D0D5DD" stroke-width="2"/>
+<text x="24" y="42" fill="#667085" font-family="Segoe UI,Arial" font-size="13" font-weight="700">COMPUTER VISION · AI APPLICATION</text>
+<text x="24" y="96" fill="#101828" font-family="Segoe UI,Arial" font-size="24" font-weight="700">Flag</text>
+<text x="24" y="128" fill="#101828" font-family="Segoe UI,Arial" font-size="24" font-weight="700">Intelligence</text>
+<text x="24" y="185" fill="#344054" font-family="Segoe UI,Arial" font-size="14">250-country taxonomy</text>
+<text x="24" y="209" fill="#344054" font-family="Segoe UI,Arial" font-size="14">MobileNetV3-Small</text>
+<text x="24" y="267" fill="#667085" font-family="Segoe UI,Arial" font-size="13">Open-set · calibration</text>
+<text x="24" y="291" fill="#667085" font-family="Segoe UI,Arial" font-size="13">Top-k · AUROC · AUPR</text>
+<text x="24" y="323" fill="#667085" font-family="Segoe UI,Arial" font-size="13">Streamlit · report generation</text>
+</svg>
