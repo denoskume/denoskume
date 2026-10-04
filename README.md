@@ -26,9 +26,9 @@
 
 I am a final-year MSc student in Data Science, Signal & Image Processing at Centrale Nantes, focused on applied machine learning, computer vision, deep learning, and image processing. I am looking for a **6-month final-year internship starting February 2027** where I can contribute to real technical problems while continuing to learn from an experienced team.
 
-My strongest work is project-based and experimental: I build a method, evaluate it with clear metrics, compare alternatives, and examine where the approach succeeds or fails. Recent work includes fraud detection with XGBoost and SHAP, zero-shot audio classification with CLAP, fluoroscopic image processing, segmentation, camera calibration, and feature tracking.
+My strongest work is project-based and experimental: I build a method, evaluate it with clear metrics, compare alternatives, and examine where the approach succeeds or fails. Recent work includes fraud detection, zero-shot audio classification, fluoroscopic image processing, segmentation, camera calibration, and feature tracking.
 
-I mainly work with **Python, NumPy, pandas, SciPy, scikit-learn, XGBoost, PyTorch, OpenCV, SHAP, Jupyter, and Git**. What I bring is a solid academic foundation, a careful approach to model evaluation, and the habit of explaining results with evidence rather than treating model output as a black box.
+What I bring is a solid academic foundation, a careful approach to model evaluation, and the habit of explaining results with evidence rather than treating model output as a black box.
 
 ---
 
