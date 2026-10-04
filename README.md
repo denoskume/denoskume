@@ -24,15 +24,15 @@
 
 ## About me
 
-I am a final-year MSc student in Data Science, Signal & Image Processing at Centrale Nantes. My main interests are applied machine learning, computer vision, deep learning, and image processing.
+I am completing an MSc in Data Science, Signal & Image Processing at Centrale Nantes, following a BSc in Computer Science & Electronics.
 
-I am looking for a **6-month final-year internship starting in February 2027**. I want to work on real technical problems. I also want to keep learning from an experienced team.
+My work is mainly practical and experiment-driven. I have worked on projects involving computer vision, image processing, camera calibration, segmentation, deep learning, and multimodal machine learning.
 
-Most of my work is project-based. I build a method. I test it. I compare alternatives. I look closely at the results. I also try to understand where an approach works well and where it reaches its limits.
+One of my recent projects focused on zero-shot audio classification using CLAP, where I evaluated different prompting strategies on ESC-50 and improved Top-1 accuracy from 83.05% to 91.15%.
 
-My recent projects include fraud detection, zero-shot audio classification, fluoroscopic image processing, segmentation, camera calibration, and feature tracking.
+Alongside my academic work, I have professional experience evaluating French speech-based AI systems, with a focus on response quality, conversational behavior, linguistic accuracy, and audio-related issues.
 
-I bring a solid academic foundation. I work carefully. I pay attention to model evaluation. I also prefer to explain results with evidence rather than treat model output as a black box.
+I am looking for a 6-month final-year internship starting February 2027 where I can contribute with these foundations, keep learning, and work on real problems in Data Science, Applied Machine Learning, Computer Vision, Deep Learning, or Image Processing.
 
 ---
 
