@@ -26,13 +26,11 @@
 
 I am completing an MSc in Data Science, Signal & Image Processing at Centrale Nantes, following a BSc in Computer Science & Electronics.
 
-My work is mainly practical and experiment-driven. I have worked on projects involving computer vision, image processing, camera calibration, segmentation, deep learning, and multimodal machine learning.
-
-One of my recent projects focused on zero-shot audio classification using CLAP, where I evaluated different prompting strategies on ESC-50 and improved Top-1 accuracy from 83.05% to 91.15%.
+My work is mainly practical and experiment-driven, with a focus on Data Science, Applied Machine Learning, Computer Vision, Deep Learning, and Image Processing. I value careful evaluation, clear interpretation, and understanding both the strengths and limits of a method.
 
 Alongside my academic work, I have professional experience evaluating French speech-based AI systems, with a focus on response quality, conversational behavior, linguistic accuracy, and audio-related issues.
 
-I am looking for a 6-month final-year internship starting February 2027 where I can contribute with these foundations, keep learning, and work on real problems in Data Science, Applied Machine Learning, Computer Vision, Deep Learning, or Image Processing.
+I am looking for a 6-month final-year internship starting February 2027 where I can contribute with these foundations, keep learning, and work on real technical problems with an experienced team.
 
 ---
 
@@ -125,7 +123,7 @@ I am looking for a 6-month final-year internship starting February 2027 where I 
 <p align="center">
   <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png"><img src="assets/recognition-fire-robot-card.jpg?v=1" width="340" height="340" alt="3rd Place — GALAXIA 2022" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/posts/isdc-learning_starofthemonth-isdclearning_appreciation-activity-7172875899204300801-g55R"><img src="assets/recognition-star-month-card-final.png?v=7" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
+  <a href="https://www.linkedin.com/posts/isdc-learning_starofthemonth-isdclearning-appreciation-activity-7172875899204300801-g55R"><img src="assets/recognition-star-month-card-final.png?v=7" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
 </p>
 
 <p align="center">
