@@ -35,15 +35,15 @@ I mainly work with **Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification"><img src="assets/project-clap-square.svg?v=2" width="340" height="340" alt="CLAP Audio Classification" /></a>
+  <a href="https://github.com/denoskume/credit-card-fraud-detection"><img src="assets/project-fraud-detection-square.svg?v=1" width="340" height="340" alt="Credit Card Fraud Detection" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/project-background-subtraction-square.svg?v=2" width="340" height="340" alt="Background Subtraction" /></a>
+  <a href="https://github.com/denoskume/country-flag-recognition"><img src="assets/project-flag-intelligence-square.svg?v=1" width="340" height="340" alt="Flag Intelligence" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-real-card.png?v=1" width="340" height="340" alt="Python CardGame" /></a>
+  <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification"><img src="assets/project-clap-square.svg?v=2" width="340" height="340" alt="CLAP Audio Classification" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/denoskume/monstage"><img src="assets/project-monstage-real-card.png?v=1" width="340" height="340" alt="MonStage" /></a>
+  <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/project-background-subtraction-square.svg?v=2" width="340" height="340" alt="Background Subtraction" /></a>
 </p>
 
 ---
