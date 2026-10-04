@@ -28,7 +28,7 @@ I am a final-year MSc student in Data Science, Signal & Image Processing at Cent
 
 My strongest work is project-based and experimental: I build a method, evaluate it with clear metrics, compare alternatives, and examine where the approach succeeds or fails. Recent work includes fraud detection with XGBoost and SHAP, zero-shot audio classification with CLAP, fluoroscopic image processing, segmentation, camera calibration, and feature tracking.
 
-I mainly work with **Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV, Jupyter, and Git**. What I bring is a solid academic foundation, a careful approach to model evaluation, and the habit of explaining results with evidence rather than treating model output as a black box.
+I mainly work with **Python, NumPy, pandas, SciPy, scikit-learn, XGBoost, PyTorch, OpenCV, SHAP, Jupyter, and Git**. What I bring is a solid academic foundation, a careful approach to model evaluation, and the habit of explaining results with evidence rather than treating model output as a black box.
 
 ---
 
@@ -71,7 +71,7 @@ I mainly work with **Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV
   <tr>
     <td align="center"><img src="assets/tools/react.svg" height="44" alt="React" /><br><sub><b>React</b></sub></td>
     <td align="center"><img src="assets/tools/vite.svg" height="44" alt="Vite" /><br><sub><b>Vite</b></sub></td>
-    <td align="center"><img src="assets/tools/pygame.svg" height="44" alt="Pygame" /><br><sub><b>Pygame</b></sub></td>
+    <td align="center"><img src="assets/tools/pytest.svg" height="44" alt="pytest" /><br><sub><b>pytest</b></sub></td>
     <td align="center"><img src="assets/tools/git.svg" height="44" alt="Git" /><br><sub><b>Git</b></sub></td>
     <td align="center"><img src="assets/tools/github.svg" height="44" alt="GitHub" /><br><sub><b>GitHub</b></sub></td>
     <td align="center"><img src="assets/tools/vscode.svg" height="44" alt="VS Code" /><br><sub><b>VS Code</b></sub></td>
@@ -84,13 +84,13 @@ I mainly work with **Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV
   </tr>
   <tr>
     <td align="center"><img src="assets/tools/pytorch.svg" height="44" alt="PyTorch" /><br><sub><b>PyTorch</b></sub></td>
+    <td align="center"><img src="assets/tools/torchvision.svg" height="44" alt="torchvision" /><br><sub><b>torchvision</b></sub></td>
     <td align="center"><img src="assets/tools/opencv.svg" height="44" alt="OpenCV" /><br><sub><b>OpenCV</b></sub></td>
+    <td align="center"><img src="assets/tools/xgboost.svg" height="44" alt="XGBoost" /><br><sub><b>XGBoost</b></sub></td>
+    <td align="center"><img src="assets/tools/shap.svg" height="44" alt="SHAP" /><br><sub><b>SHAP</b></sub></td>
     <td align="center"><img src="assets/tools/torchaudio.svg" height="44" alt="torchaudio" /><br><sub><b>torchaudio</b></sub></td>
     <td align="center"><img src="assets/tools/librosa.svg" height="44" alt="librosa" /><br><sub><b>librosa</b></sub></td>
     <td align="center"><img src="assets/tools/laion-clap.svg" height="44" alt="LAION-CLAP" /><br><sub><b>LAION-CLAP</b></sub></td>
-    <td align="center"><img src="assets/tools/pillow.svg" height="44" alt="Pillow" /><br><sub><b>Pillow</b></sub></td>
-    <td></td>
-    <td></td>
   </tr>
 
   <tr>
@@ -102,9 +102,9 @@ I mainly work with **Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV
     <td align="center"><img src="assets/tools/cloudflare.svg" height="44" alt="Cloudflare" /><br><sub><b>Cloudflare</b></sub></td>
     <td align="center"><img src="assets/tools/google-apps-script.svg" height="44" alt="Google Apps Script" /><br><sub><b>Apps Script</b></sub></td>
     <td align="center"><img src="assets/tools/google-sheets.svg" height="44" alt="Google Sheets" /><br><sub><b>Google Sheets</b></sub></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center"><img src="assets/tools/streamlit.svg" height="44" alt="Streamlit" /><br><sub><b>Streamlit</b></sub></td>
+    <td align="center"><img src="assets/tools/fastapi.svg" height="44" alt="FastAPI" /><br><sub><b>FastAPI</b></sub></td>
+    <td align="center"><img src="assets/tools/openai.svg" height="44" alt="OpenAI" /><br><sub><b>OpenAI</b></sub></td>
   </tr>
 </table>
 
@@ -121,7 +121,7 @@ I mainly work with **Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, OpenCV
 <p align="center">
   <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png"><img src="assets/recognition-fire-robot-card.jpg?v=1" width="340" height="340" alt="3rd Place — GALAXIA 2022" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/posts/isdc-learning_starofthemonth-isdclearning-appreciation-activity-7172875899204300801-g55R"><img src="assets/recognition-star-month-card-final.png?v=7" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
+  <a href="https://www.linkedin.com/posts/isdc-learning_starofthemonth-isdclearning_appreciation-activity-7172875899204300801-g55R"><img src="assets/recognition-star-month-card-final.png?v=7" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
 </p>
 
 <p align="center">
