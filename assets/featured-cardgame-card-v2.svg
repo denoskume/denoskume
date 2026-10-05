@@ -7,13 +7,14 @@
 <path d="M158 84l10-15 10 15-10 15z" fill="#D43A4E"/>
 <text x="155" y="164" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="23" font-weight="700">Python CardGame</text>
 <text x="155" y="191" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="23" font-weight="700">V2.0</text>
-<text x="30" y="232" fill="#174E70" font-family="Segoe UI,Arial" font-size="13.5">
-<tspan x="30" dy="0">Three-card visual-memory game for desktop</tspan>
-<tspan x="30" dy="21">and browser: follow the red card through an</tspan>
-<tspan x="30" dy="21">animated shuffle and choose its final position.</tspan>
-<tspan x="30" dy="31">V2 adds responsive controls, profiles, local</tspan>
-<tspan x="30" dy="21">persistence, statistics and difficulty levels</tspan>
-<tspan x="30" dy="21">on one shared Python/Pygame game engine.</tspan>
+<text x="26" y="232" fill="#174E70" font-family="Segoe UI,Arial" font-size="13">
+<tspan x="26" dy="0">Three-card visual-memory game for</tspan>
+<tspan x="26" dy="21">desktop and browser play.</tspan>
+<tspan x="26" dy="21">Track the red card through an animated</tspan>
+<tspan x="26" dy="21">shuffle and choose its final position.</tspan>
+<tspan x="26" dy="31">V2 adds responsive controls, profiles,</tspan>
+<tspan x="26" dy="21">local persistence, statistics and difficulty</tspan>
+<tspan x="26" dy="21">on one shared Python/Pygame engine.</tspan>
 </text>
 <rect x="101" y="468" width="108" height="36" rx="18" fill="#EFF3D8"/>
 <text x="155" y="491" text-anchor="middle" fill="#1F2937" font-family="Segoe UI,Arial" font-size="13" font-weight="600">Play V2 live</text>
