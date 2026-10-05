@@ -8,14 +8,14 @@
 <circle cx="172" cy="96" r="5" fill="#FFFFFF"/>
 <text x="155" y="164" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="22" font-weight="700">Background Subtraction</text>
 <text x="155" y="191" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="22" font-weight="700">Fluoroscopy</text>
-<text x="30" y="232" fill="#174E70" font-family="Segoe UI,Arial" font-size="13.5">
-<tspan x="30" dy="0">Neurointerventional image-processing pipeline</tspan>
-<tspan x="30" dy="21">for guidewire and microcatheter motion.</tspan>
-<tspan x="30" dy="21">Spatial and spectral filtering, morphology</tspan>
-<tspan x="30" dy="21">and three segmentation strategies are compared.</tspan>
-<tspan x="30" dy="31">Performance is validated across the sequence</tspan>
-<tspan x="30" dy="21">with SAD, MSE, PSNR, Dice and IoU before</tspan>
-<tspan x="30" dy="21">retaining the final guidance pipeline.</tspan>
+<text x="26" y="232" fill="#174E70" font-family="Segoe UI,Arial" font-size="13">
+<tspan x="26" dy="0">Image-processing pipeline for guidewire</tspan>
+<tspan x="26" dy="21">and microcatheter motion in fluoroscopy.</tspan>
+<tspan x="26" dy="21">Spatial and spectral filtering, morphology</tspan>
+<tspan x="26" dy="21">and three segmentation methods are tested.</tspan>
+<tspan x="26" dy="31">SAD, MSE, PSNR, Dice and IoU validate</tspan>
+<tspan x="26" dy="21">performance across the sequence before</tspan>
+<tspan x="26" dy="21">selecting the final guidance pipeline.</tspan>
 </text>
 <rect x="96" y="468" width="118" height="36" rx="18" fill="#EFF3D8"/>
 <text x="155" y="491" text-anchor="middle" fill="#1F2937" font-family="Segoe UI,Arial" font-size="13" font-weight="600">See pipeline</text>
