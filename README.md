@@ -24,11 +24,13 @@
 
 ## About me
 
-I am interested in applied machine learning and computer vision, especially when they are used to solve real-world problems.
+I am passionate about applied Machine Learning and Computer Vision, particularly when these technologies are used to solve real-world challenges. I enjoy approaching problems methodically, experimenting with different solutions, and understanding why an approach works or reaches its limits.
 
-I enjoy approaching problems step by step, testing different solutions, and understanding why a method works or does not work. I value clear reasoning, careful evaluation, and results that can be explained clearly.
+My approach is based on clear reasoning, rigorous evaluation, and the ability to communicate results in a clear and understandable way.
 
-I am still building my professional experience, but I bring a solid technical foundation, curiosity, and a strong willingness to learn. I am looking for a final-year internship where I can contribute to meaningful technical work, continue improving, and grow within an experienced team.
+While I am still building my professional experience, I have developed a solid foundation through academic projects and personal work. Curiosity, discipline, and a genuine willingness to learn are central to how I work.
+
+I am currently seeking a final-year internship where I can contribute to meaningful projects, continue developing my skills, and grow alongside an experienced and collaborative team.
 
 ---
 
