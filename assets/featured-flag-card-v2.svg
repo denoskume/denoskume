@@ -7,14 +7,14 @@
 <circle cx="167" cy="96" r="16" fill="#0F5C86"/>
 <text x="167" y="101" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI,Arial" font-size="12" font-weight="700">AI</text>
 <text x="155" y="171" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="24" font-weight="700">Flag Intelligence</text>
-<text x="30" y="224" fill="#174E70" font-family="Segoe UI,Arial" font-size="13.5">
-<tspan x="30" dy="0">Recognize a flag or enter a country name,</tspan>
-<tspan x="30" dy="21">then generate structured country intelligence.</tspan>
-<tspan x="30" dy="21">MobileNetV3-Small supports a worldwide</tspan>
-<tspan x="30" dy="21">taxonomy of 250 country and territory classes.</tspan>
-<tspan x="30" dy="31">The shared report pipeline produces long-form</tspan>
-<tspan x="30" dy="21">country profiles with editorial QA and</tspan>
-<tspan x="30" dy="21">professional PDF + JSON export.</tspan>
+<text x="26" y="224" fill="#174E70" font-family="Segoe UI,Arial" font-size="13">
+<tspan x="26" dy="0">Recognize a flag or enter a country</tspan>
+<tspan x="26" dy="21">name to generate country intelligence.</tspan>
+<tspan x="26" dy="21">MobileNetV3-Small covers 250 country</tspan>
+<tspan x="26" dy="21">and territory classes worldwide.</tspan>
+<tspan x="26" dy="31">The shared report pipeline creates</tspan>
+<tspan x="26" dy="21">structured profiles with editorial QA</tspan>
+<tspan x="26" dy="21">and professional PDF + JSON export.</tspan>
 </text>
 <rect x="92" y="468" width="126" height="36" rx="18" fill="#EFF3D8"/>
 <text x="155" y="491" text-anchor="middle" fill="#1F2937" font-family="Segoe UI,Arial" font-size="13" font-weight="600">Open project</text>
