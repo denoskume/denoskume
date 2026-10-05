@@ -48,9 +48,30 @@ I am currently seeking a final-year internship where I can contribute to meaning
   <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/project-background-subtraction-square.svg?v=2" width="340" height="340" alt="Background Subtraction" /></a>
 </p>
 
+<table align="center" width="700">
+  <tr>
+    <td width="340" valign="middle">
+      <sub><b>PYTHON APP · INTERACTIVE GAME</b></sub><br><br>
+      <strong>Python CardGame V2.0</strong><br><br>
+      Pygame · Pygbag<br>
+      desktop + browser<br><br>
+      <sub>Responsive UI · profiles · stats<br>
+      difficulty · persistence · CI/CD</sub>
+    </td>
+    <td width="340" align="center" valign="middle">
+      <a href="https://github.com/denoskume/Python-CardGame">
+        <img src="https://raw.githubusercontent.com/denoskume/Python-CardGame/main/docs/screenshots/v2-home.png" width="320" alt="Python CardGame V2.0 gameplay preview" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://denoskume.github.io/Python-CardGame/"><strong>▶ LIVE WEB BUILD</strong></a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-wide.svg?v=1" width="700" height="340" alt="Python CardGame V2.0" /></a>
-  <br>
   <a href="https://denoskume.github.io/Python-CardGame/"><strong>▶ Play CardGame V2.0 live</strong></a>
 </p>
 
