@@ -1,0 +1,20 @@
+<svg width="310" height="530" viewBox="0 0 310 530" xmlns="http://www.w3.org/2000/svg">
+<rect width="310" height="530" rx="28" fill="#0F5C86"/>
+<rect x="8" y="8" width="294" height="514" rx="24" fill="#FFFFFF" stroke="#D0D5DD"/>
+<circle cx="155" cy="88" r="42" fill="#EAF3F8"/>
+<path d="M130 90h8l5-18 8 35 8-28 7 18 6-13 8 6" fill="none" stroke="#0F5C86" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="155" cy="88" r="7" fill="#55D98A"/>
+<text x="155" y="164" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="23" font-weight="700">CLAP Zero-Shot</text>
+<text x="155" y="191" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="23" font-weight="700">Audio Classification</text>
+<text x="30" y="232" fill="#174E70" font-family="Segoe UI,Arial" font-size="13.5">
+<tspan x="30" dy="0">Zero-shot ESC-50 classification with LAION-CLAP</tspan>
+<tspan x="30" dy="21">and ten natural-language prompt strategies.</tspan>
+<tspan x="30" dy="21">No ESC-50 training or task-specific fine-tuning</tspan>
+<tspan x="30" dy="21">is used in the experiment.</tspan>
+<tspan x="30" dy="31">The best prompt reaches 91.15% Top-1 and</tspan>
+<tspan x="30" dy="21">99.00% Top-5 accuracy — an 8.10 pp gain</tspan>
+<tspan x="30" dy="21">over the class-only prompt baseline.</tspan>
+</text>
+<rect x="89" y="468" width="132" height="36" rx="18" fill="#EFF3D8"/>
+<text x="155" y="491" text-anchor="middle" fill="#1F2937" font-family="Segoe UI,Arial" font-size="13" font-weight="600">View experiment</text>
+</svg>
