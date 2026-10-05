@@ -8,14 +8,14 @@
 <path d="M165 94l3 3 6-8" fill="none" stroke="#0F5C86" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="155" y="164" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="23" font-weight="700">Credit Card Fraud</text>
 <text x="155" y="191" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="23" font-weight="700">Detection</text>
-<text x="30" y="232" fill="#174E70" font-family="Segoe UI,Arial" font-size="13.5">
-<tspan x="30" dy="0">Machine-learning benchmark on 284,807</tspan>
-<tspan x="30" dy="21">real anonymized card transactions.</tspan>
-<tspan x="30" dy="21">Four models are compared with leakage-safe</tspan>
-<tspan x="30" dy="21">validation and PR-AUC focused evaluation.</tspan>
-<tspan x="30" dy="31">Selected XGBoost reaches 0.8557 PR-AUC</tspan>
-<tspan x="30" dy="21">and 0.8384 recall on the held-out test,</tspan>
-<tspan x="30" dy="21">with SHAP used for model explanation.</tspan>
+<text x="26" y="232" fill="#174E70" font-family="Segoe UI,Arial" font-size="13">
+<tspan x="26" dy="0">Machine-learning benchmark on 284,807</tspan>
+<tspan x="26" dy="21">anonymized card transactions.</tspan>
+<tspan x="26" dy="21">Four models use leakage-safe validation</tspan>
+<tspan x="26" dy="21">with PR-AUC focused evaluation.</tspan>
+<tspan x="26" dy="31">XGBoost reaches 0.8557 PR-AUC and</tspan>
+<tspan x="26" dy="21">0.8384 recall on the held-out test.</tspan>
+<tspan x="26" dy="21">SHAP supports model explanation.</tspan>
 </text>
 <rect x="80" y="468" width="150" height="36" rx="18" fill="#EFF3D8"/>
 <text x="155" y="491" text-anchor="middle" fill="#1F2937" font-family="Segoe UI,Arial" font-size="13" font-weight="600">Explore benchmark</text>
