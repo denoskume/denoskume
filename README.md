@@ -48,6 +48,12 @@ I am currently seeking a final-year internship where I can contribute to meaning
   <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/project-background-subtraction-square.svg?v=2" width="340" height="340" alt="Background Subtraction" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-square.svg?v=1" width="340" height="340" alt="Python CardGame V2.0" /></a>
+  <br>
+  <a href="https://denoskume.github.io/Python-CardGame/"><strong>▶ Play CardGame V2.0 live</strong></a>
+</p>
+
 ---
 
 ## Technical Stack
