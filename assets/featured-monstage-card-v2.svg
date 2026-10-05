@@ -7,14 +7,14 @@
 <rect x="149" y="87" width="12" height="7" rx="2" fill="#55D98A"/>
 <path d="M126 88h58" stroke="#FFFFFF" stroke-width="2" opacity="0.75"/>
 <text x="155" y="171" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="24" font-weight="700">MonStage</text>
-<text x="30" y="224" fill="#174E70" font-family="Segoe UI,Arial" font-size="13.5">
-<tspan x="30" dy="0">Private internship intelligence workspace</tspan>
-<tspan x="30" dy="21">built for focused opportunity discovery.</tspan>
-<tspan x="30" dy="21">Search, ranking, filters, shortlist and</tspan>
-<tspan x="30" dy="21">application tracking work across devices.</tspan>
-<tspan x="30" dy="31">React + TypeScript connect through a secure</tspan>
-<tspan x="30" dy="21">Cloudflare gateway to Apps Script and a</tspan>
-<tspan x="30" dy="21">private Stage Intelligence Google Sheet.</tspan>
+<text x="26" y="224" fill="#174E70" font-family="Segoe UI,Arial" font-size="13">
+<tspan x="26" dy="0">Private internship intelligence workspace</tspan>
+<tspan x="26" dy="21">for focused opportunity discovery.</tspan>
+<tspan x="26" dy="21">Search, ranking, filters, shortlist and</tspan>
+<tspan x="26" dy="21">application tracking work across devices.</tspan>
+<tspan x="26" dy="31">React + TypeScript connect securely via</tspan>
+<tspan x="26" dy="21">Cloudflare to Apps Script and a private</tspan>
+<tspan x="26" dy="21">Stage Intelligence Google Sheet.</tspan>
 </text>
 <rect x="92" y="468" width="126" height="36" rx="18" fill="#EFF3D8"/>
 <text x="155" y="491" text-anchor="middle" fill="#1F2937" font-family="Segoe UI,Arial" font-size="13" font-weight="600">Open project</text>
