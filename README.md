@@ -37,42 +37,14 @@ I am currently seeking a final-year internship where I can contribute to meaning
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/denoskume/credit-card-fraud-detection"><img src="assets/project-fraud-detection-square.svg?v=1" width="340" height="340" alt="Credit Card Fraud Detection" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/denoskume/country-flag-recognition"><img src="assets/project-flag-intelligence-square.svg?v=1" width="340" height="340" alt="Flag Intelligence" /></a>
+  <a href="https://github.com/denoskume/credit-card-fraud-detection"><img src="assets/featured-fraud-card-v2.svg?v=1" width="30%" alt="Credit Card Fraud Detection" /></a>
+  <a href="https://github.com/denoskume/country-flag-recognition"><img src="assets/featured-flag-card-v2.svg?v=1" width="30%" alt="Flag Intelligence" /></a>
+  <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification"><img src="assets/featured-clap-card-v2.svg?v=1" width="30%" alt="CLAP Zero-Shot Audio Classification" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification"><img src="assets/project-clap-square.svg?v=2" width="340" height="340" alt="CLAP Audio Classification" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/project-background-subtraction-square.svg?v=2" width="340" height="340" alt="Background Subtraction" /></a>
-</p>
-
-<table align="center" width="700">
-  <tr>
-    <td width="340" valign="middle">
-      <sub><b>PYTHON APP · INTERACTIVE GAME</b></sub><br><br>
-      <strong>Python CardGame V2.0</strong><br><br>
-      Pygame · Pygbag<br>
-      desktop + browser<br><br>
-      <sub>Responsive UI · profiles · stats<br>
-      difficulty · persistence · CI/CD</sub>
-    </td>
-    <td width="340" align="center" valign="middle">
-      <a href="https://github.com/denoskume/Python-CardGame">
-        <img src="https://raw.githubusercontent.com/denoskume/Python-CardGame/main/docs/screenshots/v2-home.png" width="320" alt="Python CardGame V2.0 gameplay preview" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://denoskume.github.io/Python-CardGame/"><strong>▶ LIVE WEB BUILD</strong></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://denoskume.github.io/Python-CardGame/"><strong>▶ Play CardGame V2.0 live</strong></a>
+  <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/featured-background-card-v2.svg?v=1" width="30%" alt="Background Subtraction Fluoroscopy" /></a>
+  <a href="https://denoskume.github.io/Python-CardGame/"><img src="assets/featured-cardgame-card-v2.svg?v=1" width="30%" alt="Python CardGame V2.0" /></a>
 </p>
 
 ---
