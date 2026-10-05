@@ -45,6 +45,7 @@ I am currently seeking a final-year internship where I can contribute to meaning
 <p align="center">
   <a href="https://github.com/denoskume/Background-Subtraction-Fluoroscopy"><img src="assets/featured-background-card-v2.svg?v=1" width="30%" alt="Background Subtraction Fluoroscopy" /></a>
   <a href="https://denoskume.github.io/Python-CardGame/"><img src="assets/featured-cardgame-card-v2.svg?v=1" width="30%" alt="Python CardGame V2.0" /></a>
+  <a href="https://github.com/denoskume/monstage"><img src="assets/featured-monstage-card-v2.svg?v=1" width="30%" alt="MonStage — Private internship intelligence workspace" /></a>
 </p>
 
 ---
