@@ -6,14 +6,14 @@
 <circle cx="155" cy="88" r="7" fill="#55D98A"/>
 <text x="155" y="164" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="23" font-weight="700">CLAP Zero-Shot</text>
 <text x="155" y="191" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="23" font-weight="700">Audio Classification</text>
-<text x="30" y="232" fill="#174E70" font-family="Segoe UI,Arial" font-size="13.5">
-<tspan x="30" dy="0">Zero-shot ESC-50 classification with LAION-CLAP</tspan>
-<tspan x="30" dy="21">and ten natural-language prompt strategies.</tspan>
-<tspan x="30" dy="21">No ESC-50 training or task-specific fine-tuning</tspan>
-<tspan x="30" dy="21">is used in the experiment.</tspan>
-<tspan x="30" dy="31">The best prompt reaches 91.15% Top-1 and</tspan>
-<tspan x="30" dy="21">99.00% Top-5 accuracy — an 8.10 pp gain</tspan>
-<tspan x="30" dy="21">over the class-only prompt baseline.</tspan>
+<text x="26" y="232" fill="#174E70" font-family="Segoe UI,Arial" font-size="13">
+<tspan x="26" dy="0">Zero-shot ESC-50 classification with</tspan>
+<tspan x="26" dy="21">LAION-CLAP and ten prompt strategies.</tspan>
+<tspan x="26" dy="21">No ESC-50 training or task-specific</tspan>
+<tspan x="26" dy="21">fine-tuning is used.</tspan>
+<tspan x="26" dy="31">The best prompt reaches 91.15% Top-1</tspan>
+<tspan x="26" dy="21">and 99.00% Top-5 accuracy, gaining</tspan>
+<tspan x="26" dy="21">8.10 pp over the class-only baseline.</tspan>
 </text>
 <rect x="89" y="468" width="132" height="36" rx="18" fill="#EFF3D8"/>
 <text x="155" y="491" text-anchor="middle" fill="#1F2937" font-family="Segoe UI,Arial" font-size="13" font-weight="600">View experiment</text>
