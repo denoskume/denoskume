@@ -1,0 +1,20 @@
+<svg width="310" height="530" viewBox="0 0 310 530" xmlns="http://www.w3.org/2000/svg">
+<rect width="310" height="530" rx="28" fill="#0F5C86"/>
+<rect x="8" y="8" width="294" height="514" rx="24" fill="#FFFFFF" stroke="#D0D5DD"/>
+<circle cx="155" cy="88" r="42" fill="#EAF3F8"/>
+<rect x="128" y="61" width="36" height="52" rx="6" fill="#FFFFFF" stroke="#0F5C86" stroke-width="3" transform="rotate(-9 146 87)"/>
+<rect x="151" y="62" width="36" height="52" rx="6" fill="#FFFFFF" stroke="#0F5C86" stroke-width="3" transform="rotate(9 169 88)"/>
+<path d="M158 84l10-15 10 15-10 15z" fill="#D43A4E"/>
+<text x="155" y="164" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="23" font-weight="700">Python CardGame</text>
+<text x="155" y="191" text-anchor="middle" fill="#0F5C86" font-family="Segoe UI,Arial" font-size="23" font-weight="700">V2.0</text>
+<text x="30" y="232" fill="#174E70" font-family="Segoe UI,Arial" font-size="13.5">
+<tspan x="30" dy="0">Three-card visual-memory game for desktop</tspan>
+<tspan x="30" dy="21">and browser: follow the red card through an</tspan>
+<tspan x="30" dy="21">animated shuffle and choose its final position.</tspan>
+<tspan x="30" dy="31">V2 adds responsive controls, profiles, local</tspan>
+<tspan x="30" dy="21">persistence, statistics and difficulty levels</tspan>
+<tspan x="30" dy="21">on one shared Python/Pygame game engine.</tspan>
+</text>
+<rect x="101" y="468" width="108" height="36" rx="18" fill="#EFF3D8"/>
+<text x="155" y="491" text-anchor="middle" fill="#1F2937" font-family="Segoe UI,Arial" font-size="13" font-weight="600">Play V2 live</text>
+</svg>
