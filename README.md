@@ -49,7 +49,7 @@ I am currently seeking a final-year internship where I can contribute to meaning
 </p>
 
 <p align="center">
-  <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-square.svg?v=1" width="340" height="340" alt="Python CardGame V2.0" /></a>
+  <a href="https://github.com/denoskume/Python-CardGame"><img src="assets/project-cardgame-wide.svg?v=1" width="700" height="340" alt="Python CardGame V2.0" /></a>
   <br>
   <a href="https://denoskume.github.io/Python-CardGame/"><strong>▶ Play CardGame V2.0 live</strong></a>
 </p>
