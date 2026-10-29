@@ -29,6 +29,7 @@ I hold a dual-major Bachelor's degree in Computer Science and Electronics from I
 I am currently in the final year of my Master's degree at Centrale Nantes, specializing in Data Science, Signal and Image Processing. Through this program, I am further developing my skills in Machine Learning, Deep Learning, Computer Vision, and Signal and Image Processing, with a particular interest in applying these technologies to real-world challenges.
 
 I am now eager to contribute to meaningful projects while continuing to learn from experienced professionals. I am particularly interested in predictive maintenance in the railway and aerospace industries, where AI can help improve equipment reliability and safety. I am seeking a six-month final-year internship starting in February 2027, particularly in Applied Machine Learning, Computer Vision, or Image Processing, and I am open to opportunities across France.
+
 ---
 
 ## Featured Projects
