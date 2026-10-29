@@ -24,14 +24,11 @@
 
 ## About me
 
-I am passionate about applied Machine Learning and Computer Vision, particularly when these technologies are used to solve real-world challenges. I enjoy approaching problems methodically, experimenting with different solutions, and understanding why an approach works or reaches its limits.
+I hold a dual-major Bachelor's degree in Computer Science and Electronics from India. This multidisciplinary education provided me with a solid foundation in programming, algorithms, software development, digital electronics, and embedded systems, while strengthening my interest in intelligent technologies and their practical applications.
 
-My approach is based on clear reasoning, rigorous evaluation, and the ability to communicate results in a clear and understandable way.
+I am currently in the final year of my Master's degree at Centrale Nantes, specializing in Data Science, Signal and Image Processing. Through this program, I am further developing my skills in Machine Learning, Deep Learning, Computer Vision, and Signal and Image Processing, with a particular interest in applying these technologies to real-world challenges.
 
-While I am still building my professional experience, I have developed a solid foundation through academic projects and personal work. Curiosity, discipline, and a genuine willingness to learn are central to how I work.
-
-I am currently seeking a final-year internship where I can contribute to meaningful projects, continue developing my skills, and grow alongside an experienced and collaborative team.
-
+I am now eager to contribute to meaningful projects while continuing to learn from experienced professionals. I am particularly interested in predictive maintenance in the railway and aerospace industries, where AI can help improve equipment reliability and safety. I am seeking a six-month final-year internship starting in February 2027, particularly in Applied Machine Learning, Computer Vision, or Image Processing, and I am open to opportunities across France.
 ---
 
 ## Featured Projects
