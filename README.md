@@ -119,13 +119,13 @@ I am now eager to contribute to meaningful projects while continuing to learn fr
 </p>
 
 <p align="center">
-  <a href="https://github.com/denoskume/certifications-and-awards/blob/main/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png"><img src="assets/recognition-fire-robot-card.jpg?v=1" width="340" height="340" alt="3rd Place — GALAXIA 2022" /></a>
+  <a href="credentials/awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png"><img src="assets/recognition-fire-robot-card.jpg?v=1" width="340" height="340" alt="3rd Place — GALAXIA 2022" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/posts/isdc-learning_starofthemonth-isdclearning_appreciation-activity-7172875899204300801-g55R"><img src="assets/recognition-star-month-card-final.png?v=7" width="340" height="340" alt="Star of the Month — ISDC Learning" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/denoskume/certifications-and-awards">
+  <a href="credentials/README.md">
     <img src="assets/nav-credentials.svg" height="44" alt="Credential Archive" />
   </a>
 </p>
