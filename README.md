@@ -1,27 +1,3 @@
-<a href="https://www.ec-nantes.fr/">
-  <img src="https://www.ec-nantes.fr/medias/photo/logocn-rvb_1648479844750-png?ID_FICHE=1013500&amp;INLINE=FALSE" alt="Centrale Nantes" height="72" align="left" />
-</a>
-
-<img src="assets/readme-last-updated.svg" alt="Last updated 2 Oct 2026" height="62" align="right" />
-
-<br clear="both" />
-
-<img src="assets/readme-internship-card.svg?v=2" width="100%" alt="Seeking a 6-month end-of-studies internship from February 2027 — Applied Machine Learning, Computer Vision and Image Processing" />
-
-<div align="center">
-  <a href="#about-me"><img src="assets/nav-about.svg" height="38" alt="About me" /></a>
-  &nbsp;&nbsp;
-  <a href="#featured-projects"><img src="assets/nav-projects.svg" height="38" alt="Projects" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/denoskume"><img src="assets/linkedin-circle.svg" width="36" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:denoskume@yahoo.com"><img src="assets/email-circle.svg" width="36" alt="Email" /></a>
-  &nbsp;
-  <a href="https://wa.me/33662919468"><img src="assets/whatsapp-circle.svg" width="36" alt="WhatsApp" /></a>
-</div>
-
----
-
 ## About me
 
 Master's student in Control and Robotics at Centrale Nantes. Track: Data Science, Signal and Image Processing. 
