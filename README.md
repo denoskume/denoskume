@@ -1,10 +1,3 @@
-## About me
-
-Master's student in Control and Robotics at Centrale Nantes. Track: Data Science, Signal and Image Processing. 
-I'm seeking a six-month internship starting in February 2027 in Computer Vision, Image Processing, or Industrial Data Analytics.
-
----
-
 ## Featured Projects
 
 <p align="center">
